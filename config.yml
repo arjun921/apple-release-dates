@@ -95,7 +95,7 @@ params:
         hiddenInSingle: true # hide on single page
 
     editPost:
-        URL: "https://github.com/arjun921/apple-release-dates/content"
+        URL: "https://github.com/arjun921/apple-release-dates/blob/master/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
