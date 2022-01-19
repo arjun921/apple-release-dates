@@ -3,7 +3,6 @@ ShowToc = false
 categories = ["ipad"]
 date = 2011-03-10T18:30:00Z
 description = ""
-draft = true
 tags = ["ipad", "2011"]
 title = "iPad 2"
 
