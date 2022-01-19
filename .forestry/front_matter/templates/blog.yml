@@ -21,6 +21,10 @@ fields:
   config:
     required: false
   label: Description
+- name: categories
+  type: tag_list
+  default: []
+  label: Categories
 - name: tags
   type: tag_list
   default: []
@@ -28,5 +32,3 @@ fields:
 - name: ShowToc
   type: boolean
   label: ShowToc
-pages:
-- content/iPad/ipad-1st-generation.md
