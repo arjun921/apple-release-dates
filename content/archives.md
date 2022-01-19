@@ -1,6 +1,8 @@
----
-title: "Archive"
-layout: "archives"
-# url: "/archives"
-summary: "archives"
----
++++
+title = "Archive"
+layout = "archives"
+draft = false
+[menu.main]
+  identifier = "archive"
+  weight = 7
++++
