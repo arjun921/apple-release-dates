@@ -32,3 +32,5 @@ fields:
 - name: ShowToc
   type: boolean
   label: ShowToc
+pages:
+- content/iPad/ipad-1st-generation.md
