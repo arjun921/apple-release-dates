@@ -8,14 +8,14 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-# googleAnalytics: G-KNN3GNBQKQ
+googleAnalytics: G-KNN3GNBQKQ
 
 minify:
     disableXML: true
     minifyOutput: true
 
 params:
-    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    # env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: AppleReleaseDate
     description: "AppleReleaseDate description"
     keywords: [Blog, Portfolio, PaperMod]
