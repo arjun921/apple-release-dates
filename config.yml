@@ -15,7 +15,7 @@ minify:
     minifyOutput: true
 
 params:
-    # env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: AppleReleaseDate
     description: "AppleReleaseDate description"
     keywords: [Blog, Portfolio, PaperMod]
