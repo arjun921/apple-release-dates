@@ -1,4 +1,4 @@
-baseURL: "http://AppleReleaseDate.com/"
+baseURL: "https://AppleReleaseDate.com/"
 title: AppleReleaseDate
 paginate: 5
 theme: PaperMod
