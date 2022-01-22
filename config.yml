@@ -144,19 +144,6 @@ params:
          A concise timeline of Apple products, helping you make the wait/buy decision.
 
 
-         A Few points to keep in mind:
-
-             - There are no predictions, data is updated only after official releases. 
-             - If you find wrong entries, use the "Suggest Edit" button to open a PR on Github
-             - Purely for educational purposes, not affliated to Apple.
-
-          
-         Like this project? 
-
-         
-         Support us on Buy Me A Coffee and help us keep going :)
-
-
     socialIcons:
         - name: github
           url: "https://github.com/arjun921/apple-release-dates"
