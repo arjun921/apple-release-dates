@@ -2,8 +2,8 @@
 ShowToc = false
 categories = ['iPad']
 date = 2017-06-13 00:00:00
-description = "Entry for iPad Pro 10.5 Inch (2nd generation)"
-title = "iPad Pro 10.5 Inch (2nd generation)"
+description = "Entry for iPad Pro 10.5 Inch (2nd Generation)"
+title = "iPad Pro 10.5 Inch (2nd Generation)"
 tags = ['iPad Pro 10.5 Inch', '2017']
 
 +++

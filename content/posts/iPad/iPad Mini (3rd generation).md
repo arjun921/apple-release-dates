@@ -2,8 +2,8 @@
 ShowToc = false
 categories = ['iPad']
 date = 2014-10-22 00:00:00
-description = "Entry for iPad Mini (3rd generation)"
-title = "iPad Mini (3rd generation)"
+description = "Entry for iPad Mini (3rd Generation)"
+title = "iPad Mini (3rd Generation)"
 tags = ['iPad Mini', '2014']
 
 +++

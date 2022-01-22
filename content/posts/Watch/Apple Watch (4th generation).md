@@ -2,8 +2,8 @@
 ShowToc = false
 categories = ['Watch']
 date = 2018-09-21 00:00:00
-description = "Entry for Apple Watch (4th generation)"
-title = "Apple Watch (4th generation)"
+description = "Entry for Apple Watch (4th Generation)"
+title = "Apple Watch (4th Generation)"
 tags = ['Apple Watch', '2018']
 
 +++
