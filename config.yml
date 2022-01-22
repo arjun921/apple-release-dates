@@ -108,7 +108,7 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Apple Release Dates"
+    description: "A concise timeline, helping you make the wait/buy decision easier."
     author: Arjun Sunil
     # author: ["Me", "You"] # multiple authors
 
@@ -141,19 +141,14 @@ params:
     homeInfoParams:
         Title: "Apple Release Dates"
         Content: >
-         This site was built to show trends of Apple product releases over years.
-         
-         
-         If yes based on past trends; during which month is it likely to release.
+         A concise timeline of Apple products, helping you make the wait/buy decision.
 
-          ---
+
          A Few points to keep in mind:
 
              - There are no predictions, data is updated only after official releases. 
              - If you find wrong entries, use the "Suggest Edit" button to open a PR on Github
-             - Purely for educational purposes, not affliated to Apple. 
-             - Whats your source?
-               - Wikipedia.
+             - Purely for educational purposes, not affliated to Apple.
 
           
          Like this project? 
