@@ -1,5 +1,5 @@
 baseURL: "https://AppleReleaseDate.com/"
-title: AppleReleaseDates
+title: Apple Release Date
 paginate: 5
 theme: hugo-PaperMod
 
@@ -139,7 +139,7 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "Apple Release Dates"
+        Title: "Apple Release Date"
         Content: >
          A concise timeline of Apple products, helping you make the wait/buy decision.
 
