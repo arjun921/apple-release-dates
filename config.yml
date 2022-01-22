@@ -33,6 +33,8 @@ languages:
                 - name: Categories
                   url: categories/
                   weight: 10
+                - name: Source
+                  url: https://docs.google.com/spreadsheets/d/1vQJ3psvi0Kl6_tecq3SV_mCMuQPvnXxnQ2MLN2uc128/edit?usp=sharing
 
     # fr:
     #     languageName: ":fr:"
@@ -127,12 +129,25 @@ params:
     homeInfoParams:
         Title: "Apple Release Dates"
         Content: >
+         This site was built to show trends of Apple product releases over years.
+         
+         
+         If yes based on past trends; during which month is it likely to release.
+
+
+         A Few points to keep in mind:
+
+
+             - There are no predictions, data is updated only after official releases. 
+             - If you find wrong entries, use the "Suggest Edit" button to open a PR on Github
+             - Purely for educational purposes, not affliated to Apple. 
+
 
     socialIcons:
         - name: github
-          url: "https://github.com/adityatelange/hugo-PaperMod"
-        - name: KoFi
-          url: "https://ko-fi.com/adityatelange"
+          url: "https://github.com/arjun921/apple-release-dates"
+        - name: buymeacoffee
+          url: "https://buymeacoffee.com/arjun921"
         - name: RsS
           url: "index.xml"
 
