@@ -1,5 +1,5 @@
-baseURL: "https://adityatelange.github.io/hugo-PaperMod/"
-title: PaperMod
+baseURL: "https://AppleReleaseDates.com/"
+title: AppleReleaseDates
 paginate: 5
 theme: hugo-PaperMod
 
@@ -94,8 +94,8 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-    author: Theme PaperMod
+    description: "Apple Release Dates as a list"
+    author: Arjun Sunil
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
