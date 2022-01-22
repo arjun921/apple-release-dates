@@ -21,13 +21,13 @@ languages:
         weight: 1
         menu:
             main:
-                - name: Archive
+                - name: Timeline
                   url: archives
                   weight: 5
                 - name: Search
                   url: search/
                   weight: 10
-                - name: Tags
+                - name: Products
                   url: tags/
                   weight: 10
                 - name: Categories
