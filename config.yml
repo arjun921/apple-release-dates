@@ -167,6 +167,8 @@ params:
           url: "https://github.com/arjun921/apple-release-dates"
         - name: buymeacoffee
           url: "https://buymeacoffee.com/arjun921"
+        - name: twitter
+          url: https://twitter.com/apple_release
         - name: RsS
           url: "index.xml"
 
