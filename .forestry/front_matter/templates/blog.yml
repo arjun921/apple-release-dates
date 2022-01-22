@@ -14,6 +14,10 @@ fields:
 - type: text
   name: description
   label: description
+- name: categories
+  type: tag_list
+  default: []
+  label: categories
 - type: list
   name: tags
   label: tags
