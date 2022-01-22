@@ -21,6 +21,6 @@ We don't post content about the actual product.
 
 
 
-This page is just meant to be a placeholder for blogging system to pickup dated entries. 
+This page is just meant to be a placeholder for blogging system to pickup dated entries :)
 
 
