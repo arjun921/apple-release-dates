@@ -10,3 +10,9 @@ tags = ['iPad Pro 12.9 Inch', '2015']
 
 Source: https://en.wikipedia.org/wiki/IPad
 
+Lost?
+You might want to checkout these links:
+- Major Products: https://applereleasedate.com/categories/
+- Subproducts with Year filter: https://applereleasedate.com/tags/
+- Year segregated timeline: https://applereleasedate.com/archives/
+
