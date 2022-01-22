@@ -29,7 +29,7 @@ languages:
                   url: categories/watch/
                   weight: 2
                 - name: .iPhone
-                  url: categories/iPhone/
+                  url: categories/iphone/
                   weight: 2
                 - name: Timeline
                   url: archives
