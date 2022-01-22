@@ -24,3 +24,4 @@ _testmain.go
 
 /public
 .DS_Store
+# generator/.ipynb_checkpoints/generate_blogposts-checkpoint.ipynb
