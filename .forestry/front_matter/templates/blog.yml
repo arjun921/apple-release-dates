@@ -1,0 +1,26 @@
+---
+label: Blog
+hide_body: false
+fields:
+- type: text
+  name: author
+  label: author
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- name: categories
+  type: tag_list
+  default: []
+  label: categories
+- type: list
+  name: tags
+  label: tags
+- type: boolean
+  name: ShowToc
+  label: ShowToc
