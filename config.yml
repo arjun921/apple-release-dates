@@ -1,6 +1,6 @@
 baseURL: "https://AppleReleaseDate.com/"
 title: Apple Release Date
-paginate: 5
+paginate: 10
 theme: hugo-PaperMod
 
 enableInlineShortcodes: true
@@ -9,7 +9,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableEmoji: true
-# googleAnalytics: G-KNN3GNBQKQ
+googleAnalytics: G-KNN3GNBQKQ
 
 
 minify:
