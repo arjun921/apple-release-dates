@@ -9,7 +9,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableEmoji: true
-# googleAnalytics: G-KNN3GNBQKQ
+googleAnalytics: G-KNN3GNBQKQ
 
 
 minify:
@@ -123,7 +123,7 @@ params:
     ShowCodeCopyButtons: true
     ShowToc: true
     # comments: false
-    images: ["papermod-cover.png"]
+    # images: ["papermod-cover.png"]
 
     profileMode:
         enabled: false
