@@ -7,7 +7,7 @@ tags = ['Macbook Pro 13 inch', '2010', 'Macbook Pro']
 
 +++
 
-### The Macbook Pro 13 inch (Mid 2010) / Macbook Pro 13 inch 2nd Generation was released on: 
+### The Macbook Pro 13 inch (Mid 2010) / Macbook Pro 13 inch (2nd Generation - Unibody) was released on: 
 #### April 13, 2010
 
 
@@ -24,5 +24,5 @@ You might also like:
 
 
 
-<kbd> Source: </kbd>
+<kbd> Source: https://en.wikipedia.org/wiki/MacBook_Pro</kbd>
 

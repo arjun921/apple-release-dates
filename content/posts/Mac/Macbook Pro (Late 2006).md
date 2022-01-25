@@ -7,7 +7,7 @@ tags = ['Macbook Pro', '2006']
 
 +++
 
-### The Macbook Pro (Late 2006) / Macbook Pro 1st Generation was released on: 
+### The Macbook Pro (Late 2006) / Macbook Pro (1st Generation - Aluminum) was released on: 
 #### October 24, 2006
 
 

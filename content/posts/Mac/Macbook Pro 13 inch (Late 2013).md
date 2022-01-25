@@ -1,14 +1,14 @@
 +++
 ShowToc = false
 categories = ['Mac']
-date = 2011-02-24 00:00:00
-title = "Macbook Pro 13 inch (Early 2011)"
-tags = ['Macbook Pro 13 inch', '2011', 'Macbook Pro']
+date = 2013-10-22 00:00:00
+title = "Macbook Pro 13 inch (Late 2013)"
+tags = ['Macbook Pro 13 inch', '2013', 'Macbook Pro']
 
 +++
 
-### The Macbook Pro 13 inch (Early 2011) / Macbook Pro 13 inch (2nd Generation - Unibody) was released on: 
-#### February 24, 2011
+### The Macbook Pro 13 inch (Late 2013) / Macbook Pro 13 inch (3rd Generation - Retina) was released on: 
+#### October 22, 2013
 
 
 <!--more-->
@@ -19,7 +19,7 @@ You might also like:
 
 - [All Mac Release Dates](https://AppleReleaseDate.com/categories/mac/)
 - [Macbook Pro 13 inch Release Dates](https://AppleReleaseDate.com/tags/macbook-pro-13-inch/)
-- [Releases in 2011](https://AppleReleaseDate.com/tags/2011/)
+- [Releases in 2013](https://AppleReleaseDate.com/tags/2013/)
 - [All Apple Products](https://AppleReleaseDate.com/categories/)
 
 

@@ -7,7 +7,7 @@ tags = ['Macbook Pro 15 inch', '2012', 'Macbook Pro']
 
 +++
 
-### The Macbook Pro 15 inch (Mid 2012) / Macbook Pro 15 inch 2nd Generation was released on: 
+### The Macbook Pro 15 inch (Mid 2012) / Macbook Pro 15 inch (3rd Generation - Retina) was released on: 
 #### June 11, 2012
 
 
@@ -24,5 +24,5 @@ You might also like:
 
 
 
-<kbd> Source: </kbd>
+<kbd> Source: https://en.wikipedia.org/wiki/MacBook_Pro</kbd>
 

@@ -7,7 +7,7 @@ tags = ['Macbook Pro 17 inch', '2009', 'Macbook Pro']
 
 +++
 
-### The Macbook Pro 17 inch (Early 2009) / Macbook Pro 17 inch 2nd Generation was released on: 
+### The Macbook Pro 17 inch (Early 2009) / Macbook Pro 17 inch (2nd Generation - Unibody) was released on: 
 #### January 06, 2009
 
 
@@ -24,5 +24,5 @@ You might also like:
 
 
 
-<kbd> Source: </kbd>
+<kbd> Source: https://en.wikipedia.org/wiki/MacBook_Pro</kbd>
 

@@ -7,7 +7,7 @@ tags = ['Macbook Pro 17 inch', '2006', 'Macbook Pro']
 
 +++
 
-### The Macbook Pro 17 inch (Early 2006) / Macbook Pro 17 inch 1st Generation was released on: 
+### The Macbook Pro 17 inch (Early 2006) / Macbook Pro 17 inch (1st Generation - Aluminum) was released on: 
 #### April 24, 2006
 
 

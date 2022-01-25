@@ -7,7 +7,7 @@ tags = ['Macbook Pro 13 inch', '2011', 'Macbook Pro']
 
 +++
 
-### The Macbook Pro 13 inch (Late 2011) / Macbook Pro 13 inch 2nd Generation was released on: 
+### The Macbook Pro 13 inch (Late 2011) / Macbook Pro 13 inch (2nd Generation - Unibody) was released on: 
 #### October 24, 2011
 
 
@@ -24,5 +24,5 @@ You might also like:
 
 
 
-<kbd> Source: </kbd>
+<kbd> Source: https://en.wikipedia.org/wiki/MacBook_Pro</kbd>
 

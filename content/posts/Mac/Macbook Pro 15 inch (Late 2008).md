@@ -7,7 +7,7 @@ tags = ['Macbook Pro 15 inch', '2008', 'Macbook Pro']
 
 +++
 
-### The Macbook Pro 15 inch (Late 2008) / Macbook Pro 15 inch 2nd Generation was released on: 
+### The Macbook Pro 15 inch (Late 2008) / Macbook Pro 15 inch (2nd Generation - Unibody) was released on: 
 #### October 14, 2008
 
 
@@ -24,5 +24,5 @@ You might also like:
 
 
 
-<kbd> Source: </kbd>
+<kbd> Source: https://en.wikipedia.org/wiki/MacBook_Pro</kbd>
 
