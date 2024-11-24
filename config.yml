@@ -1,5 +1,5 @@
-baseURL: "https://AppleReleaseDate.com/"
-title: Apple Release Date
+baseURL: "https://AppleReleaseDates.com/"
+title: Apple Release Dates
 paginate: 10
 theme: hugo-PaperMod
 
@@ -14,7 +14,7 @@ googleAnalytics: G-KNN3GNBQKQ
 
 minify:
     disableXML: true
-    # minifyOutput: true
+    minifyOutput: true
 
 languages:
     en:
@@ -142,7 +142,7 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "Apple Release Date"
+        Title: "Apple Release Dates"
         Content: >
          A concise timeline of Apple products, helping you make the wait/buy decision.
 
