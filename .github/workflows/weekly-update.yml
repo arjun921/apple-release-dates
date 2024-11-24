@@ -33,12 +33,28 @@ jobs:
 
       # Run your Python script
       - name: Run Python script
+
         run: |
-          python scripts/dump_apple.py
-          python scripts/generate_pages.py
+            python scripts/dump_apple.py
+            python scripts/generate_pages.py
 
       - name: Run pre-commit hooks
         run: pre-commit run --all-files || true
+
+      # Commit changes
+      - name: Commit
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          if ! git diff --cached --quiet; then
+            git commit -m "Auto update source and listing"
+            git push
+          else
+            echo "No changes to commit"
+          fi
 
       # Create Pull Request
       - name: Create Pull Request
