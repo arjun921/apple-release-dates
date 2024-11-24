@@ -3,7 +3,7 @@ name: Weekly Update
 # Schedule the workflow to run every week
 on:
   schedule:
-    - cron: '0 0 * * 0' # Runs every Sunday at midnight (UTC)
+    - cron: '0 0 * * 2,3,6' # Runs every Tuesday, Wednesday, and Saturday at 00:00 UTC, considering Monday, Tuesday, and Friday as days with most releases
   workflow_dispatch: # Allows manual triggering of the workflow
 
 jobs:
@@ -26,12 +26,20 @@ jobs:
         run: |
           pip install -r scripts/requirements.txt
 
+      - name: Install pre-commit
+        run: |
+          pip install pre-commit
+          pre-commit install
+
       # Run your Python script
       - name: Run Python script
 
         run: |
             python scripts/dump_apple.py
             python scripts/generate_pages.py
+
+      - name: Run pre-commit hooks
+        run: pre-commit run --all-files
 
       # Commit and push changes
       - name: Commit and push changes
