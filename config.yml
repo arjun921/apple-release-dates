@@ -2,6 +2,9 @@ baseURL: "https://AppleReleaseDates.com/"
 title: Apple Release Dates
 paginate: 10
 theme: PaperMod
+languageCode: en
+defaultContentLanguage: en
+
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -232,3 +235,4 @@ services:
         disableInlineCSS: true
     twitter:
         disableInlineCSS: true
+
