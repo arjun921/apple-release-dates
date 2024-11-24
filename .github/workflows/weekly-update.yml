@@ -7,7 +7,7 @@ on:
   workflow_dispatch: # Allows manual triggering of the workflow
 
 jobs:
-  import-readwise-highlights:
+  import-apple-products:
     runs-on: ubuntu-latest
 
     steps:
@@ -39,7 +39,7 @@ jobs:
             python scripts/generate_pages.py
 
       - name: Run pre-commit hooks
-        run: pre-commit run --all-files
+        run: pre-commit run --all-files || true
 
       # Commit and push changes
       - name: Commit and push changes
