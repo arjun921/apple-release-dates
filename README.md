@@ -1,6 +1,7 @@
 # Apple Release Dates
 
 ![Weekly Pipeline](https://github.com/arjun921/apple-release-dates/actions/workflows/weekly-update.yml/badge.svg)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/89da98e3-1c46-4909-aec1-48d7d90d4f99/deploy-status)](https://app.netlify.com/sites/jovial-beaver-6d753f/deploys)
 
 This repository contains a list of Apple product release dates. The data is stored in a JSON file and is updated weekly using GitHub Actions.
 
