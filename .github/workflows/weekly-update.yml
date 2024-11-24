@@ -40,6 +40,7 @@ jobs:
       - name: Run pre-commit hooks
         run: pre-commit run --all-files || true
 
+      # Create Pull Request
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:
@@ -48,4 +49,4 @@ jobs:
           branch: auto-update
           title: "Auto update source and listing"
           body: "This PR is created automatically by GitHub Actions to update the source and listing."
-          labels: ["auto-update"]
+          labels: "auto-update"
