@@ -1,57 +1,30 @@
-# hugo-paperMod Example
+# Apple Release Dates
 
-This repository offers an example site for [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
+![Weekly Pipeline](https://github.com/arjun921/apple-release-dates/actions/workflows/weekly-update.yml/badge.svg)
 
-## Install
+This repository contains a list of Apple product release dates. The data is stored in a JSON file and is updated weekly using GitHub Actions.
 
-Read Wiki => [hugo-PaperMod - Installation](https://github.com/adityatelange/hugo-PaperMod/wiki/Installation)
-
-## Directory Tree
+## Data
+The data is stored in a JSON file named `data/apple_products.json`. The JSON file contains the following fields:
 
 ```
-.(site root)
-├── configTaxo.yml
-├── config.yml
-├── content
-│   ├── archives.fr.md
-│   ├── archives.md
-│   ├── posts
-│   │   ├── emoji-support.md
-│   │   ├── markdown-syntax.fa.md
-│   │   ├── markdown-syntax.fr.md
-│   │   ├── markdown-syntax.md
-│   │   ├── math-typesetting.md
-│   │   ├── papermod
-│   │   │   ├── _index.md
-│   │   │   ├── papermod-faq.md
-│   │   │   ├── papermod-features
-│   │   │   │   ├── images
-│   │   │   │   │   ├── homeinfo.jpg
-│   │   │   │   │   ├── profile.jpg
-│   │   │   │   │   └── regular.jpg
-│   │   │   │   └── index.md
-│   │   │   ├── papermod-icons.md
-│   │   │   ├── papermod-installation.md
-│   │   │   └── papermod-variables.md
-│   │   ├── placeholder-text.md
-│   │   └── rich-content.md
-│   ├── search.fr.md
-│   ├── search.md
-│   └── tags
-├── LICENSE
-├── README.md
-├── resources
-│   └── _gen
-│       ├── assets
-│       └── images
-├── static
-│   ├── android-chrome-192x192.png
-│   ├── android-chrome-512x512.png
-│   ├── apple-touch-icon.png
-│   ├── favicon-16x16.png
-│   ├── favicon-32x32.png
-│   ├── favicon.ico
-│   └── papermod-cover.png
-└── themes
-    └── hugo-PaperMod
+{
+    "Released": "September 20, 2024",
+    "Model": "Apple Watch Series 10",
+    "Source link": "https://en.wikipedia.org/wiki/Apple_Watch",
+    "Family": "Apple Watch",
+    "Discontinued": "current"
+}
 ```
+
+There's also a `data/apple_products.csv` file that contains the same data in CSV format.
+
+# Scripts
+The `scripts` folder contains Python scripts to scrape the release dates from Wikipedia and update the JSON file.
+It also has a script that converts the CSV file to a post on the website. 
+
+# Website
+The webpage is based on Hugo and hosted on Netlify.
+
+# Contributing
+If you have any suggestions or would like to contribute, feel free to open an issue or a pull request!
