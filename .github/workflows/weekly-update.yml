@@ -37,6 +37,7 @@ jobs:
         run: |
             python scripts/dump_apple.py
             python scripts/generate_pages.py
+            git add .
 
       - name: Run pre-commit hooks
         run: pre-commit run --all-files || true
@@ -46,7 +47,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          pre-commit run --all-files || true 
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add .
