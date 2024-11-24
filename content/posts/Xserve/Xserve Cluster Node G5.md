@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Xserve', 'Xserve', '2004']
+categories = ['Xserve', '2004', 'Xserve']
 date = 2004-01-06 00:00:00
 title = "Xserve Cluster Node G5"
-tags = ['Xserve', 'Xserve', '2004']
+tags = ['Xserve', '2004']
 summary = " "
 
 +++

@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['iPhone', 'iPhone', '2021']
+categories = ['iPhone', '2021', 'iPhone']
 date = 2021-09-24 00:00:00
 title = "iPhone 13 Mini"
-tags = ['iPhone', 'iPhone', '2021']
+tags = ['iPhone', '2021']
 summary = " "
 
 +++

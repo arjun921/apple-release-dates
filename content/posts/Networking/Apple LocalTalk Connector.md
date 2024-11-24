@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Networking', 'Networking', '1985']
+categories = ['Networking', '1985', 'Networking']
 date = 1985-01-01 00:00:00
 title = "Apple LocalTalk Connector"
-tags = ['Networking', 'Networking', '1985']
+tags = ['Networking', '1985']
 summary = " "
 
 +++

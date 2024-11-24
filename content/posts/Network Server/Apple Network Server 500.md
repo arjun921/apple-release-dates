@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Network Server', 'Network-Server', '1996']
+categories = ['Network Server', '1996', 'Network Server']
 date = 1996-02-15 00:00:00
 title = "Apple Network Server 500"
-tags = ['Network Server', 'Network-Server', '1996']
+tags = ['Network Server', '1996']
 summary = " "
 
 +++

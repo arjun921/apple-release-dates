@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Keyboards', 'Keyboards', '2020']
+categories = ['Keyboards', '2020', 'Keyboards']
 date = 2020-03-18 00:00:00
 title = "Magic Keyboard for iPad"
-tags = ['Keyboards', 'Keyboards', '2020']
+tags = ['Keyboards', '2020']
 summary = " "
 
 +++

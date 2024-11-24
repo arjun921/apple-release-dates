@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['iPod accessories', 'iPod', '2006']
+categories = ['iPod accessories', '2006', 'Accessories', 'iPod']
 date = 2006-01-10 00:00:00
 title = "iPod Radio Remote"
-tags = ['iPod accessories', 'iPod', '2006']
+tags = ['iPod accessories', '2006']
 summary = " "
 
 +++

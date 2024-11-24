@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Pointing devices', 'Pointing-devices', '2010']
+categories = ['Pointing devices', '2010', 'Pointing devices']
 date = 2010-07-27 00:00:00
 title = "Magic Trackpad"
-tags = ['Pointing devices', 'Pointing-devices', '2010']
+tags = ['Pointing devices', '2010']
 summary = " "
 
 +++

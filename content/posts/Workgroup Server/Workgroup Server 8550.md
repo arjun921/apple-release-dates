@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Workgroup Server', 'Workgroup-Server', '1996']
+categories = ['Workgroup Server', '1996', 'Workgroup Server']
 date = 1996-02-26 00:00:00
 title = "Workgroup Server 8550"
-tags = ['Workgroup Server', 'Workgroup-Server', '1996']
+tags = ['Workgroup Server', '1996']
 summary = " "
 
 +++

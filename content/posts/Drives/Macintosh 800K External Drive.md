@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Drives', 'Drives', '1986']
+categories = ['Drives', '1986', 'Drives']
 date = 1986-01-16 00:00:00
 title = "Macintosh 800K External Drive"
-tags = ['Drives', 'Drives', '1986']
+tags = ['Drives', '1986']
 summary = " "
 
 +++

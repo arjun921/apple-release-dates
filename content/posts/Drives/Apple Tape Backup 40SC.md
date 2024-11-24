@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Drives', 'Drives', '1987']
+categories = ['Drives', '1987', 'Drives']
 date = 1987-08-01 00:00:00
 title = "Apple Tape Backup 40SC"
-tags = ['Drives', 'Drives', '1987']
+tags = ['Drives', '1987']
 summary = " "
 
 +++

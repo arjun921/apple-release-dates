@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Displays', 'Displays', '1989']
+categories = ['Displays', '1989', 'Displays']
 date = 1989-03-07 00:00:00
 title = "Apple Two Page Monochrome Monitor"
-tags = ['Displays', 'Displays', '1989']
+tags = ['Displays', '1989']
 summary = " "
 
 +++

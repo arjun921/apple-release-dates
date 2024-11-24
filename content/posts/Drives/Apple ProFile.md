@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Drives', 'Drives', '1981']
+categories = ['Drives', '1981', 'Drives']
 date = 1981-09-01 00:00:00
 title = "Apple ProFile"
-tags = ['Drives', 'Drives', '1981']
+tags = ['Drives', '1981']
 summary = " "
 
 +++

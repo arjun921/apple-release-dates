@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Quadra', 'Quadra', '1994']
+categories = ['Quadra', '1994', 'Quadra']
 date = 1994-02-28 00:00:00
 title = "Quadra 610 DOS Compatible"
-tags = ['Quadra', 'Quadra', '1994']
+tags = ['Quadra', '1994']
 summary = " "
 
 +++

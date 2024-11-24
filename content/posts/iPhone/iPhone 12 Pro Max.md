@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['iPhone', 'iPhone', '2020']
+categories = ['iPhone', '2020', 'iPhone']
 date = 2020-11-13 00:00:00
 title = "iPhone 12 Pro Max"
-tags = ['iPhone', 'iPhone', '2020']
+tags = ['iPhone', '2020']
 summary = " "
 
 +++

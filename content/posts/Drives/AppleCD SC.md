@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Drives', 'Drives', '1988']
+categories = ['Drives', '1988', 'Drives']
 date = 1988-03-01 00:00:00
 title = "AppleCD SC"
-tags = ['Drives', 'Drives', '1988']
+tags = ['Drives', '1988']
 summary = " "
 
 +++

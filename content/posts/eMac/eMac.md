@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['eMac', 'eMac', '2002']
+categories = ['eMac', '2002', 'eMac']
 date = 2002-04-29 00:00:00
 title = "eMac"
-tags = ['eMac', 'eMac', '2002']
+tags = ['eMac', '2002']
 summary = " "
 
 +++

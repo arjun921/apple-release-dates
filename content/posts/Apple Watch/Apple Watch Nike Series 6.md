@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Apple Watch', 'Apple-Watch', '2020']
+categories = ['Apple Watch', '2020', 'Apple Watch']
 date = 2020-09-18 00:00:00
 title = "Apple Watch Nike Series 6"
-tags = ['Apple Watch', 'Apple-Watch', '2020']
+tags = ['Apple Watch', '2020']
 summary = " "
 
 +++

@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Headphones', 'Headphones', '2016']
+categories = ['Headphones', '2016', 'Headphones']
 date = 2016-09-16 00:00:00
 title = "EarPodswith Lightning Connector"
-tags = ['Headphones', 'Headphones', '2016']
+tags = ['Headphones', '2016']
 summary = " "
 
 +++

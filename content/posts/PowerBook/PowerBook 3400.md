@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['PowerBook', 'PowerBook', '1997']
+categories = ['PowerBook', '1997', 'PowerBook']
 date = 1997-02-17 00:00:00
 title = "PowerBook 3400"
-tags = ['PowerBook', 'PowerBook', '1997']
+tags = ['PowerBook', '1997']
 summary = " "
 
 +++

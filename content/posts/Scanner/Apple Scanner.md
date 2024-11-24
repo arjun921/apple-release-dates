@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Scanner', 'Scanner', '1988']
+categories = ['Scanner', '1988', 'Scanner']
 date = 1988-08-01 00:00:00
 title = "Apple Scanner"
-tags = ['Scanner', 'Scanner', '1988']
+tags = ['Scanner', '1988']
 summary = " "
 
 +++

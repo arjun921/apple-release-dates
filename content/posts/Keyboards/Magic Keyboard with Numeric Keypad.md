@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Keyboards', 'Keyboards', '2017']
+categories = ['Keyboards', '2017', 'Keyboards']
 date = 2017-06-05 00:00:00
 title = "Magic Keyboard with Numeric Keypad"
-tags = ['Keyboards', 'Keyboards', '2017']
+tags = ['Keyboards', '2017']
 summary = " "
 
 +++

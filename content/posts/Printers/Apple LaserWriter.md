@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Printers', 'Printers', '1985']
+categories = ['Printers', '1985', 'Printers']
 date = 1985-01-01 00:00:00
 title = "Apple LaserWriter"
-tags = ['Printers', 'Printers', '1985']
+tags = ['Printers', '1985']
 summary = " "
 
 +++

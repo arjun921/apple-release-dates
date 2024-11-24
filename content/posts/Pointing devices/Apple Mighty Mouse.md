@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Pointing devices', 'Pointing-devices', '2005']
+categories = ['Pointing devices', '2005', 'Pointing devices']
 date = 2005-08-02 00:00:00
 title = "Apple Mighty Mouse"
-tags = ['Pointing devices', 'Pointing-devices', '2005']
+tags = ['Pointing devices', '2005']
 summary = " "
 
 +++

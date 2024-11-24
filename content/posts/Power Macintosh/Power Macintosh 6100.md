@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Power Macintosh', 'Power-Macintosh', '1994']
+categories = ['Power Macintosh', '1994', 'Power Macintosh']
 date = 1994-03-14 00:00:00
 title = "Power Macintosh 6100"
-tags = ['Power Macintosh', 'Power-Macintosh', '1994']
+tags = ['Power Macintosh', '1994']
 summary = " "
 
 +++

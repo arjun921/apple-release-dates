@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Display', 'Displays', '1993']
+categories = ['Display', '1993', 'Displays']
 date = 1993-08-01 00:00:00
 title = "Apple AudioVision 14 Display"
-tags = ['Display', 'Displays', '1993']
+tags = ['Display', '1993']
 summary = " "
 
 +++

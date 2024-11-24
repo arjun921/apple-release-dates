@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Apple II', 'Computers-and-Accessories', '1977']
+categories = ['Apple II', '1977', 'Computers and Accessories']
 date = 1977-06-01 00:00:00
 title = "Apple II"
-tags = ['Apple II', 'Computers-and-Accessories', '1977']
+tags = ['Apple II', '1977']
 summary = " "
 
 +++

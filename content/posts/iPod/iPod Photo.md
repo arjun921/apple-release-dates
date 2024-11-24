@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['iPod Classic', 'iPod', '2004']
+categories = ['iPod Classic', '2004', 'iPod']
 date = 2004-10-26 00:00:00
 title = "iPod Photo"
-tags = ['iPod Classic', 'iPod', '2004']
+tags = ['iPod Classic', '2004']
 summary = " "
 
 +++

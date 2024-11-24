@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Drives', 'Drives', '1986']
+categories = ['Drives', '1986', 'Drives']
 date = 1986-09-15 00:00:00
 title = "Apple Hard Disk 20SC"
-tags = ['Drives', 'Drives', '1986']
+tags = ['Drives', '1986']
 summary = " "
 
 +++

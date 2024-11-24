@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Printers', 'Printers', '1979']
+categories = ['Printers', '1979', 'Printers']
 date = 1979-06-01 00:00:00
 title = "Apple SilenType"
-tags = ['Printers', 'Printers', '1979']
+tags = ['Printers', '1979']
 summary = " "
 
 +++

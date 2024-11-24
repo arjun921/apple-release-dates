@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Display', 'Displays', '1992']
+categories = ['Display', '1992', 'Displays']
 date = 1992-09-14 00:00:00
 title = "Apple Performa Plus Display"
-tags = ['Display', 'Displays', '1992']
+tags = ['Display', '1992']
 summary = " "
 
 +++

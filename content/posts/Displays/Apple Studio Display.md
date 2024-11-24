@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Displays', 'Displays', '2022']
+categories = ['Displays', '2022', 'Displays']
 date = 2022-03-18 00:00:00
 title = "Apple Studio Display"
-tags = ['Displays', 'Displays', '2022']
+tags = ['Displays', '2022']
 summary = " "
 
 +++

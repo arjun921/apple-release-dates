@@ -1,0 +1,15 @@
++++
+ShowToc = false
+categories = ['PowerBook G4', '2003', 'PowerBook G4']
+date = 2003-09-16 00:00:00
+title = "PowerBook G4 Aluminum (15\")"
+tags = ['PowerBook G4', '2003']
+summary = " "
+
++++
+
+The PowerBook G4 Aluminum (15") was released on 2003-09-16 00:00:00.
+
+Source: `https://en.wikipedia.org/wiki/PowerBook_G4`
+
+

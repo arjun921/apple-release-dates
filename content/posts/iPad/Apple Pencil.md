@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['iPad', 'iPad', '2015']
+categories = ['iPad', '2015', 'iPad']
 date = 2015-11-11 00:00:00
 title = "Apple Pencil"
-tags = ['iPad', 'iPad', '2015']
+tags = ['iPad', '2015']
 summary = " "
 
 +++

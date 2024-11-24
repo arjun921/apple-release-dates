@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['iPhone accessories', 'iPhone', '2020']
+categories = ['iPhone accessories', '2020', 'Accessories', 'iPhone']
 date = 2020-11-13 00:00:00
 title = "MagSafe Duo Charger"
-tags = ['iPhone accessories', 'iPhone', '2020']
+tags = ['iPhone accessories', '2020']
 summary = " "
 
 +++

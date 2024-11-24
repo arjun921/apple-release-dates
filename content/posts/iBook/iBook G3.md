@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['iBook', 'iBook', '1999']
+categories = ['iBook', '1999', 'iBook']
 date = 1999-07-21 00:00:00
 title = "iBook G3"
-tags = ['iBook', 'iBook', '1999']
+tags = ['iBook', '1999']
 summary = " "
 
 +++

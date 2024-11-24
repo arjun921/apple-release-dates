@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Input Device Accessories', 'Accessories', '2010']
+categories = ['Input Device Accessories', '2010', 'Accessories', 'Accessories']
 date = 2010-07-27 00:00:00
 title = "Apple Battery Charger"
-tags = ['Input Device Accessories', 'Accessories', '2010']
+tags = ['Input Device Accessories', '2010']
 summary = " "
 
 +++

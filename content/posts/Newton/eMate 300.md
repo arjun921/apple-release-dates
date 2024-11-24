@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Newton', 'Newton', '1997']
+categories = ['Newton', '1997', 'Newton']
 date = 1997-03-07 00:00:00
 title = "eMate 300"
-tags = ['Newton', 'Newton', '1997']
+tags = ['Newton', '1997']
 summary = " "
 
 +++

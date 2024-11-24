@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Xserve', 'Xserve', '2002']
+categories = ['Xserve', '2002', 'Xserve']
 date = 2002-05-14 00:00:00
 title = "Xserve"
-tags = ['Xserve', 'Xserve', '2002']
+tags = ['Xserve', '2002']
 summary = " "
 
 +++

@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Headphones', 'Headphones', '2007']
+categories = ['Headphones', '2007', 'Headphones']
 date = 2007-06-29 00:00:00
 title = "iPhone Bluetooth Headset"
-tags = ['Headphones', 'Headphones', '2007']
+tags = ['Headphones', '2007']
 summary = " "
 
 +++

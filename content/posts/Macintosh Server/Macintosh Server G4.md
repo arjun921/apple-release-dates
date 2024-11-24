@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Macintosh Server', 'Macintosh-Server', '1999']
+categories = ['Macintosh Server', '1999', 'Macintosh Server']
 date = 1999-08-31 00:00:00
 title = "Macintosh Server G4"
-tags = ['Macintosh Server', 'Macintosh-Server', '1999']
+tags = ['Macintosh Server', '1999']
 summary = " "
 
 +++

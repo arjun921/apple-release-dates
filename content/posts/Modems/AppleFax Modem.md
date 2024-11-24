@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Modems', 'Modems', '1987']
+categories = ['Modems', '1987', 'Modems']
 date = 1987-08-01 00:00:00
 title = "AppleFax Modem"
-tags = ['Modems', 'Modems', '1987']
+tags = ['Modems', '1987']
 summary = " "
 
 +++

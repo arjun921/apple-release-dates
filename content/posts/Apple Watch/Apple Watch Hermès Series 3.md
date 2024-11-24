@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Apple Watch', 'Apple-Watch', '2017']
+categories = ['Apple Watch', '2017', 'Apple Watch']
 date = 2017-09-22 00:00:00
 title = "Apple Watch Hermès Series 3"
-tags = ['Apple Watch', 'Apple-Watch', '2017']
+tags = ['Apple Watch', '2017']
 summary = " "
 
 +++

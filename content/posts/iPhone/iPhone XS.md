@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['iPhone', 'iPhone', '2018']
+categories = ['iPhone', '2018', 'iPhone']
 date = 2018-09-21 00:00:00
 title = "iPhone XS"
-tags = ['iPhone', 'iPhone', '2018']
+tags = ['iPhone', '2018']
 summary = " "
 
 +++

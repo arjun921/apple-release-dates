@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['QuickTake', 'QuickTake', '1994']
+categories = ['QuickTake', '1994', 'QuickTake']
 date = 1994-02-01 00:00:00
 title = "Apple QuickTake 100"
-tags = ['QuickTake', 'QuickTake', '1994']
+tags = ['QuickTake', '1994']
 summary = " "
 
 +++

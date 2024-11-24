@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Quadra', 'Quadra', '1991']
+categories = ['Quadra', '1991', 'Quadra']
 date = 1991-10-21 00:00:00
 title = "Macintosh Quadra 700"
-tags = ['Quadra', 'Quadra', '1991']
+tags = ['Quadra', '1991']
 summary = " "
 
 +++

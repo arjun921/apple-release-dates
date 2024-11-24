@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['PowerCD', 'PowerCD', '1993']
+categories = ['PowerCD', '1993', 'PowerCD']
 date = 1993-03-22 00:00:00
 title = "PowerCD"
-tags = ['PowerCD', 'PowerCD', '1993']
+tags = ['PowerCD', '1993']
 summary = " "
 
 +++

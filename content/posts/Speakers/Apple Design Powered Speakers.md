@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Speakers', 'Speakers', '1993']
+categories = ['Speakers', '1993', 'Speakers']
 date = 1993-03-22 00:00:00
 title = "Apple Design Powered Speakers"
-tags = ['Speakers', 'Speakers', '1993']
+tags = ['Speakers', '1993']
 summary = " "
 
 +++

@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['iPhone accessories', 'iPhone', '2021']
+categories = ['iPhone accessories', '2021', 'Accessories', 'iPhone']
 date = 2021-04-30 00:00:00
 title = "AirTag"
-tags = ['iPhone accessories', 'iPhone', '2021']
+tags = ['iPhone accessories', '2021']
 summary = " "
 
 +++

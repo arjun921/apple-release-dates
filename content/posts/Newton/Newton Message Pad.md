@@ -1,9 +1,9 @@
 +++
 ShowToc = false
-categories = ['Newton', 'Newton', '1993']
+categories = ['Newton', '1993', 'Newton']
 date = 1993-08-16 00:00:00
 title = "Newton Message Pad"
-tags = ['Newton', 'Newton', '1993']
+tags = ['Newton', '1993']
 summary = " "
 
 +++
