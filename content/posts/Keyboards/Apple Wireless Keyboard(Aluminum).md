@@ -11,5 +11,3 @@ summary = " "
 The Apple Wireless Keyboard(Aluminum) was released on 2007-08-07 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Apple_Wireless_Keyboard`
-
-

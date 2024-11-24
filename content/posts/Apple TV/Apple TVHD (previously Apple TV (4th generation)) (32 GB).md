@@ -11,5 +11,3 @@ summary = " "
 The Apple TVHD (previously Apple TV (4th generation)) (32 GB) was released on 2015-10-30 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Apple_TV`
-
-

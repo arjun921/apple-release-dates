@@ -11,5 +11,3 @@ summary = " "
 The iPod Shuffle(2nd gen) was released on 2006-09-12 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IPod_Shuffle`
-
-

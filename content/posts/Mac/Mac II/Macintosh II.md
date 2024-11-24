@@ -11,5 +11,3 @@ summary = " "
 The Macintosh II was released on 1987-03-02 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Macintosh_II`
-
-

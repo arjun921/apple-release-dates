@@ -11,5 +11,3 @@ summary = " "
 The Siri Remote(3rd generation) was released on 2022-11-04 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Siri_Remote`
-
-

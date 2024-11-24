@@ -11,5 +11,3 @@ summary = " "
 The Magic Keyboard with Numeric Keypad was released on 2017-06-05 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Apple_Keyboard`
-
-

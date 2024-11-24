@@ -11,5 +11,3 @@ summary = " "
 The Macintosh LC 520 was released on 1993-06-28 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Macintosh_LC_520`
-
-

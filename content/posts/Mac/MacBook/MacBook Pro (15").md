@@ -11,5 +11,3 @@ summary = " "
 The MacBook Pro (15") was released on 2006-02-14 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/MacBook_Pro`
-
-

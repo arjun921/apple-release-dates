@@ -11,5 +11,3 @@ summary = " "
 The Apple Dot Matrix Printer was released on 1982-10-01 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Apple_Dot_Matrix_Printer`
-
-

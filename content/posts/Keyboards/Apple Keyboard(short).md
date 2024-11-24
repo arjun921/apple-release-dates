@@ -11,5 +11,3 @@ summary = " "
 The Apple Keyboard(short) was released on 2009-03-03 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Apple_Keyboard`
-
-

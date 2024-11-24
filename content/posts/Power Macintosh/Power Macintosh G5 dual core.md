@@ -11,5 +11,3 @@ summary = " "
 The Power Macintosh G5 dual core was released on 2005-10-19 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Power_Macintosh_G5`
-
-

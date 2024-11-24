@@ -11,5 +11,3 @@ summary = " "
 The Magic Trackpad 2 (USB-C) was released on 2024-10-28 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Magic_Trackpad_2`
-
-

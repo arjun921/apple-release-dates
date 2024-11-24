@@ -11,5 +11,3 @@ summary = " "
 The MacBook Air(Retina, 13-inch, 2020) was released on 2020-03-18 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/MacBook_Air_(Intel-based)`
-
-

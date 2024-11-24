@@ -11,5 +11,3 @@ summary = " "
 The AirPods Pro was released on 2019-10-30 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/AirPods_Pro`
-
-

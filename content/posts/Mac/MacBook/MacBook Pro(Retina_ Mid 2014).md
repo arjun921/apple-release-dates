@@ -11,5 +11,3 @@ summary = " "
 The MacBook Pro(Retina, Mid 2014) was released on 2014-07-29 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/MacBook_Pro`
-
-

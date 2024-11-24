@@ -11,5 +11,3 @@ summary = " "
 The Apple Watch Nike Series 6 was released on 2020-09-18 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Apple_Watch_Series_6`
-
-

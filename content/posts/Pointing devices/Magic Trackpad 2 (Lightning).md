@@ -11,5 +11,3 @@ summary = " "
 The Magic Trackpad 2 (Lightning) was released on 2015-10-13 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Magic_Trackpad_2`
-
-

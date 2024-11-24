@@ -11,5 +11,3 @@ summary = " "
 The Apple TV(3rd generation Rev A) was released on 2013-01-28 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Apple_TV`
-
-

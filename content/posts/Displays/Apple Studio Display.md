@@ -11,5 +11,3 @@ summary = " "
 The Apple Studio Display was released on 2022-03-18 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Apple_Studio_Display`
-
-

@@ -11,5 +11,3 @@ summary = " "
 The iPhone 6S(32 GB) was released on 2016-09-16 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IPhone_6S`
-
-

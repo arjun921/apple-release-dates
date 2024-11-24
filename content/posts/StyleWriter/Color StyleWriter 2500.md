@@ -11,5 +11,3 @@ summary = " "
 The Color StyleWriter 2500 was released on 1996-02-19 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Color_StyleWriter_2500`
-
-

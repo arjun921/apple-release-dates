@@ -11,5 +11,3 @@ summary = " "
 The iPad Mini 4(16 GB and 64 GB) was released on 2015-09-09 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IPad_Mini_4`
-
-

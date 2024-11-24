@@ -11,5 +11,3 @@ summary = " "
 The iBook (FireWire) was released on 2000-09-13 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IBook`
-
-

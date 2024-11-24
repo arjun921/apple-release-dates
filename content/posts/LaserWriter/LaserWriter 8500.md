@@ -11,5 +11,3 @@ summary = " "
 The LaserWriter 8500 was released on 1997-08-05 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/LaserWriter`
-
-

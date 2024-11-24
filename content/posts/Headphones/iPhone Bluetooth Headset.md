@@ -11,5 +11,3 @@ summary = " "
 The iPhone Bluetooth Headset was released on 2007-06-29 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Apple_headphones`
-
-

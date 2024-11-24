@@ -11,5 +11,3 @@ summary = " "
 The MacBook Pro(13-inch, 2017, Two Thunderbolt 3 ports) was released on 2017-06-05 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/MacBook_Pro`
-
-

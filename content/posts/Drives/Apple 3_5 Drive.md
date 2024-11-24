@@ -11,5 +11,3 @@ summary = " "
 The Apple 3.5 Drive was released on 1986-09-15 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Macintosh_External_Disk_Drive#Apple_3.5"_Drive`
-
-

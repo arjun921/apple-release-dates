@@ -11,5 +11,3 @@ summary = " "
 The iBook G3 was released on 1999-07-21 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IBook_G3`
-
-

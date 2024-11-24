@@ -11,5 +11,3 @@ summary = " "
 The eMac was released on 2002-04-29 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/EMac`
-
-

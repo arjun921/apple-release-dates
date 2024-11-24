@@ -11,5 +11,3 @@ summary = " "
 The MacBook Pro(Mid 2010) was released on 2010-04-13 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/MacBook_Pro`
-
-

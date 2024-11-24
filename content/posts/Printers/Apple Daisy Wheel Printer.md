@@ -11,5 +11,3 @@ summary = " "
 The Apple Daisy Wheel Printer was released on 1982-10-01 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Apple_Daisy_Wheel_Printer`
-
-

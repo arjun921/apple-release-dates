@@ -11,5 +11,3 @@ summary = " "
 The iBook (white) was released on 2001-05-01 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IBook`
-
-

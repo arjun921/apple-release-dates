@@ -11,5 +11,3 @@ summary = " "
 The iPod Nano(1st gen) was released on 2005-09-07 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IPod_Nano`
-
-

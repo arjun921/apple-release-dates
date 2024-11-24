@@ -11,5 +11,3 @@ summary = " "
 The iPhone 5 was released on 2012-09-21 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IPhone_5`
-
-

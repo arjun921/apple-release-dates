@@ -11,5 +11,3 @@ summary = " "
 The Macintosh IIcx was released on 1989-03-07 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Macintosh_IIcx`
-
-

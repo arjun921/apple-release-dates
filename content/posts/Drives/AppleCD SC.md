@@ -11,5 +11,3 @@ summary = " "
 The AppleCD SC was released on 1988-03-01 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/AppleCD_SC`
-
-

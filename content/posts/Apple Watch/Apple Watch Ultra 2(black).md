@@ -11,5 +11,3 @@ summary = " "
 The Apple Watch Ultra 2(black) was released on 2024-09-20 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Apple_Watch_Ultra`
-
-

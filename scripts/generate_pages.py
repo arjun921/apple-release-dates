@@ -10,7 +10,6 @@ df["released"] = pd.to_datetime(df["released"], format="mixed")
 
 
 def generate_page(data):
-
     categories = generate_categories(data)
     tags = generate_tags(data)
     date = data.released.strftime("%Y-%m-%d %H:%M:%S")

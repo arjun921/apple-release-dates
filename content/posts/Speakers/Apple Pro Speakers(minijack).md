@@ -11,5 +11,3 @@ summary = " "
 The Apple Pro Speakers(minijack) was released on 2001-01-09 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Apple_speakers`
-
-

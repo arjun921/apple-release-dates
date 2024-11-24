@@ -11,5 +11,3 @@ summary = " "
 The PowerBook 180c was released on 1993-06-07 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/PowerBook_180c`
-
-

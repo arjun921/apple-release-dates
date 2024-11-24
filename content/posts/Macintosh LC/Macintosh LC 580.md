@@ -11,5 +11,3 @@ summary = " "
 The Macintosh LC 580 was released on 1995-04-03 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Macintosh_LC_580`
-
-

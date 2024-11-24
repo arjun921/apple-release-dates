@@ -52,7 +52,7 @@ languages:
                 # - name: Categories
                 #   url: categories/
                 #   weight: 10
-                
+
 
     # fr:
     #     languageName: ":fr:"
@@ -235,4 +235,3 @@ services:
         disableInlineCSS: true
     twitter:
         disableInlineCSS: true
-

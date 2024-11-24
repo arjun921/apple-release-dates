@@ -11,5 +11,3 @@ summary = " "
 The iPhone 6 Plus(128 GB) was released on 2014-09-19 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IPhone_6_Plus`
-
-

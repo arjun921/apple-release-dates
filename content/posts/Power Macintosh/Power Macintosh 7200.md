@@ -11,5 +11,3 @@ summary = " "
 The Power Macintosh 7200 was released on 1995-08-07 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Power_Macintosh_7200`
-
-

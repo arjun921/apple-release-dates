@@ -11,5 +11,3 @@ summary = " "
 The Macintosh Quadra 950 was released on 1992-05-18 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Macintosh_Quadra_950`
-
-

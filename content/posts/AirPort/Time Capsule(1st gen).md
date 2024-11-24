@@ -11,5 +11,3 @@ summary = " "
 The Time Capsule(1st gen) was released on 2008-02-29 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Apple_Time_Capsule`
-
-

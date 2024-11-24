@@ -11,5 +11,3 @@ summary = " "
 The Macintosh 512Ke was released on 1986-04-14 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Macintosh_512Ke`
-
-

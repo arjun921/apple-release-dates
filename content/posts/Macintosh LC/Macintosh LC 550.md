@@ -11,5 +11,3 @@ summary = " "
 The Macintosh LC 550 was released on 1994-02-01 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Macintosh_LC_550`
-
-

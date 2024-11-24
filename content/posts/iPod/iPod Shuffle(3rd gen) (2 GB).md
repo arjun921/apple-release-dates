@@ -11,5 +11,3 @@ summary = " "
 The iPod Shuffle(3rd gen) (2 GB) was released on 2009-09-09 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IPod_Shuffle`
-
-

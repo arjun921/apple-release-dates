@@ -11,5 +11,3 @@ summary = " "
 The MacBook(Mid 2009) was released on 2009-05-27 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/MacBook`
-
-

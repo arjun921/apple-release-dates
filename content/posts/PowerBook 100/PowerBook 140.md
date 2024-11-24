@@ -11,5 +11,3 @@ summary = " "
 The PowerBook 140 was released on 1991-10-21 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/PowerBook_140`
-
-

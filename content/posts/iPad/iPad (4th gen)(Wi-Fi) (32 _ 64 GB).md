@@ -11,5 +11,3 @@ summary = " "
 The iPad (4th gen)(Wi-Fi) (32 & 64 GB) was released on 2012-11-02 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IPad_(4th_generation)`
-
-

@@ -11,5 +11,3 @@ summary = " "
 The Apple LaserWriter Plus was released on 1986-01-16 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Wikipedia:Cleanup`
-
-

@@ -11,5 +11,3 @@ summary = " "
 The iBook G4 (12" / 14") was released on 2003-10-22 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IBook`
-
-

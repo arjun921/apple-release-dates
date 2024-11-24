@@ -11,5 +11,3 @@ summary = " "
 The iMac G4 17" was released on 2002-08-01 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IMac_G4`
-
-

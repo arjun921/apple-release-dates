@@ -11,5 +11,3 @@ summary = " "
 The iPad Air 2(16 & 64 GB) was released on 2014-10-22 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IPad_Air_2`
-
-

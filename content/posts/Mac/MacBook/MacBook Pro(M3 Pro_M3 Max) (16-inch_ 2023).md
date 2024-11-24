@@ -11,5 +11,3 @@ summary = " "
 The MacBook Pro(M3 Pro/M3 Max) (16-inch, 2023) was released on 2023-11-07 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/MacBook_Pro`
-
-

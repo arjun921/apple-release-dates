@@ -11,5 +11,3 @@ summary = " "
 The MacBook Pro(Early 2009) (17") was released on 2009-01-06 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/MacBook_Pro`
-
-

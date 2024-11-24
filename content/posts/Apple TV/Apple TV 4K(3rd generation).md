@@ -11,5 +11,3 @@ summary = " "
 The Apple TV 4K(3rd generation) was released on 2022-11-04 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Apple_TV_4K`
-
-

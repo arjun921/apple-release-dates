@@ -11,5 +11,3 @@ summary = " "
 The Macintosh Plus (Platinum) was released on 1987-01-01 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Macintosh_Plus`
-
-

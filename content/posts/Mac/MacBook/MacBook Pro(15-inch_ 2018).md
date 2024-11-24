@@ -11,5 +11,3 @@ summary = " "
 The MacBook Pro(15-inch, 2018) was released on 2018-07-12 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/MacBook_Pro`
-
-

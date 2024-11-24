@@ -11,5 +11,3 @@ summary = " "
 The iMac(27-inch, Late 2013) was released on 2013-09-24 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IMac`
-
-

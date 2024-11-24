@@ -11,5 +11,3 @@ summary = " "
 The LaserWriter Pro 810 was released on 1993-10-01 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/LaserWriter_Pro_810`
-
-

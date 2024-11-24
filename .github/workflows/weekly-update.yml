@@ -28,7 +28,7 @@ jobs:
 
       # Run your Python script
       - name: Run Python script
-        
+
         run: |
             python scripts/dump_apple.py
             python scripts/generate_pages.py

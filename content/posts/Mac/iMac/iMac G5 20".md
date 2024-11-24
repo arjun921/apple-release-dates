@@ -11,5 +11,3 @@ summary = " "
 The iMac G5 20" was released on 2004-08-31 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IMac_G5`
-
-

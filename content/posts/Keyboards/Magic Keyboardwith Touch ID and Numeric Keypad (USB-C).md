@@ -11,5 +11,3 @@ summary = " "
 The Magic Keyboardwith Touch ID and Numeric Keypad (USB-C) was released on 2024-10-28 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Magic_Keyboard_(Mac)`
-
-

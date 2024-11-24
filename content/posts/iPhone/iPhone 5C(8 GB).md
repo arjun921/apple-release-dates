@@ -11,5 +11,3 @@ summary = " "
 The iPhone 5C(8 GB) was released on 2014-03-18 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IPhone_5C`
-
-

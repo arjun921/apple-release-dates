@@ -11,5 +11,3 @@ summary = " "
 The MacBook Pro(13-inch, 2019, Four Thunderbolt 3 ports) was released on 2019-05-21 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/MacBook_Pro`
-
-

@@ -11,5 +11,3 @@ summary = " "
 The MacBook Pro(Retina, Late 2013) was released on 2013-10-22 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/MacBook_Pro`
-
-

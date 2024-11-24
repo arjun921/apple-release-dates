@@ -11,5 +11,3 @@ summary = " "
 The PowerBook 190 was released on 1995-08-28 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/PowerBook_190`
-
-

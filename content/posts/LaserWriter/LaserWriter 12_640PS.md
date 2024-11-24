@@ -11,5 +11,3 @@ summary = " "
 The LaserWriter 12/640PS was released on 1996-05-01 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/LaserWriter_12/640PS`
-
-

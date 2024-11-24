@@ -11,5 +11,3 @@ summary = " "
 The Apple ColorMonitor IIc was released on 1985-09-01 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Apple_displays`
-
-

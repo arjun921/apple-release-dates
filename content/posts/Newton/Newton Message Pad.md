@@ -11,5 +11,3 @@ summary = " "
 The Newton Message Pad was released on 1993-08-16 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Apple_Newton`
-
-

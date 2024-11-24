@@ -11,5 +11,3 @@ summary = " "
 The iPhone 3GS(16 & 32 GB) was released on 2009-06-19 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IPhone_3GS`
-
-

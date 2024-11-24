@@ -11,5 +11,3 @@ summary = " "
 The iPod Touch (3rd generation) was released on 2009-09-09 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IPod_touch_(3rd_generation)`
-
-

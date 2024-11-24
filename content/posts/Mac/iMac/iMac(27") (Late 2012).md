@@ -11,5 +11,3 @@ summary = " "
 The iMac(27") (Late 2012) was released on 2012-12-01 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IMac`
-
-

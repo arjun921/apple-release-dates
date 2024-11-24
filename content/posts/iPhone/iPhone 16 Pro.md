@@ -11,5 +11,3 @@ summary = " "
 The iPhone 16 Pro was released on 2024-09-20 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IPhone_16_Pro`
-
-

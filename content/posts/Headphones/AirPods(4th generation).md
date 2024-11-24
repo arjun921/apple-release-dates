@@ -11,5 +11,3 @@ summary = " "
 The AirPods(4th generation) was released on 2024-09-20 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/AirPods`
-
-

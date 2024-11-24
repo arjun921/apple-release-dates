@@ -11,5 +11,3 @@ summary = " "
 The MacBook Pro(13-inch, 2020, Two Thunderbolt 3 ports) was released on 2020-05-04 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/MacBook_Pro`
-
-

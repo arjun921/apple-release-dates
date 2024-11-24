@@ -11,5 +11,3 @@ summary = " "
 The AppleColor 100 was released on 1984-12-01 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Apple_displays`
-
-

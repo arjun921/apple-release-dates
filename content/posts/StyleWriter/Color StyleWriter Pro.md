@@ -11,5 +11,3 @@ summary = " "
 The Color StyleWriter Pro was released on 1994-02-01 00:00:00.
 
 Source: `nan`
-
-

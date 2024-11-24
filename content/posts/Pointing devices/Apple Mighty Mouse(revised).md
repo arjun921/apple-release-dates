@@ -11,5 +11,3 @@ summary = " "
 The Apple Mighty Mouse(revised) was released on 2007-08-07 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Apple_Mighty_Mouse`
-
-

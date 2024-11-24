@@ -11,5 +11,3 @@ summary = " "
 The EarPods(USB-C) was released on 2023-09-22 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/EarPods`
-
-

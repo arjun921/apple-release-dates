@@ -11,5 +11,3 @@ summary = " "
 The Mac Studio was released on 2022-03-18 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Mac_Studio`
-
-

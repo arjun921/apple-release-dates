@@ -11,5 +11,3 @@ summary = " "
 The Apple Watch Edition Series 2 was released on 2016-09-16 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Apple_Watch_Series_2`
-
-

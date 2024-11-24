@@ -11,5 +11,3 @@ summary = " "
 The Apple Scanner was released on 1988-08-01 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Apple_Scanner`
-
-

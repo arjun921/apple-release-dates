@@ -11,5 +11,3 @@ summary = " "
 The Magic Keyboard for iPad was released on 2020-03-18 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Magic_Keyboard_for_iPad`
-
-

@@ -11,5 +11,3 @@ summary = " "
 The MacBook Air(11-inch, Early 2015) was released on 2015-03-09 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/MacBook_Air_(Intel-based)`
-
-

@@ -11,5 +11,3 @@ summary = " "
 The Power Macintosh 6300 was released on 1996-06-27 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Power_Macintosh_6300`
-
-

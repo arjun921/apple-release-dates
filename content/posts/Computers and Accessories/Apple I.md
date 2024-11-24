@@ -11,5 +11,3 @@ summary = " "
 The Apple I was released on 1976-04-11 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Apple_I`
-
-

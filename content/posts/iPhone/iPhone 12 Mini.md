@@ -11,5 +11,3 @@ summary = " "
 The iPhone 12 Mini was released on 2020-11-13 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IPhone_12`
-
-

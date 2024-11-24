@@ -11,5 +11,3 @@ summary = " "
 The HomePod Mini(white and space gray) was released on 2020-11-16 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/HomePod_Mini`
-
-

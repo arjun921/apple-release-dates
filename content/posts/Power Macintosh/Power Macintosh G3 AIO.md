@@ -11,5 +11,3 @@ summary = " "
 The Power Macintosh G3 AIO was released on 1998-01-31 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Power_Macintosh_G3`
-
-

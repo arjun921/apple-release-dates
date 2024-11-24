@@ -11,5 +11,3 @@ summary = " "
 The LaserWriter Select 360 was released on 1993-10-01 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/LaserWriter_Select_360`
-
-

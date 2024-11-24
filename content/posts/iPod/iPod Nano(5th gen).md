@@ -11,5 +11,3 @@ summary = " "
 The iPod Nano(5th gen) was released on 2009-09-09 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IPod_Nano`
-
-

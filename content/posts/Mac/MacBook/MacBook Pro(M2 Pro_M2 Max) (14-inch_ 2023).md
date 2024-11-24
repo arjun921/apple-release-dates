@@ -11,5 +11,3 @@ summary = " "
 The MacBook Pro(M2 Pro/M2 Max) (14-inch, 2023) was released on 2023-01-24 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/MacBook_Pro`
-
-

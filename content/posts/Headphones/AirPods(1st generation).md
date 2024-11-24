@@ -11,5 +11,3 @@ summary = " "
 The AirPods(1st generation) was released on 2016-12-19 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/AirPods`
-
-

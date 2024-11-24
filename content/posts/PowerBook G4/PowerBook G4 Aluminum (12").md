@@ -11,5 +11,3 @@ summary = " "
 The PowerBook G4 Aluminum (12") was released on 2003-01-07 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/PowerBook_G4`
-
-

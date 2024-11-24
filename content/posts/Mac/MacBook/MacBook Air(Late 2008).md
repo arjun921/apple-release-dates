@@ -11,5 +11,3 @@ summary = " "
 The MacBook Air(Late 2008) was released on 2008-10-14 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/MacBook_Air_(Intel-based)`
-
-

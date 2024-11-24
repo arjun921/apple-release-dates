@@ -11,5 +11,3 @@ summary = " "
 The iPod Touch (5th generation)(16 GB) was released on 2013-05-30 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IPod_Touch_(5th_generation)`
-
-

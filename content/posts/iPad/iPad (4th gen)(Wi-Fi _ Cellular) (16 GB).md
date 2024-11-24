@@ -11,5 +11,3 @@ summary = " "
 The iPad (4th gen)(Wi-Fi + Cellular) (16 GB) was released on 2012-11-16 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IPad_(4th_generation)`
-
-

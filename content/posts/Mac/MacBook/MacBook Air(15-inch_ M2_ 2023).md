@@ -11,5 +11,3 @@ summary = " "
 The MacBook Air(15-inch, M2, 2023) was released on 2023-06-13 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/MacBook_Air`
-
-

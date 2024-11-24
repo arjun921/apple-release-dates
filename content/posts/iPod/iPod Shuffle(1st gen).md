@@ -11,5 +11,3 @@ summary = " "
 The iPod Shuffle(1st gen) was released on 2005-01-11 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IPod_Shuffle`
-
-

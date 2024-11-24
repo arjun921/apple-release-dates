@@ -11,5 +11,3 @@ summary = " "
 The iPhone 8(64 GB) was released on 2017-09-22 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IPhone_8`
-
-

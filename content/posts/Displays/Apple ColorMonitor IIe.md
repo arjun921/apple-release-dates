@@ -11,5 +11,3 @@ summary = " "
 The Apple ColorMonitor IIe was released on 1985-09-01 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/ColorMonitor_IIe/AppleColor_Composite_Monitor_IIe`
-
-

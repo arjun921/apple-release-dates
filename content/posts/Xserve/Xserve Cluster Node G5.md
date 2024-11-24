@@ -11,5 +11,3 @@ summary = " "
 The Xserve Cluster Node G5 was released on 2004-01-06 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Xserve`
-
-

@@ -11,5 +11,3 @@ summary = " "
 The Macintosh IIfx was released on 1990-03-19 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Macintosh_IIfx`
-
-

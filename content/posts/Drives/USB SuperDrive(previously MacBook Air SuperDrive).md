@@ -11,5 +11,3 @@ summary = " "
 The USB SuperDrive(previously MacBook Air SuperDrive) was released on 2008-01-15 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/SuperDrive`
-
-

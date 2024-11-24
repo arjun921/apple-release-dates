@@ -11,5 +11,3 @@ summary = " "
 The iPad Air 2(32 GB) was released on 2016-09-07 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IPad_Air_2`
-
-

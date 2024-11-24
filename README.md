@@ -21,7 +21,7 @@ There's also a `data/apple_products.csv` file that contains the same data in CSV
 
 # Scripts
 The `scripts` folder contains Python scripts to scrape the release dates from Wikipedia and update the JSON file.
-It also has a script that converts the CSV file to a post on the website. 
+It also has a script that converts the CSV file to a post on the website.
 
 # Website
 The webpage is based on Hugo and hosted on Netlify.

@@ -11,5 +11,3 @@ summary = " "
 The Apple Network Server 500 was released on 1996-02-15 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Apple_Network_Server_500`
-
-

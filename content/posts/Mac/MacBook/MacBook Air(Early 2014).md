@@ -11,5 +11,3 @@ summary = " "
 The MacBook Air(Early 2014) was released on 2014-04-29 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/MacBook_Air_(Intel-based)`
-
-

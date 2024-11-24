@@ -11,5 +11,3 @@ summary = " "
 The Apple TV(2nd gen) was released on 2010-09-01 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Apple_TV`
-
-

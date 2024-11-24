@@ -11,5 +11,3 @@ summary = " "
 The Apple Watch Nike+ Series 2 was released on 2016-10-28 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Apple_Watch_Series_2`
-
-

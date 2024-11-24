@@ -11,5 +11,3 @@ summary = " "
 The iPod (4th gen) was released on 2004-07-19 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IPod_Classic`
-
-

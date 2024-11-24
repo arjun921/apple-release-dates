@@ -11,5 +11,3 @@ summary = " "
 The Apple Modem 300, 1984 was released on 1984-01-24 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Wikipedia:Cleanup`
-
-

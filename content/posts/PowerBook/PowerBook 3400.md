@@ -11,5 +11,3 @@ summary = " "
 The PowerBook 3400 was released on 1997-02-17 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/PowerBook_3400`
-
-

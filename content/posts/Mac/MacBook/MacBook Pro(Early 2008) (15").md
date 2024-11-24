@@ -11,5 +11,3 @@ summary = " "
 The MacBook Pro(Early 2008) (15") was released on 2008-02-26 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/MacBook_Pro_(Intel-based)`
-
-

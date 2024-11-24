@@ -11,5 +11,3 @@ summary = " "
 The MacBook Pro(16-inch, 2019) was released on 2019-11-13 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/MacBook_Pro`
-
-

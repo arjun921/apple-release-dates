@@ -11,5 +11,3 @@ summary = " "
 The Macintosh IIx was released on 1988-09-19 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Macintosh_IIx`
-
-

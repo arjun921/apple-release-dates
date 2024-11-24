@@ -11,5 +11,3 @@ summary = " "
 The iPad Pro13-in. (M4) was released on 2024-05-15 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IPad_Pro_(7th_generation)`
-
-

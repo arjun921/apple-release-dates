@@ -11,5 +11,3 @@ summary = " "
 The PowerBook 165 was released on 1993-08-16 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/PowerBook_160#PowerBook_165`
-
-

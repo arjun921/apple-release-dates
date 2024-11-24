@@ -11,5 +11,3 @@ summary = " "
 The MacBook Pro (17") was released on 2006-04-24 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/MacBook_Pro`
-
-

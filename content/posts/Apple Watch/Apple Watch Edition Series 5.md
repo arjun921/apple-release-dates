@@ -11,5 +11,3 @@ summary = " "
 The Apple Watch Edition Series 5 was released on 2019-09-20 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Apple_Watch_Series_5`
-
-

@@ -11,5 +11,3 @@ summary = " "
 The Macintosh LC II was released on 1992-03-23 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Macintosh_LC_II`
-
-

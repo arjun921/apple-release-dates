@@ -11,5 +11,3 @@ summary = " "
 The Macintosh Server G4 MDD was released on 2002-08-27 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Macintosh_Server_G4`
-
-

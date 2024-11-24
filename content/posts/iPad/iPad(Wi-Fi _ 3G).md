@@ -11,5 +11,3 @@ summary = " "
 The iPad(Wi-Fi + 3G) was released on 2010-04-30 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IPad_(1st_generation)`
-
-

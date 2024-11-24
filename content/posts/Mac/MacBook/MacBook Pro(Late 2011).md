@@ -11,5 +11,3 @@ summary = " "
 The MacBook Pro(Late 2011) was released on 2011-10-24 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/MacBook_Pro`
-
-

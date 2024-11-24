@@ -11,5 +11,3 @@ summary = " "
 The PowerBook G3 series was released on 1998-05-06 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/PowerBook_G3_series`
-
-

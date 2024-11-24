@@ -11,5 +11,3 @@ summary = " "
 The iPhone 11 Pro was released on 2019-09-20 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IPhone_11_Pro`
-
-

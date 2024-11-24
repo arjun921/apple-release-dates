@@ -11,5 +11,3 @@ summary = " "
 The iPod Classic(6th gen) (120 GB) was released on 2008-09-09 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IPod_Classic`
-
-

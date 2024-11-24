@@ -11,5 +11,3 @@ summary = " "
 The Apple UniDisk 3.5 was released on 1985-09-01 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Macintosh_External_Disk_Drive#Apple_UniDisk_3.5`
-
-

@@ -11,5 +11,3 @@ summary = " "
 The Apple Two Page Monochrome Monitor was released on 1989-03-07 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Apple_displays`
-
-

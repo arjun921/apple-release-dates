@@ -11,5 +11,3 @@ summary = " "
 The Workgroup Server 60 was released on 1993-07-26 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Quadra_650`
-
-

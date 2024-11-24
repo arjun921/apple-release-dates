@@ -11,5 +11,3 @@ summary = " "
 The Apple Watch Nike+ Series 4 was released on 2018-09-21 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Apple_Watch_Series_4`
-
-

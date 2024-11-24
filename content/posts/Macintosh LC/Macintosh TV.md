@@ -11,5 +11,3 @@ summary = " "
 The Macintosh TV was released on 1993-10-21 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Macintosh_TV`
-
-

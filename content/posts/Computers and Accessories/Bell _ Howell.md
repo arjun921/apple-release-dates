@@ -11,5 +11,3 @@ summary = " "
 The Bell & Howell was released on 1979-06-01 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Apple_II_Plus#Bell_&_Howell`
-
-

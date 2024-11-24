@@ -11,5 +11,3 @@ summary = " "
 The Mac Pro(Late 2013) was released on 2013-12-19 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Mac_Pro`
-
-

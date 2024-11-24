@@ -11,5 +11,3 @@ summary = " "
 The Macintosh SE/30 was released on 1989-01-19 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Macintosh_SE/30`
-
-

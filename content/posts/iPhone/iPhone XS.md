@@ -11,5 +11,3 @@ summary = " "
 The iPhone XS was released on 2018-09-21 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IPhone_XS`
-
-

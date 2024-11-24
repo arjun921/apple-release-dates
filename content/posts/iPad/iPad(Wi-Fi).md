@@ -11,5 +11,3 @@ summary = " "
 The iPad(Wi-Fi) was released on 2010-04-03 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IPad_(1st_generation)`
-
-

@@ -11,5 +11,3 @@ summary = " "
 The iMac(Mid 2010) was released on 2010-07-27 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IMac`
-
-

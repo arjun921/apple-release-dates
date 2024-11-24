@@ -11,5 +11,3 @@ summary = " "
 The PowerBook ("Pismo") was released on 2000-02-16 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/PowerBook_G3`
-
-
