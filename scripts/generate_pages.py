@@ -6,11 +6,25 @@ df = pd.read_csv('data/apple_products.csv')
 # set date to datetime
 df['released'] = pd.to_datetime(df['released'], format="mixed")
 
-def generate_page(data):
+def generate_page(data, destination):
+    # extract folder from destination
+    destination = str(destination).replace('content/posts/', '')
+    destination = destination.replace(' ', '-')
+
+    # add all accessories to the accessories category
+    if "accessories" in destination.lower():
+        categories=[data.family]
+        categories.extend(destination.split('-'))
     
-    categories=[data.family]
+    categories = [data.family, destination]
+
+
+    year = data.released.strftime('%Y')
+
+    categories.append(year)
 
     date = data.released.strftime('%Y-%m-%d %H:%M:%S')
+
     title = data.model
     # escape " in title
     title = title.replace('"', '\\"')
@@ -26,6 +40,7 @@ categories = {categories}
 date = {date}
 title = "{title}"
 tags = {tags}
+summary = " "
 
 +++
 
@@ -52,24 +67,18 @@ for index, row in df.iterrows():
     destination = Path('content/posts')
     family = str(row.family)
     model = str(row.model)
-    # replace all special characters in model
-    model = ''.join(e for e in model if e.isalnum())
+    # replace all special characters in model allow spaces
+    model = ''.join(e for e in model if e.isalnum() or e.isspace())
 
     for parent in parent_map.keys():
         if parent in family:
             family = parent_map[parent]
 
-    # if ' ' in family:
-    #     split_family = family.split(' ')
-    #     for family_partial in split_family:
-    #         destination = destination / family_partial
-
-    # else:
-
+    
     destination = destination / family
     # create the directory if it doesn't exist
     destination.mkdir(parents=True, exist_ok=True)
-    page = generate_page(row)
+    page = generate_page(row,destination)
     # remove special characters from the model
     
     with open(destination / f'{model}.md', 'w') as f:

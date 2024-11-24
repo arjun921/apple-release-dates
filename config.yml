@@ -1,7 +1,7 @@
 baseURL: "https://AppleReleaseDates.com/"
 title: Apple Release Dates
 paginate: 10
-theme: hugo-PaperMod
+theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -38,7 +38,7 @@ languages:
                   url: archives
                   weight: 5
                 - name: Source
-                  url: https://docs.google.com/spreadsheets/d/1vQJ3psvi0Kl6_tecq3SV_mCMuQPvnXxnQ2MLN2uc128/edit?usp=sharing
+                  url: https://github.com/arjun921/apple-release-dates/tree/master/data
                   weight: 6
                 - name: Search
                   url: search/
@@ -111,7 +111,7 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "A concise timeline, helping you make the wait/buy decision easier."
+    description: "A concise timeline of Apple products released across the years."
     author: Arjun Sunil
     # author: ["Me", "You"] # multiple authors
 

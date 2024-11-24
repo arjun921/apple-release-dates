@@ -1,0 +1,15 @@
++++
+ShowToc = false
+categories = ['iPod Touch', 'iPod', '2008']
+date = 2008-09-09 00:00:00
+title = "iPod Touch (2nd generation)(16 & 32 GB)"
+tags = ['iPod Touch', 'iPod', '2008']
+summary = " "
+
++++
+
+The iPod Touch (2nd generation)(16 & 32 GB) was released on 2008-09-09 00:00:00.
+
+Source: `https://en.wikipedia.org/wiki/IPod_touch_(2nd_generation)`
+
+
