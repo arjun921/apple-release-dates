@@ -11,5 +11,3 @@ summary = " "
 The Apple Lisa[2] was released on 1983-01-19 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Apple_Lisa`
-
-
