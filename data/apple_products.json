@@ -3350,7 +3350,7 @@
         "Model": "iMac(Retina 5K, 27-inch, Mid 2015)",
         "Source link": "https://en.wikipedia.org/wiki/IMac_(Intel-based)",
         "Family": "iMac",
-        "Discontinued": "October 13, 2015"
+        "Discontinued": "October 13, 2015[citation needed]"
     },
     {
         "Released": "July 15, 2015",
@@ -4740,6 +4740,13 @@
     },
     {
         "Released": "May 15, 2024",
+        "Model": "Magic Keyboard for iPad Pro",
+        "Source link": "https://en.wikipedia.org/wiki/Apple_keyboards#Magic_Keyboard_for_iPad",
+        "Family": "Keyboards",
+        "Discontinued": "current"
+    },
+    {
+        "Released": "May 15, 2024",
         "Model": "iPad Air11-in. (M2)",
         "Source link": "https://en.wikipedia.org/wiki/IPad_Air_(6th_generation)",
         "Family": "iPad",
@@ -4838,7 +4845,7 @@
     },
     {
         "Released": "October 23, 2024",
-        "Model": "iPad Mini (7th generation)",
+        "Model": "iPad mini (A17 Pro)",
         "Source link": "https://en.wikipedia.org/wiki/IPad_Mini_(7th_generation)",
         "Family": "iPad",
         "Discontinued": "current"
