@@ -4463,7 +4463,7 @@
         "Model": "iPhone SE (3rd generation)",
         "Source link": "https://en.wikipedia.org/wiki/IPhone_SE_(3rd_generation)",
         "Family": "iPhone",
-        "Discontinued": "current"
+        "Discontinued": "February 19, 2025"
     },
     {
         "Released": "March 18, 2022",
@@ -4505,7 +4505,7 @@
         "Model": "iPhone 14",
         "Source link": "https://en.wikipedia.org/wiki/IPhone_14",
         "Family": "iPhone",
-        "Discontinued": "current"
+        "Discontinued": "February 19, 2025"
     },
     {
         "Released": "September 16, 2022",
@@ -4540,7 +4540,7 @@
         "Model": "iPhone 14 Plus",
         "Source link": "https://en.wikipedia.org/wiki/IPhone_14",
         "Family": "iPhone",
-        "Discontinued": "current"
+        "Discontinued": "February 19, 2025"
     },
     {
         "Released": "October 26, 2022",
@@ -4911,6 +4911,13 @@
         "Model": "MacBook Pro(M4 Pro/M4 Max) (16-inch, 2024)",
         "Source link": "https://en.wikipedia.org/wiki/MacBook_Pro",
         "Family": "MacBook Pro",
+        "Discontinued": "current"
+    },
+    {
+        "Released": "February 28, 2025",
+        "Model": "iPhone 16e",
+        "Source link": "https://en.wikipedia.org/wiki/IPhone_16e",
+        "Family": "iPhone",
         "Discontinued": "current"
     },
     {
