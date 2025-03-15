@@ -4484,7 +4484,7 @@
         "Model": "MacBook Air(13-inch, M2, 2022)",
         "Source link": "https://en.wikipedia.org/wiki/MacBook_Air_(Apple_silicon)",
         "Family": "MacBook Air",
-        "Discontinued": "current"
+        "Discontinued": "March 5, 2025"
     },
     {
         "Released": "September 16, 2022",
@@ -4547,7 +4547,7 @@
         "Model": "iPad (10th generation)",
         "Source link": "https://en.wikipedia.org/wiki/IPad_(10th_generation)",
         "Family": "iPad",
-        "Discontinued": "current"
+        "Discontinued": "March 4, 2025"
     },
     {
         "Released": "October 26, 2022",
@@ -4610,7 +4610,7 @@
         "Model": "Mac Studio(M2 Max/M2 Ultra, 2023)",
         "Source link": "https://en.wikipedia.org/wiki/Mac_Studio",
         "Family": "Mac Studio",
-        "Discontinued": "current"
+        "Discontinued": "March 5, 2025"
     },
     {
         "Released": "June 13, 2023",
@@ -4722,14 +4722,14 @@
         "Model": "MacBook Air13-in. (M3)",
         "Source link": "https://en.wikipedia.org/wiki/MacBook_Air",
         "Family": "MacBook Air",
-        "Discontinued": "current"
+        "Discontinued": "March 5, 2025"
     },
     {
         "Released": "March 8, 2024",
         "Model": "MacBook Air15-in. (M3)",
         "Source link": "https://en.wikipedia.org/wiki/MacBook_Air",
         "Family": "MacBook Air",
-        "Discontinued": "current"
+        "Discontinued": "March 5, 2025"
     },
     {
         "Released": "May 15, 2024",
@@ -4750,14 +4750,14 @@
         "Model": "iPad Air11-in. (M2)",
         "Source link": "https://en.wikipedia.org/wiki/IPad_Air_(6th_generation)",
         "Family": "iPad",
-        "Discontinued": "current"
+        "Discontinued": "March 4, 2025"
     },
     {
         "Released": "May 15, 2024",
         "Model": "iPad Air13-in. (M2)",
         "Source link": "https://en.wikipedia.org/wiki/IPad_Air_(6th_generation)",
         "Family": "iPad",
-        "Discontinued": "current"
+        "Discontinued": "March 4, 2025"
     },
     {
         "Released": "May 15, 2024",
@@ -4918,6 +4918,48 @@
         "Model": "iPhone 16e",
         "Source link": "https://en.wikipedia.org/wiki/IPhone_16e",
         "Family": "iPhone",
+        "Discontinued": "current"
+    },
+    {
+        "Released": "March 12, 2025",
+        "Model": "iPad (11th generation)",
+        "Source link": "https://en.wikipedia.org/wiki/IPad_(11th_generation)",
+        "Family": "iPad",
+        "Discontinued": "current"
+    },
+    {
+        "Released": "March 12, 2025",
+        "Model": "iPad Air11-in. (M3)",
+        "Source link": "https://en.wikipedia.org/wiki/IPad_Air_(7th_generation)",
+        "Family": "iPad",
+        "Discontinued": "current"
+    },
+    {
+        "Released": "March 12, 2025",
+        "Model": "iPad Air13-in. (M3)",
+        "Source link": "https://en.wikipedia.org/wiki/IPad_Air_(7th_generation)",
+        "Family": "iPad",
+        "Discontinued": "current"
+    },
+    {
+        "Released": "March 12, 2025",
+        "Model": "MacBook Air13-in. (M4)",
+        "Source link": "https://en.wikipedia.org/wiki/MacBook_Air",
+        "Family": "MacBook Air",
+        "Discontinued": "current"
+    },
+    {
+        "Released": "March 12, 2025",
+        "Model": "MacBook Air15-in. (M4)",
+        "Source link": "https://en.wikipedia.org/wiki/MacBook_Air",
+        "Family": "MacBook Air",
+        "Discontinued": "current"
+    },
+    {
+        "Released": "March 12, 2025",
+        "Model": "Mac Studio(M4 Max/M3 Ultra, 2025)",
+        "Source link": "https://en.wikipedia.org/wiki/Mac_Studio",
+        "Family": "Mac Studio",
         "Discontinued": "current"
     },
     {
