@@ -11,5 +11,3 @@ summary = " "
 The iPad Air13-in. (M3) was released on 2025-03-12 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IPad_Air_(7th_generation)`
-
-
