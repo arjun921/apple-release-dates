@@ -11,5 +11,3 @@ summary = " "
 The iPad (11th generation) was released on 2025-03-12 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IPad_(11th_generation)`
-
-
