@@ -11,5 +11,3 @@ summary = " "
 The Mac Studio(M4 Max/M3 Ultra, 2025) was released on 2025-03-12 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Mac_Studio`
-
-
