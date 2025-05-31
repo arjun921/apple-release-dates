@@ -1883,14 +1883,14 @@
         "Discontinued": "February 10, 2003"
     },
     {
-        "Released": "August 2002",
+        "Released": "August 1, 2002",
         "Model": "iMac G4 17\"",
         "Source link": "https://en.wikipedia.org/wiki/IMac_G4",
         "Family": "iMac",
         "Discontinued": "August 31, 2004"
     },
     {
-        "Released": "August 2002",
+        "Released": "August 1, 2002",
         "Model": "iPod (2nd gen)",
         "Source link": "https://en.wikipedia.org/wiki/IPod_Classic",
         "Family": "iPod Classic",
@@ -3815,6 +3815,7 @@
         "Discontinued": "March 5, 2021"
     },
     {
+        "Announced": "June 5, 2017",
         "Released": "February 9, 2018",
         "Model": "HomePod(first generation)",
         "Source link": "https://en.wikipedia.org/wiki/HomePod",
@@ -3822,6 +3823,7 @@
         "Discontinued": "March 12, 2021"
     },
     {
+        "Announced": "March 27, 2018",
         "Released": "March 27, 2018",
         "Model": "iPad (6th generation)",
         "Source link": "https://en.wikipedia.org/wiki/IPad_(6th_generation)",
@@ -3829,6 +3831,7 @@
         "Discontinued": "September 10, 2019"
     },
     {
+        "Announced": "July 12, 2018",
         "Released": "July 12, 2018",
         "Model": "MacBook Pro(13-inch, 2018, Four Thunderbolt 3 ports)",
         "Source link": "https://en.wikipedia.org/wiki/MacBook_Pro",
@@ -3836,6 +3839,7 @@
         "Discontinued": "May 21, 2019"
     },
     {
+        "Announced": "July 12, 2018",
         "Released": "July 12, 2018",
         "Model": "MacBook Pro(15-inch, 2018)",
         "Source link": "https://en.wikipedia.org/wiki/MacBook_Pro",
@@ -3843,6 +3847,7 @@
         "Discontinued": "May 21, 2019"
     },
     {
+        "Announced": "September 12, 2018",
         "Released": "September 21, 2018",
         "Model": "Apple Watch Series 4",
         "Source link": "https://en.wikipedia.org/wiki/Apple_Watch_Series_4",
@@ -3850,6 +3855,7 @@
         "Discontinued": "September 10, 2019"
     },
     {
+        "Announced": "September 12, 2018",
         "Released": "September 21, 2018",
         "Model": "Apple Watch Hermès Series 4",
         "Source link": "https://en.wikipedia.org/wiki/Apple_Watch_Series_4",
@@ -3857,6 +3863,7 @@
         "Discontinued": "September 10, 2019"
     },
     {
+        "Announced": "September 12, 2018",
         "Released": "September 21, 2018",
         "Model": "Apple Watch Nike+ Series 4",
         "Source link": "https://en.wikipedia.org/wiki/Apple_Watch_Series_4",
@@ -3864,6 +3871,7 @@
         "Discontinued": "September 10, 2019"
     },
     {
+        "Announced": "September 12, 2018",
         "Released": "September 21, 2018",
         "Model": "iPhone XS",
         "Source link": "https://en.wikipedia.org/wiki/IPhone_XS",
@@ -3871,6 +3879,7 @@
         "Discontinued": "September 10, 2019"
     },
     {
+        "Announced": "September 12, 2018",
         "Released": "September 21, 2018",
         "Model": "iPhone XS Max",
         "Source link": "https://en.wikipedia.org/wiki/IPhone_XS",
@@ -3878,6 +3887,7 @@
         "Discontinued": "September 10, 2019"
     },
     {
+        "Announced": "September 12, 2018",
         "Released": "October 26, 2018",
         "Model": "iPhone XR(64 GB and 128 GB)",
         "Source link": "https://en.wikipedia.org/wiki/IPhone_XR",
@@ -3885,6 +3895,7 @@
         "Discontinued": "September 14, 2021"
     },
     {
+        "Announced": "September 12, 2018",
         "Released": "October 26, 2018",
         "Model": "iPhone XR(256 GB)",
         "Source link": "https://en.wikipedia.org/wiki/IPhone_XR",
@@ -3892,13 +3903,15 @@
         "Discontinued": "September 10, 2019"
     },
     {
-        "Released": "October 30, 2018",
+        "Announced": "October 30, 2018",
+        "Released": "November 7, 2018",
         "Model": "Apple Pencil(2nd generation)",
         "Source link": "https://en.wikipedia.org/wiki/Apple_Pencil",
         "Family": "iPad",
         "Discontinued": "current"
     },
     {
+        "Announced": "October 30, 2018",
         "Released": "November 7, 2018",
         "Model": "iPad Pro(11-inch) (1st generation)",
         "Source link": "https://en.wikipedia.org/wiki/IPad_Pro",
@@ -3906,6 +3919,7 @@
         "Discontinued": "March 18, 2020"
     },
     {
+        "Announced": "October 30, 2018",
         "Released": "November 7, 2018",
         "Model": "iPad Pro(12.9-inch) (3rd generation)",
         "Source link": "https://en.wikipedia.org/wiki/IPad_Pro",
@@ -3913,6 +3927,7 @@
         "Discontinued": "March 18, 2020"
     },
     {
+        "Announced": "October 30, 2018",
         "Released": "November 7, 2018",
         "Model": "MacBook Air(Retina, 13-inch, 2018)",
         "Source link": "https://en.wikipedia.org/wiki/MacBook_Air_(Intel-based)",
@@ -3920,6 +3935,7 @@
         "Discontinued": "July 9, 2019"
     },
     {
+        "Announced": "October 30, 2018",
         "Released": "November 7, 2018",
         "Model": "Mac Mini(2018) (Intel Core i3)",
         "Source link": "https://en.wikipedia.org/wiki/Mac_Mini",
@@ -3927,6 +3943,7 @@
         "Discontinued": "November 17, 2020"
     },
     {
+        "Announced": "October 30, 2018",
         "Released": "November 7, 2018",
         "Model": "Mac Mini(2018) (Intel Core i5 and i7)",
         "Source link": "https://en.wikipedia.org/wiki/Mac_Mini",
@@ -4750,14 +4767,14 @@
         "Model": "iPad Air11-in. (M2)",
         "Source link": "https://en.wikipedia.org/wiki/IPad_Air_(6th_generation)",
         "Family": "iPad",
-        "Discontinued": "March 4, 2025"
+        "Discontinued": "current"
     },
     {
         "Released": "May 15, 2024",
         "Model": "iPad Air13-in. (M2)",
         "Source link": "https://en.wikipedia.org/wiki/IPad_Air_(6th_generation)",
         "Family": "iPad",
-        "Discontinued": "March 4, 2025"
+        "Discontinued": "March 15, 2025"
     },
     {
         "Released": "May 15, 2024",
