@@ -268,8 +268,8 @@ July 1989,Apple Modem 2400,Modems,December 1992,https://en.wikipedia.org/wiki/Ap
 "January 7, 2002","iBook (14"")",iBook,"October 22, 2003",https://en.wikipedia.org/wiki/IBook
 "April 29, 2002",eMac,eMac,"July 5, 2006",https://en.wikipedia.org/wiki/EMac
 "May 14, 2002",Xserve,Xserve,"February 10, 2003",https://en.wikipedia.org/wiki/Xserve
-August 2002,"iMac G4 17""",iMac,"August 31, 2004",https://en.wikipedia.org/wiki/IMac_G4
-August 2002,iPod (2nd gen),iPod Classic,"April 28, 2003",https://en.wikipedia.org/wiki/IPod_Classic
+"August 1, 2002","iMac G4 17""",iMac,"August 31, 2004",https://en.wikipedia.org/wiki/IMac_G4
+"August 1, 2002",iPod (2nd gen),iPod Classic,"April 28, 2003",https://en.wikipedia.org/wiki/IPod_Classic
 "August 13, 2002",Power Macintosh G4 MDD,Power Macintosh,"June 9, 2004",https://en.wikipedia.org/wiki/Power_Mac_G4
 "August 27, 2002",Macintosh Server G4 MDD,Macintosh Server,"January 28, 2003",https://en.wikipedia.org/wiki/Macintosh_Server_G4
 "January 7, 2003","PowerBook G4 Aluminum (12"")",PowerBook G4,"May 16, 2006",https://en.wikipedia.org/wiki/PowerBook_G4
@@ -333,7 +333,7 @@ October 2005,iPod (5th gen),iPod Classic,"September 5, 2007",https://en.wikipedi
 "January 8, 2008",Xserve(Early 2008),Xserve,"April 7, 2009",https://en.wikipedia.org/wiki/Xserve
 "January 8, 2008",Mac Pro(Early 2008),Mac Pro,"March 3, 2009",https://en.wikipedia.org/wiki/Mac_Pro
 "January 15, 2008",MacBook Air(Early 2008),MacBook Air,"October 14, 2008",https://en.wikipedia.org/wiki/MacBook_Air_(Intel-based)
-"January 15, 2008",USB SuperDrive(previously MacBook Air SuperDrive),Drives,current[a],https://en.wikipedia.org/wiki/SuperDrive
+"January 15, 2008",USB SuperDrive(previously MacBook Air SuperDrive),Drives,August 2024[a],https://en.wikipedia.org/wiki/SuperDrive
 "February 5, 2008",iPhone (1st generation)(16 GB),iPhone,"July 11, 2008",https://en.wikipedia.org/wiki/IPhone_(1st_generation)
 "February 26, 2008",MacBook(Early 2008),MacBook,"October 14, 2008",https://en.wikipedia.org/wiki/MacBook
 "February 26, 2008","MacBook Pro(Early 2008) (15"")",MacBook Pro,"October 14, 2008",https://en.wikipedia.org/wiki/MacBook_Pro_(Intel-based)
@@ -555,7 +555,7 @@ December 2012,"iMac(27"") (Late 2012)",iMac,"September 24, 2013",https://en.wiki
 "September 21, 2018",iPhone XS Max,iPhone,"September 10, 2019",https://en.wikipedia.org/wiki/IPhone_XS
 "October 26, 2018",iPhone XR(64 GB and 128 GB),iPhone,"September 14, 2021",https://en.wikipedia.org/wiki/IPhone_XR
 "October 26, 2018",iPhone XR(256 GB),iPhone,"September 10, 2019",https://en.wikipedia.org/wiki/IPhone_XR
-"October 30, 2018",Apple Pencil(2nd generation),iPad,current,https://en.wikipedia.org/wiki/Apple_Pencil
+"November 7, 2018",Apple Pencil(2nd generation),iPad,current,https://en.wikipedia.org/wiki/Apple_Pencil
 "November 7, 2018",iPad Pro(11-inch) (1st generation),iPad,"March 18, 2020",https://en.wikipedia.org/wiki/IPad_Pro
 "November 7, 2018",iPad Pro(12.9-inch) (3rd generation),iPad,"March 18, 2020",https://en.wikipedia.org/wiki/IPad_Pro
 "November 7, 2018","MacBook Air(Retina, 13-inch, 2018)",MacBook Air,"July 9, 2019",https://en.wikipedia.org/wiki/MacBook_Air_(Intel-based)
@@ -677,8 +677,8 @@ December 2012,"iMac(27"") (Late 2012)",iMac,"September 24, 2013",https://en.wiki
 "March 8, 2024",MacBook Air15-in. (M3),MacBook Air,"March 5, 2025",https://en.wikipedia.org/wiki/MacBook_Air
 "May 15, 2024",Apple Pencil Pro,iPad,current,https://en.wikipedia.org/wiki/Apple_Pencil_Pro
 "May 15, 2024",Magic Keyboard for iPad Pro,Keyboards,current,https://en.wikipedia.org/wiki/Apple_keyboards#Magic_Keyboard_for_iPad
-"May 15, 2024",iPad Air11-in. (M2),iPad,"March 4, 2025",https://en.wikipedia.org/wiki/IPad_Air_(6th_generation)
-"May 15, 2024",iPad Air13-in. (M2),iPad,"March 4, 2025",https://en.wikipedia.org/wiki/IPad_Air_(6th_generation)
+"May 15, 2024",iPad Air11-in. (M2),iPad,"June 2, 2025",https://en.wikipedia.org/wiki/IPad_Air_(6th_generation)
+"May 15, 2024",iPad Air13-in. (M2),iPad,"March 15, 2025",https://en.wikipedia.org/wiki/IPad_Air_(6th_generation)
 "May 15, 2024",iPad Pro11-in. (M4),iPad,current,https://en.wikipedia.org/wiki/IPad_Pro_(7th_generation)
 "May 15, 2024",iPad Pro13-in. (M4),iPad,current,https://en.wikipedia.org/wiki/IPad_Pro_(7th_generation)
 "July 15, 2024",HomePod Mini(midnight),Speakers,current,https://en.wikipedia.org/wiki/HomePod_Mini
@@ -691,7 +691,7 @@ December 2012,"iMac(27"") (Late 2012)",iMac,"September 24, 2013",https://en.wiki
 "September 20, 2024",iPhone 16 Plus,iPhone,current,https://en.wikipedia.org/wiki/IPhone_16
 "September 20, 2024",iPhone 16 Pro,iPhone,current,https://en.wikipedia.org/wiki/IPhone_16_Pro
 "September 20, 2024",iPhone 16 Pro Max,iPhone,current,https://en.wikipedia.org/wiki/IPhone_16_Pro
-"October 23, 2024",iPad mini (A17 Pro),iPad,current,https://en.wikipedia.org/wiki/IPad_Mini_(7th_generation)
+"October 23, 2024",iPad mini (7th generation),iPad,current,https://en.wikipedia.org/wiki/IPad_Mini_(7th_generation)
 "October 28, 2024",Magic Mouse 2 (USB-C),Pointing devices,current,https://en.wikipedia.org/wiki/Magic_Mouse_2
 "October 28, 2024",Magic Trackpad 2 (USB-C),Pointing devices,current,https://en.wikipedia.org/wiki/Magic_Trackpad_2
 "October 28, 2024","Magic Keyboard (second generation, USB-C)",Keyboards,current,https://en.wikipedia.org/wiki/Magic_Keyboard_(Mac)

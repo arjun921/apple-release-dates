@@ -1883,14 +1883,14 @@
         "Discontinued": "February 10, 2003"
     },
     {
-        "Released": "August 2002",
+        "Released": "August 1, 2002",
         "Model": "iMac G4 17\"",
         "Source link": "https://en.wikipedia.org/wiki/IMac_G4",
         "Family": "iMac",
         "Discontinued": "August 31, 2004"
     },
     {
-        "Released": "August 2002",
+        "Released": "August 1, 2002",
         "Model": "iPod (2nd gen)",
         "Source link": "https://en.wikipedia.org/wiki/IPod_Classic",
         "Family": "iPod Classic",
@@ -2342,7 +2342,7 @@
         "Model": "USB SuperDrive(previously MacBook Air SuperDrive)",
         "Source link": "https://en.wikipedia.org/wiki/SuperDrive",
         "Family": "Drives",
-        "Discontinued": "current[a]"
+        "Discontinued": "August 2024[a]"
     },
     {
         "Released": "February 5, 2008",
@@ -3892,7 +3892,7 @@
         "Discontinued": "September 10, 2019"
     },
     {
-        "Released": "October 30, 2018",
+        "Released": "November 7, 2018",
         "Model": "Apple Pencil(2nd generation)",
         "Source link": "https://en.wikipedia.org/wiki/Apple_Pencil",
         "Family": "iPad",
@@ -4750,14 +4750,14 @@
         "Model": "iPad Air11-in. (M2)",
         "Source link": "https://en.wikipedia.org/wiki/IPad_Air_(6th_generation)",
         "Family": "iPad",
-        "Discontinued": "March 4, 2025"
+        "Discontinued": "June 2, 2025"
     },
     {
         "Released": "May 15, 2024",
         "Model": "iPad Air13-in. (M2)",
         "Source link": "https://en.wikipedia.org/wiki/IPad_Air_(6th_generation)",
         "Family": "iPad",
-        "Discontinued": "March 4, 2025"
+        "Discontinued": "March 15, 2025"
     },
     {
         "Released": "May 15, 2024",
@@ -4845,7 +4845,7 @@
     },
     {
         "Released": "October 23, 2024",
-        "Model": "iPad mini (A17 Pro)",
+        "Model": "iPad mini (7th generation)",
         "Source link": "https://en.wikipedia.org/wiki/IPad_Mini_(7th_generation)",
         "Family": "iPad",
         "Discontinued": "current"
