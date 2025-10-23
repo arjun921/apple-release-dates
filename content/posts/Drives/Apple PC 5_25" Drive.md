@@ -1,13 +1,13 @@
 +++
 ShowToc = false
 categories = ['Drives', '1987', 'Drives']
-date = 1987-08-01 00:00:00
+date = 1987-03-02 00:00:00
 title = "Apple PC 5.25\" Drive"
 tags = ['Drives', '1987']
 summary = " "
 
 +++
 
-The Apple PC 5.25" Drive was released on 1987-08-01 00:00:00.
+The Apple PC 5.25" Drive was released on 1987-03-02 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Disk_II#Apple_PC_5%"_Drive`

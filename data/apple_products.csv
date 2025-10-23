@@ -1,711 +1,392 @@
-released,model,family,discontinued,source link
-"April 11, 1976",Apple I,Apple I,"September 30, 1977",https://en.wikipedia.org/wiki/Apple_I
-"June 1, 1977",Apple II,Apple II,"May 1, 1979",https://en.wikipedia.org/wiki/Apple_II
-"June 1, 1978",Disk II,Drives,"May 1, 1984",https://en.wikipedia.org/wiki/Disk_II
-"June 1, 1979",Apple II Plus,Apple II,"December 1, 1982",https://en.wikipedia.org/wiki/Apple_II_Plus
-"June 1, 1979",Apple II EuroPlus,Apple II,"December 1, 1982",https://en.wikipedia.org/wiki/Apple_II_Plus#Apple_II_Europlus_and_J-Plus
-"June 1, 1979",Apple II J-Plus,Apple II,"December 1, 1982",https://en.wikipedia.org/wiki/Apple_II_Plus#Apple_II_Europlus_and_J-Plus
-"June 1, 1979",Bell & Howell,Apple II,"December 1, 1982",https://en.wikipedia.org/wiki/Apple_II_Plus#Bell_&_Howell
-"June 1, 1979",Bell & Howell Disk II,Drives,"December 1, 1982",https://en.wikipedia.org/wiki/Disk_II
-"June 1, 1979",Apple SilenType,Printers,"October 1, 1982",https://en.wikipedia.org/wiki/Apple_SilenType
-"November 1, 1980",Apple III,Apple III,"December 1, 1981",https://en.wikipedia.org/wiki/Apple_III
-"November 1, 1980",Modem IIB(Novation CAT),Modems,"December 1, 1981",https://en.wikipedia.org/wiki/Novation_CAT
-"November 1, 1980",Printer IIA(Centronics 779),Printers,"December 1, 1981",https://en.wikipedia.org/wiki/Centronics
-"November 1, 1980",Monitor III,Displays,"December 1, 1981",https://en.wikipedia.org/wiki/Apple_Monitor_III
-"November 1, 1980",Monitor II(various third party),Displays,"December 1, 1981",https://en.wikipedia.org/wiki/Apple_displays
-"November 1, 1980",Disk III,Drives,"May 1, 1984",https://en.wikipedia.org/wiki/Disk_III
-"September 1, 1981",Apple ProFile,Drives,"September 1, 1986",https://en.wikipedia.org/wiki/Apple_ProFile
-"December 1, 1981",Apple III Revised[1],Apple III,"December 1, 1983",https://en.wikipedia.org/wiki/Apple_III
-"October 1, 1982",Apple Dot Matrix Printer,Printers,"December 1, 1983",https://en.wikipedia.org/wiki/Apple_Dot_Matrix_Printer
-"October 1, 1982",Apple Daisy Wheel Printer,Printers,"December 1, 1983",https://en.wikipedia.org/wiki/Apple_Daisy_Wheel_Printer
-"January 1, 1983",Apple IIe,Apple II,"March 1, 1985",https://en.wikipedia.org/wiki/Apple_IIe
-"January 19, 1983",Apple Lisa[2],68000,"January 1, 1984",https://en.wikipedia.org/wiki/Apple_Lisa
-"December 1, 1983",Apple III Plus,Apple III,"April 24, 1984",https://en.wikipedia.org/wiki/Apple_III_Plus
-"December 1, 1983",Apple ImageWriter,ImageWriter,"December 1, 1985",https://en.wikipedia.org/wiki/Apple_ImageWriter
-"January 1, 1984",Apple Lisa 2,68000,"August 1, 1986",https://en.wikipedia.org/wiki/Apple_Lisa
-"January 24, 1984",Macintosh (128K),Compact,"September 10, 1984",https://en.wikipedia.org/wiki/Macintosh_128K
-"January 24, 1984",Macintosh External Disk Drive (400K),Drives,"January 1, 1986",https://en.wikipedia.org/wiki/Macintosh_External_Disk_Drive#400K
-"January 24, 1984","Apple Modem 300, 1984",Modems,[?],https://en.wikipedia.org/wiki/Wikipedia:Cleanup
-"January 24, 1984","Apple Modem 1200, 1984",Modems,[?],https://en.wikipedia.org/wiki/Wikipedia:Cleanup
-"April 1, 1984",Apple IIc,Apple II,"August 1, 1988",https://en.wikipedia.org/wiki/Apple_IIc
-"April 1, 1984",Apple Scribe Printer,Printers,"December 1, 1985",https://en.wikipedia.org/wiki/Apple_Scribe_Printer
-"April 1, 1984",Apple Mouse IIc,Pointing devices,"December 1, 1985",https://en.wikipedia.org/wiki/Apple_Mouse#Apple_Mouse_IIc
-"April 1, 1984",Disk IIc,Drives,[?],https://en.wikipedia.org/wiki/Disk_IIc
-"May 1, 1984",DuoDisk,Drives,[?],https://en.wikipedia.org/wiki/Disk_II#DuoDisk
-"June, 1984",Apple 410 Color Plotter,Printers,[?],https://en.wikipedia.org/wiki/Apple_410_Color_Plotter
-"June, 1984",Apple ImageWriter Wide Carriage,Printers,[?],https://en.wikipedia.org/wiki/Apple_ImageWriter
-"September 10, 1984",Macintosh 512K,Compact,"April 14, 1986",https://en.wikipedia.org/wiki/Macintosh_512K
-"September 10, 1984",Macintosh 128K (revised),Compact,"October 1, 1985",https://en.wikipedia.org/wiki/Macintosh_128K#Models
-December 1984,AppleColor 100,Displays,[?],https://en.wikipedia.org/wiki/Apple_displays
-"January 1, 1985",Macintosh XL,68000,"April 1, 1985",https://en.wikipedia.org/wiki/Macintosh_XL
-"January 1, 1985",Apple LaserWriter,Printers,"December 1, 1985",https://en.wikipedia.org/wiki/Apple_LaserWriter
-"January 1, 1985",Apple LocalTalk Connector,Networking,[?],https://en.wikipedia.org/wiki/LocalTalk
-"March 1, 1985",Apple IIe Enhanced,Apple II,"January 1, 1987",https://en.wikipedia.org/wiki/Apple_IIe#Enhanced_IIe
-"April 1, 1985",Apple Personal Modem,Modems,[?],https://en.wikipedia.org/wiki/Apple_USB_Modem#History
-"April 1, 1985",Apple ImageWriter II,Printers,1996,https://en.wikipedia.org/wiki/Apple_ImageWriter_II
-June 1985,Apple UniDisk,Drives,"September 1, 1986",https://en.wikipedia.org/wiki/Disk_II#UniDisk
-"September 1, 1985",Macintosh Hard Disk 20,Drives,[?],https://en.wikipedia.org/wiki/Hard_Disk_20
-"September 1, 1985",Apple UniDisk 3.5,Drives,"January 1, 1987",https://en.wikipedia.org/wiki/Macintosh_External_Disk_Drive#Apple_UniDisk_3.5
-"September 1, 1985",Apple ColorMonitor IIe,Displays,[?],https://en.wikipedia.org/wiki/ColorMonitor_IIe/AppleColor_Composite_Monitor_IIe
-"September 1, 1985",Apple ColorMonitor IIc,Displays,[?],https://en.wikipedia.org/wiki/Apple_displays
-"January 16, 1986",Macintosh Plus,Compact,"October 15, 1990",https://en.wikipedia.org/wiki/Macintosh_Plus
-"January 16, 1986",Macintosh 800K External Drive,Drives,[?],https://en.wikipedia.org/wiki/Macintosh_External_Disk_Drive#Macintosh_800K_External_Drive
-"January 16, 1986",Apple LaserWriter Plus,Printers,[?],https://en.wikipedia.org/wiki/Wikipedia:Cleanup
-"April 14, 1986",Macintosh 512Ke,Compact,"October 1, 1987",https://en.wikipedia.org/wiki/Macintosh_512Ke
-"September 15, 1986",Apple IIGS,Apple II,"December 1, 1992",https://en.wikipedia.org/wiki/Apple_IIGS
-"September 15, 1986",Apple IIc Memory Expansion,Apple II,"September 1, 1988",https://en.wikipedia.org/wiki/Apple_IIc#Memory_Expansion_IIc_(ROM_version_‘3’)
-"September 15, 1986",Apple Hard Disk 20SC,Drives,[?],https://en.wikipedia.org/wiki/Hard_Disk_20SC
-"September 15, 1986",Apple 3.5 Drive,Drives,[?],"https://en.wikipedia.org/wiki/Macintosh_External_Disk_Drive#Apple_3.5""_Drive"
-"September 15, 1986",Apple 5.25 Drive,Drives,[?],https://en.wikipedia.org/wiki/Disk_II#UniDisk
-"September 15, 1986",AppleColor RGB Monitor,Displays,[?],https://en.wikipedia.org/wiki/Apple_displays
-"September 15, 1986",Apple Monochrome Monitor,Displays,[?],https://en.wikipedia.org/wiki/Apple_displays
-"September 15, 1986",AppleColor Composite Monitor,Displays,[?],https://en.wikipedia.org/wiki/Apple_displays
-"January 1, 1987",Macintosh Plus (Platinum),Compact,"October 15, 1990",https://en.wikipedia.org/wiki/Macintosh_Plus
-"January 1, 1987",Apple IIe Platinum,Apple II,"November 1, 1993",https://en.wikipedia.org/wiki/Apple_IIe#Platinum_IIe
-"March 2, 1987",Macintosh SE,Compact,"August 1, 1989",https://en.wikipedia.org/wiki/Macintosh_SE
-"March 2, 1987",Macintosh II,Mac II,"January 15, 1990",https://en.wikipedia.org/wiki/Macintosh_II
-"March 2, 1987",AppleColor High-Resolution RGB Monitor,Displays,December 1992,https://en.wikipedia.org/wiki/AppleColor_High-Resolution_RGB_Monitor
-"August, 1987",ImageWriter LQ,Printers,December 1990,https://en.wikipedia.org/wiki/ImageWriter_LQ
-"August, 1987",AppleFax Modem,Modems,[?],https://en.wikipedia.org/wiki/Wikipedia:Cleanup
-"August, 1987","Apple PC 5.25"" Drive",Drives,[?],"https://en.wikipedia.org/wiki/Disk_II#Apple_PC_5%""_Drive"
-"August, 1987",Apple Tape Backup 40SC,Drives,[?],https://en.wikipedia.org/wiki/Apple_Tape_Backup_40SC
-"January 1, 1988","LaserWriterII SC, II NT, II NTX",Printers,[?],https://en.wikipedia.org/wiki/LaserWriter
-March 1988,AppleCD SC,Drives,[?],https://en.wikipedia.org/wiki/AppleCD_SC
-August 1988,Apple Scanner,Scanner,[?],https://en.wikipedia.org/wiki/Apple_Scanner
-"September 1, 1988",Apple IIc Plus,Apple II,"September 1, 1990",https://en.wikipedia.org/wiki/Apple_IIc_Plus
-"September 19, 1988",Macintosh IIx,Macintosh II,"October 15, 1990",https://en.wikipedia.org/wiki/Macintosh_IIx
-"January 19, 1989",Macintosh SE/30,Compact,"October 21, 1991",https://en.wikipedia.org/wiki/Macintosh_SE/30
-"March 7, 1989",Macintosh IIcx,Mac II,"March 11, 1991",https://en.wikipedia.org/wiki/Macintosh_IIcx
-"March 7, 1989",Apple Two Page Monochrome Monitor,Displays,"October 19, 1992",https://en.wikipedia.org/wiki/Apple_displays
-"March 7, 1989",Apple Macintosh Portrait Display,Displays,"October 19, 1992",https://en.wikipedia.org/wiki/Apple_displays
-"March 7, 1989",Apple High-Resolution Monochrome Display,Displays,"February 1, 1991",https://en.wikipedia.org/wiki/Apple_displays
-July 1989,Apple Modem 2400,Modems,December 1992,https://en.wikipedia.org/wiki/Apple_USB_Modem#History
-"August 1, 1989",Macintosh SE FDHD,Compact,"October 15, 1990",https://en.wikipedia.org/wiki/Macintosh_SE_FDHD
-"August 1, 1989",Apple FDHD SuperDrive,Drives,[?],https://en.wikipedia.org/wiki/Superdrive
-"September 20, 1989",Macintosh IIci,Mac II,"February 20, 1993",https://en.wikipedia.org/wiki/Macintosh_IIci
-"September 20, 1989",Macintosh Portable,Portable,"February 11, 1991",https://en.wikipedia.org/wiki/Macintosh_Portable
-"October 1, 1989","Apple IIGS (1 MB, ROM 3)[3]",Apple II,"December 1, 1992",https://en.wikipedia.org/wiki/Apple_IIGS
-"March 19, 1990",Macintosh IIfx,Mac II,"April 15, 1992",https://en.wikipedia.org/wiki/Macintosh_IIfx
-"June 1, 1990",Personal LaserWriter SC,LaserWriter,"September 1, 1993",https://en.wikipedia.org/wiki/LaserWriter
-"October 15, 1990",Macintosh LC,Macintosh LC,"March 23, 1992",https://en.wikipedia.org/wiki/Macintosh_LC
-"October 15, 1990",Macintosh Classic,Compact,"September 14, 1992",https://en.wikipedia.org/wiki/Macintosh_Classic
-"October 15, 1990",Macintosh IIsi,Mac II,"March 15, 1993",https://en.wikipedia.org/wiki/Macintosh_IIsi
-"February 11, 1991",Macintosh Portable(backlit screen),Portable,"October 21, 1991",https://en.wikipedia.org/wiki/Macintosh_Portable
-"March 1, 1991",Apple IIe Card,Apple II,"May 1, 1995",https://en.wikipedia.org/wiki/Apple_IIe_Card
-"March 1, 1991",Personal LaserWriter LS,LaserWriter,"May 1, 1993",https://en.wikipedia.org/wiki/Personal_LaserWriter_LS
-"March 1, 1991",StyleWriter,StyleWriter,"January 1, 1993",https://en.wikipedia.org/wiki/StyleWriter
-"July 1, 1991",Personal LaserWriter NT,LaserWriter,[?],https://en.wikipedia.org/wiki/Personal_LaserWriter_NT
-"October 1, 1991",LaserWriterIIf,LaserWriter,"May 1, 1993",https://en.wikipedia.org/wiki/LaserWriter
-"October 1, 1991",LaserWriterIIg,LaserWriter,"October 1, 1993",https://en.wikipedia.org/wiki/LaserWriter
-"October 21, 1991",Macintosh Classic II,Compact,"September 13, 1993",https://en.wikipedia.org/wiki/Macintosh_Classic_II
-"October 21, 1991",Macintosh Quadra 700,Quadra,"March 15, 1993",https://en.wikipedia.org/wiki/Macintosh_Quadra_700
-"October 21, 1991",Macintosh Quadra 900,Quadra,"May 18, 1992",https://en.wikipedia.org/wiki/Macintosh_Quadra_900
-"October 21, 1991",PowerBook 100,PowerBook 100,"August 3, 1992",https://en.wikipedia.org/wiki/PowerBook_100
-"October 21, 1991",PowerBook 140,PowerBook 100,"August 3, 1992",https://en.wikipedia.org/wiki/PowerBook_140
-"October 21, 1991",PowerBook 170,PowerBook 100,"October 19, 1992",https://en.wikipedia.org/wiki/PowerBook_170
-"March 1, 1992",Personal LaserWriter NTR,LaserWriter,"September 1, 1993",https://en.wikipedia.org/wiki/Personal_LaserWriter_NTR
-"March 23, 1992",Macintosh LC II,Macintosh LC,"March 15, 1993",https://en.wikipedia.org/wiki/Macintosh_LC_II
-"May 18, 1992",Macintosh Quadra 950,Quadra,"October 14, 1995",https://en.wikipedia.org/wiki/Macintosh_Quadra_950
-"August 3, 1992",PowerBook 145,PowerBook 100,"July 7, 1993",https://en.wikipedia.org/wiki/PowerBook_145
-"September 14, 1992",Apple Performa Plus Display,Display,"July 18, 1994",https://en.wikipedia.org/wiki/Apple_Performa_Plus_Display
-"October 19, 1992",Macintosh IIvi,Mac II,"February 10, 1993",https://en.wikipedia.org/wiki/Macintosh_IIvi
-"October 19, 1992",Macintosh IIvx,Mac II,"October 10, 1993",https://en.wikipedia.org/wiki/Macintosh_IIvx
-"October 19, 1992",PowerBook 160,PowerBook 100,"August 16, 1993",https://en.wikipedia.org/wiki/PowerBook_160
-"October 19, 1992",PowerBook 180,PowerBook 100,"May 16, 1994",https://en.wikipedia.org/wiki/PowerBook_180
-"October 19, 1992",PowerBook Duo 210,PowerBook Duo,"October 21, 1993",https://en.wikipedia.org/wiki/PowerBook_Duo_210
-"October 19, 1992",PowerBook Duo 230,PowerBook Duo,"July 27, 1994",https://en.wikipedia.org/wiki/PowerBook_Duo_230
-"October 19, 1992",Powerbook Duo Dock,PowerBook Duo,"July 27, 1994",https://en.wikipedia.org/wiki/Duo_Dock
-"January 1, 1993",StyleWriter II,StyleWriter,"April 17, 1995",https://en.wikipedia.org/wiki/StyleWriter_II
-"January 1, 1993",Apple Color Printer,StyleWriter,"February 1, 1994",https://en.wikipedia.org/wiki/Apple_Color_Printer
-"January 1, 1993",LaserWriter Pro 600,LaserWriter,"October 1, 1993",https://en.wikipedia.org/wiki/LaserWriter_Pro_600
-"January 1, 1993",LaserWriter Pro 630,LaserWriter,"September 1, 1994",https://en.wikipedia.org/wiki/LaserWriter_Pro_630
-"February 10, 1993",Macintosh LC III,Macintosh LC,"February 14, 1994",https://en.wikipedia.org/wiki/Macintosh_LC_III
-"February 10, 1993",Macintosh Color Classic,Compact,"May 16, 1994",https://en.wikipedia.org/wiki/Macintosh_Color_Classic
-"February 10, 1993",Macintosh Centris/Quadra 610,Centris,"October 21, 1993",https://en.wikipedia.org/wiki/Macintosh_Quadra_610
-"February 10, 1993",Macintosh Centris/Quadra 650,Centris,"October 21, 1993",https://en.wikipedia.org/wiki/Macintosh_Quadra_650
-"February 10, 1993",Quadra 800,Quadra,"March 14, 1994",https://en.wikipedia.org/wiki/Quadra_800
-"February 10, 1993",PowerBook 165c,PowerBook 100,"December 13, 1993",https://en.wikipedia.org/wiki/PowerBook_160#PowerBook_165c
-"February 10, 1993",LaserWriter Select 300,LaserWriter,"January 3, 1995",https://en.wikipedia.org/wiki/LaserWriter_Select_300
-"February 10, 1993",LaserWriter Select 310,LaserWriter,"January 1, 1994",https://en.wikipedia.org/wiki/LaserWriter_Select_310
-"March 22, 1993",Workgroup Server 80,Workgroup Server,"October 17, 1995",https://en.wikipedia.org/wiki/Quadra_800
-"March 22, 1993",Workgroup Server 95,Workgroup Server,"April 3, 1995",https://en.wikipedia.org/wiki/Quadra_950
-"March 22, 1993",PowerCD,PowerCD,"January 1, 1995",https://en.wikipedia.org/wiki/PowerCD
-"March 22, 1993",Apple Design Powered Speakers,Speakers,"January 1, 1995",https://en.wikipedia.org/wiki/PowerCD#AppleDesign_Powered_Speakers
-"June 7, 1993",PowerBook 145b,PowerBook 100,"July 18, 1994",https://en.wikipedia.org/wiki/PowerBook_145b
-"June 7, 1993",PowerBook 180c,PowerBook 100,"March 14, 1994",https://en.wikipedia.org/wiki/PowerBook_180c
-"June 1, 1993",Personal LaserWriter 300,LaserWriter,"September 1, 1994",https://en.wikipedia.org/wiki/Personal_LaserWriter_300
-"June 23, 1993",Portable StyleWriter,StyleWriter,"May 15, 1995",https://en.wikipedia.org/wiki/Portable_StyleWriter
-"June 28, 1993",Macintosh LC 520,Macintosh LC,"February 2, 1994",https://en.wikipedia.org/wiki/Macintosh_LC_520
-"July 26, 1993",Workgroup Server 60,Workgroup Server,"October 17, 1995",https://en.wikipedia.org/wiki/Quadra_650
-"July 29, 1993",Macintosh Centris/Quadra 660AV,Quadra,"September 12, 1994",https://en.wikipedia.org/wiki/Macintosh_Quadra_660AV
-"July 29, 1993",Quadra 840AV,Quadra,"July 18, 1994",https://en.wikipedia.org/wiki/Quadra_840AV
-"August 1, 1993",Apple AudioVision 14 Display,Display,"October 14, 1995",https://en.wikipedia.org/wiki/Apple_AudioVision_14_Display
-"August 16, 1993",Newton Message Pad,Newton,"March 1, 1994",https://en.wikipedia.org/wiki/Apple_Newton
-"August 16, 1993",PowerBook 165,PowerBook 100,"July 18, 1994",https://en.wikipedia.org/wiki/PowerBook_160#PowerBook_165
-"October 1, 1993",LaserWriter Select 360,LaserWriter,"April 22, 1996",https://en.wikipedia.org/wiki/LaserWriter_Select_360
-"October 1, 1993",LaserWriter Pro 810,LaserWriter,"November 1, 1994",https://en.wikipedia.org/wiki/LaserWriter_Pro_810
-"October 1, 1993",Personal LaserWriter 320,LaserWriter,"September 16, 1995",https://en.wikipedia.org/wiki/Personal_LaserWriter_320
-"October 18, 1993",Macintosh LC III+,Macintosh LC,"February 14, 1994",https://en.wikipedia.org/wiki/Macintosh_LC_III
-"October 21, 1993",Macintosh TV,Macintosh LC,"February 1, 1995",https://en.wikipedia.org/wiki/Macintosh_TV
-"October 21, 1993",Macintosh Color Classic II,Compact,"November 1, 1995",https://en.wikipedia.org/wiki/Macintosh_Color_Classic_II
-"October 21, 1993",Quadra 605,Quadra,"October 17, 1994",https://en.wikipedia.org/wiki/Quadra_605
-"October 21, 1993",Quadra 610,Quadra,"July 18, 1994",https://en.wikipedia.org/wiki/Quadra_610
-"October 21, 1993",Quadra 650,Quadra,"September 12, 1994",https://en.wikipedia.org/wiki/Quadra_650
-"October 21, 1993",PowerBook Duo 250,PowerBook Duo,"May 16, 1994",https://en.wikipedia.org/wiki/PowerBook_Duo_250
-"October 21, 1993",PowerBook Duo 270c,PowerBook Duo,"May 16, 1994",https://en.wikipedia.org/wiki/PowerBook_Duo_270c
-"October 21, 1993","Apple Color Plus 14"" Display",Display,"August 7, 1995",https://en.wikipedia.org/wiki/Apple_Color_Plus_14%22_Display
-"February 1, 1994",Macintosh LC 550,Macintosh LC,"March 23, 1995",https://en.wikipedia.org/wiki/Macintosh_LC_550
-"February 1, 1994",Macintosh LC 575,Macintosh LC,"April 3, 1995",https://en.wikipedia.org/wiki/Macintosh_LC_575
-"February 1, 1994",Color StyleWriter Pro,StyleWriter,"December 16, 1995",
-"February 1, 1994",Apple QuickTake 100,QuickTake,"January 1, 1995",https://en.wikipedia.org/wiki/Apple_QuickTake
-"February 28, 1994",Quadra 610 DOS Compatible,Quadra,"June 13, 1994",https://en.wikipedia.org/wiki/Macintosh_Quadra_610
-"March 14, 1994",Power Macintosh 6100,Power Macintosh,"May 18, 1996",https://en.wikipedia.org/wiki/Power_Macintosh_6100
-"March 14, 1994",Power Macintosh 7100,Power Macintosh,"January 6, 1996",https://en.wikipedia.org/wiki/Power_Macintosh_7100
-"March 14, 1994",Power Macintosh 8100,Power Macintosh,"January 3, 1995",https://en.wikipedia.org/wiki/Power_Macintosh_8100
-"April 25, 1994",Workgroup Server 6150,Workgroup Server,"October 1, 1995",https://en.wikipedia.org/wiki/Power_Macintosh_6100
-"April 25, 1994",Workgroup Server 8150,Workgroup Server,"February 26, 1996",https://en.wikipedia.org/wiki/Power_Macintosh_8100
-"April 25, 1994",Workgroup Server 9150,Workgroup Server,"February 26, 1996",https://en.wikipedia.org/wiki/Workgroup_Server_9150
-"May 16, 1994",PowerBook 520c,PowerBook 500,"September 16, 1995",https://en.wikipedia.org/wiki/PowerBook_500
-"May 16, 1994",PowerBook 540c,PowerBook 500,"August 16, 1995",https://en.wikipedia.org/wiki/PowerBook_500
-"May 16, 1994",PowerBook 550,PowerBook 500,"April 1, 1996",https://en.wikipedia.org/wiki/PowerBook_500
-"May 16, 1994",PowerBook Duo 280,PowerBook Duo,"November 14, 1994",https://en.wikipedia.org/wiki/PowerBook_Duo
-"May 16, 1994",PowerBook Duo 280c,PowerBook Duo,"January 1, 1996",https://en.wikipedia.org/wiki/PowerBook_Duo
-"May 16, 1994",PowerBook Duo Dock II,PowerBook Duo,"May 25, 1995",https://en.wikipedia.org/wiki/Duo_Dock
-"July 18, 1994",Quadra 630,Quadra,"April 17, 1995",https://en.wikipedia.org/wiki/Quadra_630
-"July 18, 1994",PowerBook 150,PowerBook 100,"October 14, 1995",https://en.wikipedia.org/wiki/PowerBook_150
-"July 18, 1994",Apple Multiple Scan 15 Display,Display,"September 14, 1996",https://en.wikipedia.org/wiki/Apple_Multiple_Scan_15_Display
-"September 1, 1994",Color StyleWriter 2400,StyleWriter,[?],https://en.wikipedia.org/wiki/Color_StyleWriter_2400
-"September 1, 1994",LaserWriter 16/600 PS,LaserWriter,[?],https://en.wikipedia.org/wiki/LaserWriter_16/600_PS
-"November 3, 1994",Macintosh LC 630,LC,"March 2, 1996",https://en.wikipedia.org/wiki/Macintosh_LC_630
-"December 1, 1994",Pippin,Pippin,"December 1, 1997",https://en.wikipedia.org/wiki/Bandai_Pippin
-"January 28, 1995",Power Macintosh 6200 / 6300,Power Macintosh,"October 17, 1996",https://en.wikipedia.org/wiki/Power_Macintosh_6200
-"February 23, 1995",Power Macintosh 8115,Power Macintosh,[?],https://en.wikipedia.org/wiki/Power_Macintosh_8115
-"April 1, 1995",StyleWriter 1200,StyleWriter,[?],https://en.wikipedia.org/wiki/StyleWriter_1200
-"April 3, 1995",Macintosh LC 580,Macintosh LC,"October 1, 1995",https://en.wikipedia.org/wiki/Macintosh_LC_580
-"April 3, 1995",Power Macintosh 5200 LC,Power Macintosh,"October 1, 1996",https://en.wikipedia.org/wiki/Power_Macintosh_5200_LC
-"May 1, 1995",Power Macintosh 6200,Power Macintosh,"July 1, 1997",https://en.wikipedia.org/wiki/Power_Macintosh_6200
-"May 15, 1995",PowerBook Duo Dock Plus,PowerBook Duo,[?],https://en.wikipedia.org/wiki/Duo_Dock
-"June 1, 1995",LaserWriter 4/600 PS,LaserWriter,[?],https://en.wikipedia.org/wiki/LaserWriter_4/600_PS
-"June 1, 1995",Color LaserWriter 12/600,LaserWriter,[?],https://en.wikipedia.org/wiki/Color_LaserWriter_12/600
-"June 1, 1995",Color StyleWriter 2200,StyleWriter,[?],https://en.wikipedia.org/wiki/Color_StyleWriter_2200
-"June 19, 1995",Power Macintosh 9500,Power Macintosh,"February 17, 1997",https://en.wikipedia.org/wiki/Power_Macintosh_9500
-"August 7, 1995",Power Macintosh 7200,Power Macintosh,"April 1, 1996",https://en.wikipedia.org/wiki/Power_Macintosh_7200
-"August 7, 1995",Power Macintosh 7500,Power Macintosh,"February 17, 1997",https://en.wikipedia.org/wiki/Power_Macintosh_7500
-"August 7, 1995",Power Macintosh 8500,Power Macintosh,"February 17, 1997",https://en.wikipedia.org/wiki/Power_Macintosh_8500
-"August 7, 1995",AppleVision 1710,Display,"August 5, 1997",https://en.wikipedia.org/wiki/AppleVision_1710
-"August 7, 1995",Apple Multiple Scan 14 Display,Display,"September 14, 1996",https://en.wikipedia.org/wiki/Apple_Multiple_Scan_14_Display
-"August 28, 1995",PowerBook 190,PowerBook 100,"September 1, 1996",https://en.wikipedia.org/wiki/PowerBook_190
-"August 28, 1995",PowerBook 5300,PowerBook 500,"September 1, 1996",https://en.wikipedia.org/wiki/PowerBook_5300
-"August 28, 1995",Power Macintosh 5300 LC,Power Macintosh,"March 1, 1997",https://en.wikipedia.org/wiki/Power_Macintosh_5300_LC
-"August 28, 1995",PowerBook Duo 2300c,PowerBook Duo,"February 1, 1997",https://en.wikipedia.org/wiki/PowerBook_Duo_2300c
-"January 11, 1996",Power Macintosh 7215,Power Macintosh,[?],https://en.wikipedia.org/wiki/Power_Macintosh_7200
-"January 11, 1996",Power Macintosh 8515,Power Macintosh,"April 1, 1996",https://en.wikipedia.org/wiki/Power_Macintosh_8500
-"February 15, 1996",Apple Network Server 500,Network Server,"April 1, 1997",https://en.wikipedia.org/wiki/Apple_Network_Server_500
-"February 15, 1996",Apple Network Server 700/150,Network Server,"April 1, 1997",https://en.wikipedia.org/wiki/Apple_Network_Server_700/150
-"February 17, 1996",Power Macintosh 5400,Power Macintosh,"March 1, 1998",https://en.wikipedia.org/wiki/Power_Macintosh_5400
-"February 19, 1996",Color StyleWriter 1500,StyleWriter,[?],https://en.wikipedia.org/wiki/Color_StyleWriter_1500
-"February 19, 1996",Color StyleWriter 2500,StyleWriter,[?],https://en.wikipedia.org/wiki/Color_StyleWriter_2500
-"February 26, 1996",Workgroup Server 7250,Workgroup Server,"April 21, 1997",https://en.wikipedia.org/wiki/Power_Macintosh_7200
-"February 26, 1996",Workgroup Server 8550,Workgroup Server,"April 21, 1997",https://en.wikipedia.org/wiki/Power_Macintosh_8500
-"April 1, 1996",Power Macintosh 7600,Power Macintosh,"October 1, 1997",https://en.wikipedia.org/wiki/Power_Macintosh_7600
-"April 15, 1996",Power Macintosh 5260,Power Macintosh,"March 1, 1997",https://en.wikipedia.org/wiki/Power_Macintosh_5260
-"April 22, 1996",Power Macintosh 7200/120 PC Compatible,Power Macintosh,"February 1, 1997",https://en.wikipedia.org/wiki/Power_Macintosh_7200
-"April 22, 1996",Power Macintosh 8200,Power Macintosh,"September 19, 1996",https://en.wikipedia.org/wiki/Power_Macintosh_7200
-"May 1, 1996",LaserWriter 12/640PS,LaserWriter,[?],https://en.wikipedia.org/wiki/LaserWriter_12/640PS
-"June 27, 1996",Power Macintosh 6300,Power Macintosh,"July 1, 1997",https://en.wikipedia.org/wiki/Power_Macintosh_6300
-"October 1, 1996",Power Macintosh 6400,Power Macintosh,"May 1, 1997",https://en.wikipedia.org/wiki/Power_Macintosh_6400
-"October 1, 1996",Color LaserWriter 12/660 PS,LaserWriter,[?],https://en.wikipedia.org/wiki/Color_LaserWriter_12/660_PS
-"October 16, 1996",Apple Network Server 700/200,Network Server,"April 1, 1997",https://en.wikipedia.org/wiki/Apple_Network_Server_700/200
-"November 15, 1996",Power Macintosh 4400,Power Macintosh,"October 11, 1997",https://en.wikipedia.org/wiki/Power_Macintosh_4400
-"November 20, 1996",PowerBook 1400,PowerBook,"May 6, 1998",https://en.wikipedia.org/wiki/PowerBook_1400
-"February 17, 1997",Power Macintosh 5500,Power Macintosh,"March 31, 1998",https://en.wikipedia.org/wiki/Power_Macintosh_5500
-"February 17, 1997",Power Macintosh 6500,Power Macintosh,"March 14, 1998",https://en.wikipedia.org/wiki/Power_Macintosh_6500
-"February 17, 1997",Power Macintosh 7220,Power Macintosh,[?],https://en.wikipedia.org/wiki/Power_Macintosh_7220
-"February 17, 1997",Power Macintosh 7300,Power Macintosh,"November 10, 1997",https://en.wikipedia.org/wiki/Power_Macintosh_7300
-"February 17, 1997",Power Macintosh 8600,Power Macintosh,"February 17, 1998",https://en.wikipedia.org/wiki/Power_Macintosh_8600
-"February 17, 1997",Power Macintosh 9600,Power Macintosh,"March 17, 1998",https://en.wikipedia.org/wiki/Power_Macintosh_9600
-"February 17, 1997",PowerBook 3400,PowerBook,"March 14, 1998",https://en.wikipedia.org/wiki/PowerBook_3400
-"March 7, 1997",eMate 300,Newton,"February 27, 1998",https://en.wikipedia.org/wiki/EMate_300
-"March 20, 1997",Twentieth Anniversary Macintosh,Power Macintosh,"March 14, 1998",https://en.wikipedia.org/wiki/Twentieth_Anniversary_Macintosh
-"April 21, 1997",Workgroup Server 7350,Workgroup Server,"March 2, 1998",https://en.wikipedia.org/wiki/Power_Macintosh_7300
-"April 21, 1997",Workgroup Server 9650,Workgroup Server,"March 2, 1998",https://en.wikipedia.org/wiki/Power_Macintosh_9600
-"May 8, 1997",PowerBook 2400c,PowerBook,"March 14, 1998",https://en.wikipedia.org/wiki/PowerBook_2400c
-"June 16, 1997",Color StyleWriter 4100,StyleWriter,[?],https://en.wikipedia.org/wiki/StyleWriter
-"June 16, 1997",Color StyleWriter 4500,StyleWriter,[?],https://en.wikipedia.org/wiki/Wikipedia:Cleanup
-"June 16, 1997",Color StyleWriter 6500,StyleWriter,[?],https://en.wikipedia.org/wiki/Wikipedia:Cleanup
-"August 5, 1997",LaserWriter 8500,LaserWriter,[?],https://en.wikipedia.org/wiki/LaserWriter
-"August 5, 1997",Apple ColorSync/AppleVision 750 Display,Display,"November 10, 1998",https://en.wikipedia.org/wiki/Apple_ColorSync/AppleVision_750_Display
-"November 10, 1997",Power Macintosh G3 desktop,Power Macintosh,"January 5, 1999",https://en.wikipedia.org/wiki/Power_Macintosh_G3
-"November 10, 1997",Power Macintosh G3 minitower,Power Macintosh,"January 5, 1999",https://en.wikipedia.org/wiki/Power_Macintosh_G3
-"November 10, 1997",PowerBook G3,PowerBook G3,"March 14, 1998",https://en.wikipedia.org/wiki/PowerBook_G3
-"January 31, 1998",Power Macintosh G3 AIO,Power Macintosh,"October 17, 1998",https://en.wikipedia.org/wiki/Power_Macintosh_G3
-"March 2, 1998",Macintosh Server G3,Macintosh Server,"January 1, 1999",https://en.wikipedia.org/wiki/Power_Macintosh_G3
-"March 17, 1998",Apple Studio Display,Display,"June 1, 2004",https://en.wikipedia.org/wiki/Apple_Studio_Display_(1998%E2%80%932004)
-"May 6, 1998",PowerBook G3 series,PowerBook G3,"May 10, 1999",https://en.wikipedia.org/wiki/PowerBook_G3_series
-"August 15, 1998",iMac G3,iMac,"May 10, 1999",https://en.wikipedia.org/wiki/IMac_G3
-"January 5, 1999",Power Macintosh G3 (Blue & White),Power Macintosh,"October 13, 1999",https://en.wikipedia.org/wiki/Power_Macintosh_G3_(Blue_%26_White)
-"January 5, 1999",Macintosh Server G3 (Blue & White),Macintosh Server,"August 31, 1999",https://en.wikipedia.org/wiki/Power_Macintosh_G3_(Blue_%26_White)
-"May 10, 1999","PowerBook G3 (""Lombard"")",PowerBook G3,"February 16, 2000",https://en.wikipedia.org/wiki/PowerBook_G3
-"July 21, 1999",iBook G3,iBook,"September 13, 2000",https://en.wikipedia.org/wiki/IBook_G3
-"July 21, 1999","AirPort (802.11b, ""Graphite"")",AirPort,"November 13, 2001",https://en.wikipedia.org/wiki/AirPort#AirPort_Base_Station
-"August 31, 1999",Macintosh Server G4,Macintosh Server,"July 19, 2000",https://en.wikipedia.org/wiki/Power_Mac_G4
-"September 1, 1999","Cinema Display (22"")",Displays,"July 19, 2000",https://en.wikipedia.org/wiki/Apple_Cinema_Display
-"October 5, 1999",iMac (slot loading),iMac,"January 7, 2002",https://en.wikipedia.org/wiki/IMac_G3#Slot-loading_model
-"October 13, 1999",Power Mac G4 Graphite,Power Macintosh,"July 18, 2001",https://en.wikipedia.org/wiki/Power_Mac_G4
-"February 16, 2000","PowerBook (""Pismo"")",PowerBook G3,"January 9, 2001",https://en.wikipedia.org/wiki/PowerBook_G3
-"July 19, 2000",Power Mac G4 Cube,Power Macintosh,"July 3, 2001",https://en.wikipedia.org/wiki/Power_Mac_G4_Cube
-"July 19, 2000","Cinema Display (22"")(ADC)",Displays,"January 28, 2003",https://en.wikipedia.org/wiki/Apple_Cinema_Display
-"July 19, 2000",Apple Pro Speakers(USB),Speakers,"January 9, 2001",https://en.wikipedia.org/wiki/Apple_speakers
-"September 13, 2000",iBook (FireWire),iBook,"May 1, 2001",https://en.wikipedia.org/wiki/IBook
-"January 9, 2001",PowerBook G4 Titanium,PowerBook G4,"September 16, 2003",https://en.wikipedia.org/wiki/PowerBook_G4
-"January 9, 2001",Power Mac G4 Digital Audio,Power Macintosh,"July 18, 2001",https://en.wikipedia.org/wiki/Power_Mac_G4
-"January 9, 2001",Apple Pro Speakers(minijack),Speakers,2004,https://en.wikipedia.org/wiki/Apple_speakers
-"May 1, 2001",iBook (white),iBook,"October 22, 2003",https://en.wikipedia.org/wiki/IBook
-"July 18, 2001",Power Mac G4 Quicksilver,Power Macintosh,"August 13, 2002",https://en.wikipedia.org/wiki/Power_Mac_G4
-"September 8, 2001",Server G4 Quicksilver,Macintosh Server,"May 14, 2002",https://en.wikipedia.org/wiki/Macintosh_Server_G4
-"November 10, 2001",iPod (1st gen),iPod Classic,"July 17, 2002",https://en.wikipedia.org/wiki/IPod_classic#First_generation
-"January 7, 2002","iMac G4 15""",iMac,"August 31, 2004",https://en.wikipedia.org/wiki/IMac_G4
-"January 7, 2002","iBook (14"")",iBook,"October 22, 2003",https://en.wikipedia.org/wiki/IBook
-"April 29, 2002",eMac,eMac,"July 5, 2006",https://en.wikipedia.org/wiki/EMac
-"May 14, 2002",Xserve,Xserve,"February 10, 2003",https://en.wikipedia.org/wiki/Xserve
-"August 1, 2002","iMac G4 17""",iMac,"August 31, 2004",https://en.wikipedia.org/wiki/IMac_G4
-"August 1, 2002",iPod (2nd gen),iPod Classic,"April 28, 2003",https://en.wikipedia.org/wiki/IPod_Classic
-"August 13, 2002",Power Macintosh G4 MDD,Power Macintosh,"June 9, 2004",https://en.wikipedia.org/wiki/Power_Mac_G4
-"August 27, 2002",Macintosh Server G4 MDD,Macintosh Server,"January 28, 2003",https://en.wikipedia.org/wiki/Macintosh_Server_G4
-"January 7, 2003","PowerBook G4 Aluminum (12"")",PowerBook G4,"May 16, 2006",https://en.wikipedia.org/wiki/PowerBook_G4
-"January 7, 2003","PowerBook G4 Aluminum (17"")",PowerBook G4,"April 24, 2006",https://en.wikipedia.org/wiki/Aluminum_PowerBook_G4
-"January 7, 2003",AirPort Extreme(1st generation)[4][5][6],AirPort Extreme,[?],https://en.wikipedia.org/wiki/AirPort_Extreme
-"February 10, 2003",Xserve slot loading,Xserve,"January 6, 2004",https://en.wikipedia.org/wiki/Xserve
-"February 10, 2003",Xserve Cluster Node,Xserve,"January 6, 2004",https://en.wikipedia.org/wiki/Xserve
-"February 10, 2003",Xserve RAID,Xserve,"February 19, 2008",https://en.wikipedia.org/wiki/Xserve
-"May 2, 2003",iPod (3rd gen),iPod Classic,"July 19, 2004",https://en.wikipedia.org/wiki/IPod_Classic
-"June 23, 2003",Power Mac G5,Power Macintosh,"June 9, 2004",https://en.wikipedia.org/wiki/Power_Mac_G5
-"September 16, 2003","PowerBook G4 Aluminum (15"")",PowerBook G4,"February 14, 2006",https://en.wikipedia.org/wiki/PowerBook_G4
-"October 22, 2003","iBook G4 (12"" / 14"")",iBook,"May 16, 2006",https://en.wikipedia.org/wiki/IBook
-"November 18, 2003","iMac G4 20""",iMac,"August 31, 2004",https://en.wikipedia.org/wiki/IMac_G4
-"January 6, 2004",Xserve G5,Xserve,"August 7, 2006",https://en.wikipedia.org/wiki/Xserve
-"January 6, 2004",Xserve Cluster Node G5,Xserve,"August 7, 2006",https://en.wikipedia.org/wiki/Xserve
-"January 6, 2004",iPod In-Ear Headphones,Headphones,"June 25, 2009",https://en.wikipedia.org/wiki/Apple_earbuds
-"January 8, 2004",iPod+HP,iPod Classic,"July 29, 2005",https://en.wikipedia.org/wiki/IPod%2BHP
-"February 20, 2004",iPod Mini(1st gen),iPod Mini,"February 23, 2005",https://en.wikipedia.org/wiki/IPod_Mini
-"June 7, 2004",AirPort Express (802.11g),AirPort Express,"March 17, 2008",https://en.wikipedia.org/wiki/AirPort#AirPort_Express
-"June 9, 2004",Power Macintosh G5 FX,Power Macintosh,"October 19, 2005",https://en.wikipedia.org/wiki/Power_Mac_G5
-"June 28, 2004","Cinema Display (20"")",Displays,February 2009,https://en.wikipedia.org/wiki/Apple_displays
-"June 28, 2004","Cinema Display (23"")",Displays,November 2008,https://en.wikipedia.org/wiki/Apple_displays
-"June 28, 2004","Cinema Display (30"")",Displays,"July 27, 2010",https://en.wikipedia.org/wiki/Apple_displays
-"July 19, 2004",iPod (4th gen),iPod Classic,October 2005,https://en.wikipedia.org/wiki/IPod_Classic
-"August 31, 2004","iMac G5 17""",iMac,"January 10, 2006",https://en.wikipedia.org/wiki/IMac_G5
-"August 31, 2004","iMac G5 20""",iMac,"March 20, 2006",https://en.wikipedia.org/wiki/IMac_G5
-"October 26, 2004",iPod Photo,iPod Classic,"June 28, 2005",https://en.wikipedia.org/wiki/IPod_Photo
-"January 11, 2005",Mac Mini,Mac Mini,"February 28, 2006",https://en.wikipedia.org/wiki/Mac_Mini
-"January 11, 2005",iPod Shuffle(1st gen),iPod Shuffle,"September 12, 2006",https://en.wikipedia.org/wiki/IPod_Shuffle
-"February 23, 2005",iPod Mini(2nd gen),iPod Mini,"September 7, 2005",https://en.wikipedia.org/wiki/IPod_Mini
-"September 7, 2005",iPod Nano(1st gen),iPod Nano,"September 25, 2006",https://en.wikipedia.org/wiki/IPod_Nano
-"August 2, 2005",Apple Mighty Mouse,Pointing devices,"August 7, 2007",https://en.wikipedia.org/wiki/Apple_Mighty_Mouse
-October 2005,iPod (5th gen),iPod Classic,"September 5, 2007",https://en.wikipedia.org/wiki/IPod_Classic
-"October 19, 2005",Power Macintosh G5 dual core,Power Macintosh,"August 7, 2006",https://en.wikipedia.org/wiki/Power_Macintosh_G5
-"January 10, 2006",iMac (Early 2006),iMac,"September 6, 2006",https://en.wikipedia.org/wiki/IMac_(Intel-based)
-"January 10, 2006",iPod Radio Remote,iPod accessories,"June 25, 2009",https://en.wikipedia.org/wiki/IPod
-"February 14, 2006","MacBook Pro (15"")",MacBook Pro,"February 26, 2008",https://en.wikipedia.org/wiki/MacBook_Pro
-"February 28, 2006",Mac Mini Core Solo,Mac Mini,"September 6, 2006",https://en.wikipedia.org/wiki/Mac_Mini
-"February 28, 2006",Mac Mini Core Duo,Mac Mini,"August 7, 2007",https://en.wikipedia.org/wiki/Mac_Mini
-"February 28, 2006",iPod Hi-Fi,Speakers,"September 5, 2007",https://en.wikipedia.org/wiki/IPod_Hi-Fi
-"April 24, 2006","MacBook Pro (17"")",MacBook Pro,"February 26, 2008",https://en.wikipedia.org/wiki/MacBook_Pro
-"May 16, 2006",MacBook,MacBook,"April 10, 2015",https://en.wikipedia.org/wiki/MacBook_(2006-2012)
-"July 13, 2006",Nike+iPod,iPod accessories,2014,https://en.wikipedia.org/wiki/Nike%2BiPod
-"August 7, 2006",Mac Pro,Mac Pro,"January 8, 2008",https://en.wikipedia.org/wiki/Mac_Pro
-"August 7, 2006",Xserve (Intel),Xserve,"January 8, 2008",https://en.wikipedia.org/wiki/Xserve
-"September 6, 2006",iMac (Mid 2006),iMac,"August 7, 2007",https://en.wikipedia.org/wiki/IMac_(Intel-based)
-"September 12, 2006",iPod Shuffle(2nd gen),iPod Shuffle,"March 11, 2009",https://en.wikipedia.org/wiki/IPod_Shuffle
-"September 25, 2006",iPod Nano(2nd gen),iPod Nano,"September 5, 2007",https://en.wikipedia.org/wiki/IPod_Nano
-"March 21, 2007",Apple TV(1st generation),Apple TV,"September 1, 2010",https://en.wikipedia.org/wiki/Apple_TV
-"June 29, 2007",iPhone (1st generation)(4 GB),iPhone,"September 5, 2007",https://en.wikipedia.org/wiki/IPhone_(1st_generation)
-"June 29, 2007",iPhone (1st generation)(8 GB),iPhone,"July 11, 2008",https://en.wikipedia.org/wiki/IPhone_(1st_generation)
-"June 29, 2007",iPhone Bluetooth Headset,Headphones,"March 23, 2009",https://en.wikipedia.org/wiki/Apple_headphones
-"August 7, 2007",iMac(Mid 2007),iMac,"April 28, 2008",https://en.wikipedia.org/wiki/IMac_(Intel-based)
-"August 7, 2007",Apple Mighty Mouse(revised),Pointing devices,"June 5, 2017",https://en.wikipedia.org/wiki/Apple_Mighty_Mouse
-"August 7, 2007",Apple Keyboard with Numeric Keypad,Keyboards,"June 5, 2017",https://en.wikipedia.org/wiki/Apple_Keyboard
-"August 7, 2007",Apple Wireless Keyboard(Aluminum),Keyboards,"October 13, 2015",https://en.wikipedia.org/wiki/Apple_Wireless_Keyboard
-"August 7, 2007",Mac Mini(Mid 2007),Mac Mini,"March 3, 2009",https://en.wikipedia.org/wiki/Mac_Mini
-"September 5, 2007",iPod Nano(3rd gen),iPod Nano,"September 6, 2008",https://en.wikipedia.org/wiki/IPod_Nano
-"September 5, 2007",iPod Classic(6th gen),iPod Classic,"September 9, 2008",https://en.wikipedia.org/wiki/IPod_Classic
-"September 5, 2007",iPod Touch (1st generation)(8 & 16 GB),iPod Touch,"September 9, 2008",https://en.wikipedia.org/wiki/IPod_Touch_(1st_generation)
-"January 8, 2008",Xserve(Early 2008),Xserve,"April 7, 2009",https://en.wikipedia.org/wiki/Xserve
-"January 8, 2008",Mac Pro(Early 2008),Mac Pro,"March 3, 2009",https://en.wikipedia.org/wiki/Mac_Pro
-"January 15, 2008",MacBook Air(Early 2008),MacBook Air,"October 14, 2008",https://en.wikipedia.org/wiki/MacBook_Air_(Intel-based)
-"January 15, 2008",USB SuperDrive(previously MacBook Air SuperDrive),Drives,August 2024[a],https://en.wikipedia.org/wiki/SuperDrive
-"February 5, 2008",iPhone (1st generation)(16 GB),iPhone,"July 11, 2008",https://en.wikipedia.org/wiki/IPhone_(1st_generation)
-"February 26, 2008",MacBook(Early 2008),MacBook,"October 14, 2008",https://en.wikipedia.org/wiki/MacBook
-"February 26, 2008","MacBook Pro(Early 2008) (15"")",MacBook Pro,"October 14, 2008",https://en.wikipedia.org/wiki/MacBook_Pro_(Intel-based)
-"February 26, 2008","MacBook Pro(Early 2008) (17"")",MacBook Pro,"January 6, 2009",https://en.wikipedia.org/wiki/MacBook_Pro
-"February 27, 2008",iPod Touch (1st generation)(32 GB),iPod Touch,"September 9, 2008",https://en.wikipedia.org/wiki/IPod_Touch_(1st_generation)
-"February 29, 2008",Time Capsule(1st gen),"AirPort,drives","March 3, 2009",https://en.wikipedia.org/wiki/Apple_Time_Capsule
-"March 17, 2008",AirPort Express 802.11n(1st gen),AirPort Express,"June 11, 2012",https://en.wikipedia.org/wiki/AirPort_Express
-"April 28, 2008",iMac(Early 2008),iMac,"March 3, 2009",https://en.wikipedia.org/wiki/IMac_(Intel-based)
-"July 11, 2008",iPhone 3G(8 GB),iPhone,"June 7, 2010",https://en.wikipedia.org/wiki/IPhone_3G
-"July 11, 2008",iPhone 3G(16 GB),iPhone,"June 8, 2009",https://en.wikipedia.org/wiki/IPhone_3G
-"September 9, 2008",iPod Nano(4th gen),iPod Nano,"September 9, 2009",https://en.wikipedia.org/wiki/IPod_Nano
-"September 9, 2008",iPod Classic(6th gen) (120 GB),iPod Classic,"September 9, 2009",https://en.wikipedia.org/wiki/IPod_Classic
-"September 9, 2008",iPod Touch (2nd generation)(8 GB),iPod Touch,"September 1, 2010",https://en.wikipedia.org/wiki/IPod_touch_(2nd_generation)
-"September 9, 2008",iPod Touch (2nd generation)(16 & 32 GB),iPod Touch,"September 9, 2009",https://en.wikipedia.org/wiki/IPod_touch_(2nd_generation)
-"September 9, 2008",In-Ear Headphones,Headphones,2018,https://en.wikipedia.org/wiki/Apple_headphones
-"October 14, 2008",MacBook Air(Late 2008),MacBook Air,"June 8, 2009",https://en.wikipedia.org/wiki/MacBook_Air_(Intel-based)
-"October 14, 2008",MacBook(Late 2008) (White),MacBook,"January 29, 2009",https://en.wikipedia.org/wiki/MacBook
-"October 14, 2008",MacBook(Late 2008) (Aluminum),MacBook,"June 8, 2009",https://en.wikipedia.org/wiki/MacBook
-"October 14, 2008","MacBook Pro(Late 2008) (15"")",MacBook Pro,"June 8, 2009",https://en.wikipedia.org/wiki/MacBook_Pro
-"October 14, 2008","LED Cinema Display (24"")",Displays,"July 27, 2010",https://en.wikipedia.org/wiki/Apple_Cinema_Display#LED_Cinema_Display
-"January 6, 2009","MacBook Pro(Early 2009) (17"")",MacBook Pro,"June 8, 2009",https://en.wikipedia.org/wiki/MacBook_Pro
-"January 29, 2009",MacBook(Early 2009) (White),MacBook,"May 27, 2009",https://en.wikipedia.org/wiki/MacBook
-"March 3, 2009",Mac Mini(Early 2009),Mac Mini,"October 20, 2009",https://en.wikipedia.org/wiki/Mac_Mini
-"March 3, 2009",iMac(Early 2009),iMac,"October 20, 2009",https://en.wikipedia.org/wiki/IMac_(Intel-based)
-"March 3, 2009",Mac Pro(Early 2009),Mac Pro,"August 9, 2010",https://en.wikipedia.org/wiki/Mac_Pro
-"March 3, 2009",Time Capsule(2nd gen) (500 GB),"AirPort,drives","July 30, 2009",https://en.wikipedia.org/wiki/Apple_Time_Capsule
-"March 3, 2009",Time Capsule(2nd gen) (1 TB),"AirPort,drives","March 31, 2010",https://en.wikipedia.org/wiki/Apple_Time_Capsule
-"March 3, 2009",AirPort Extreme 802.11n(3rd gen),AirPort,"October 20, 2009",https://en.wikipedia.org/wiki/AirPort_Extreme_802.11n
-"March 3, 2009",Apple Keyboard(short),Keyboards,"October 20, 2009",https://en.wikipedia.org/wiki/Apple_Keyboard
-"March 11, 2009",iPod Shuffle(3rd gen) (4 GB),iPod Shuffle,"September 1, 2010",https://en.wikipedia.org/wiki/IPod_Shuffle
-"April 7, 2009",Xserve(2009),Xserve,"January 31, 2011",https://en.wikipedia.org/wiki/Xserve
-"May 27, 2009",MacBook(Mid 2009),MacBook,"October 20, 2009",https://en.wikipedia.org/wiki/MacBook
-"June 8, 2009",MacBook Pro(Mid 2009),MacBook Pro,"April 13, 2010",https://en.wikipedia.org/wiki/MacBook_Pro
-"June 8, 2009",MacBook Air(Mid 2009),MacBook Air,"October 20, 2010",https://en.wikipedia.org/wiki/MacBook_Air_(Intel-based)
-"June 19, 2009",iPhone 3GS(16 & 32 GB),iPhone,"June 24, 2010",https://en.wikipedia.org/wiki/IPhone_3GS
-"July 30, 2009",Time Capsule(2nd gen) (2 TB),"AirPort,drives","March 31, 2010",https://en.wikipedia.org/wiki/Apple_Time_Capsule
-"September 9, 2009",iPod Nano(5th gen),iPod Nano,"September 1, 2010",https://en.wikipedia.org/wiki/IPod_Nano
-"September 9, 2009",iPod Classic(6th gen) (160 GB),iPod Classic,"September 9, 2014",https://en.wikipedia.org/wiki/IPod_Classic
-"September 9, 2009",iPod Touch (3rd generation),iPod Touch,"September 1, 2010",https://en.wikipedia.org/wiki/IPod_touch_(3rd_generation)
-"September 9, 2009",iPod Shuffle(3rd gen) (2 GB),iPod Shuffle,"September 1, 2010",https://en.wikipedia.org/wiki/IPod_Shuffle
-"October 20, 2009",iMac(Late 2009),iMac,"July 27, 2010",https://en.wikipedia.org/wiki/IMac_(Intel-based)
-"October 20, 2009",MacBook(Late 2009),MacBook,"May 18, 2010",https://en.wikipedia.org/wiki/MacBook
-"October 20, 2009",Mac Mini(Late 2009),Mac Mini,"June 15, 2010",https://en.wikipedia.org/wiki/Mac_Mini
-"October 20, 2009",Magic Mouse,Pointing devices,"October 13, 2015",https://en.wikipedia.org/wiki/Magic_Mouse
-"October 20, 2009",AirPort Extreme 802.11n(4th gen),AirPort,"June 21, 2011",https://en.wikipedia.org/wiki/AirPort_Extreme_802.11n
-"March 31, 2010",Time Capsule(3rd gen),"AirPort,drives","June 21, 2011",https://en.wikipedia.org/wiki/AirPort_Time_Capsule
-"April 3, 2010",iPad(Wi-Fi),iPad,"March 3, 2011",https://en.wikipedia.org/wiki/IPad_(1st_generation)
-"April 13, 2010",MacBook Pro(Mid 2010),MacBook Pro,"February 24, 2011",https://en.wikipedia.org/wiki/MacBook_Pro
-"April 30, 2010",iPad(Wi-Fi + 3G),iPad,"March 2, 2011",https://en.wikipedia.org/wiki/IPad_(1st_generation)
-"May 18, 2010",MacBook(Mid 2010),MacBook,"July 20, 2011",https://en.wikipedia.org/wiki/MacBook
-"June 15, 2010",Mac Mini(Mid 2010),Mac Mini,"July 20, 2011",https://en.wikipedia.org/wiki/Mac_Mini
-"June 24, 2010",iPhone 3GS(8 GB),iPhone,"September 12, 2012",https://en.wikipedia.org/wiki/IPhone_3GS
-"June 24, 2010",iPhone 4(GSM) (16 & 32 GB),iPhone,"October 4, 2011",https://en.wikipedia.org/wiki/IPhone_4
-"July 27, 2010",iMac(Mid 2010),iMac,"May 3, 2011",https://en.wikipedia.org/wiki/IMac
-"July 27, 2010",Magic Trackpad,Pointing devices,"October 13, 2015",https://en.wikipedia.org/wiki/Magic_Trackpad
-"July 27, 2010",Apple Battery Charger,Input Device Accessories,"January 15, 2016",https://en.wikipedia.org/wiki/Apple_Battery_Charger
-"July 27, 2010","LED Cinema Display (27"")",Displays,"December 2, 2013",https://en.wikipedia.org/wiki/Apple_Cinema_Display#LED_Cinema_Display
-"August 9, 2010",Mac Pro(Mid 2010),Mac Pro,"June 11, 2012",https://en.wikipedia.org/wiki/Mac_Pro
-"September 1, 2010",iPod Touch (4th generation)(8 & 64 GB),iPod Touch,"September 12, 2012",https://en.wikipedia.org/wiki/IPod_Touch_(4th_generation)
-"September 1, 2010",iPod Touch (4th generation)(32 GB),iPod Touch,"May 30, 2013",https://en.wikipedia.org/wiki/IPod_Touch_(4th_generation)
-"September 1, 2010",iPod Nano(6th gen),iPod Nano,"September 12, 2012",https://en.wikipedia.org/wiki/IPod_Nano
-"September 1, 2010",iPod Shuffle(4th gen),iPod Shuffle,"July 27, 2017",https://en.wikipedia.org/wiki/IPod_Shuffle
-"September 1, 2010",Apple TV(2nd gen),Apple TV,"March 7, 2012",https://en.wikipedia.org/wiki/Apple_TV
-"October 20, 2010",MacBook Air(Late 2010),MacBook Air,"July 20, 2011",https://en.wikipedia.org/wiki/MacBook_Air
-"February 10, 2011",iPhone 4(CDMA) (16 & 32 GB),iPhone,"October 4, 2011",https://en.wikipedia.org/wiki/IPhone_4
-"February 24, 2011",MacBook Pro(Early 2011),MacBook Pro,"October 24, 2011",https://en.wikipedia.org/wiki/MacBook_Pro
-"March 11, 2011",iPad 2(16 GB),iPad,"March 18, 2014",https://en.wikipedia.org/wiki/IPad_2
-"March 11, 2011",iPad 2(32 & 64 GB),iPad,"March 7, 2012",https://en.wikipedia.org/wiki/IPad_2
-"May 3, 2011",iMac(Mid 2011),iMac,"November 30, 2012",https://en.wikipedia.org/wiki/IMac
-"June 21, 2011",AirPort Extreme 802.11n(5th gen),AirPort,"June 10, 2013",https://en.wikipedia.org/wiki/AirPort_Extreme_802.11n
-"June 21, 2011",Time Capsule(4th gen),"AirPort,drives","June 10, 2013",https://en.wikipedia.org/wiki/AirPort_Time_Capsule
-"July 20, 2011",MacBook Air(Mid 2011),MacBook Air,"June 11, 2012",https://en.wikipedia.org/wiki/MacBook_Air_(Intel-based)
-"July 20, 2011",Mac Mini(Mid 2011),Mac Mini,"October 23, 2012",https://en.wikipedia.org/wiki/Mac_Mini
-"July 20, 2011",Thunderbolt Display,Displays,"June 23, 2016",https://en.wikipedia.org/wiki/Apple_Thunderbolt_Display
-"October 14, 2011",iPhone 4(8 GB),iPhone,"September 10, 2013",https://en.wikipedia.org/wiki/IPhone_4
-"October 14, 2011",iPhone 4S(16 GB),iPhone,"September 10, 2013",https://en.wikipedia.org/wiki/IPhone_4S
-"October 14, 2011",iPhone 4S(32 & 64 GB),iPhone,"September 12, 2012",https://en.wikipedia.org/wiki/IPhone_4S
-"October 24, 2011",MacBook Pro(Late 2011),MacBook Pro,"June 11, 2012",https://en.wikipedia.org/wiki/MacBook_Pro
-"March 16, 2012",iPad (3rd gen),iPad,"October 23, 2012",https://en.wikipedia.org/wiki/IPad_(3rd_generation)
-"March 16, 2012",Apple TV(3rd gen),Apple TV,"January 28, 2013",https://en.wikipedia.org/wiki/Apple_TV
-"June 11, 2012",Mac Pro(Mid 2012),Mac Pro,"December 19, 2013",https://en.wikipedia.org/wiki/Mac_Pro
-"June 11, 2012",MacBook Air(Mid 2012),MacBook Air,"June 10, 2013",https://en.wikipedia.org/wiki/MacBook_Air
-"June 11, 2012",MacBook Pro(Mid 2012),MacBook Pro,"October 27, 2016",https://en.wikipedia.org/wiki/MacBook_Pro
-"June 11, 2012","MacBook Prowith Retina display (3rd gen) (15"") (Mid 2012)",MacBook Pro,"February 13, 2013",https://en.wikipedia.org/wiki/MacBook_Pro
-"June 11, 2012",AirPort Express 802.11n(2nd gen),AirPort Express,"April 26, 2018",https://en.wikipedia.org/wiki/AirPort_Express
-"September 12, 2012",EarPods with 3.5mm connector,Headphones,current,https://en.wikipedia.org/wiki/Apple_earbuds
-"September 12, 2012",iPod Touch (4th generation)(16 GB),iPod Touch,"May 30, 2013",https://en.wikipedia.org/wiki/IPod_Touch_(4th_generation)
-"September 21, 2012",iPhone 5,iPhone,"September 10, 2013",https://en.wikipedia.org/wiki/IPhone_5
-"October 11, 2012",iPod Touch (5th generation)(32 & 64 GB),iPod Touch,"July 15, 2015",https://en.wikipedia.org/wiki/IPod_Touch_(5th_generation)
-"October 11, 2012",iPod Nano(7th gen),iPod Nano,"July 27, 2017",https://en.wikipedia.org/wiki/IPod_Nano
-"October 23, 2012",Mac Mini(Late 2012),Mac Mini,"October 16, 2014",https://en.wikipedia.org/wiki/Mac_Mini
-"October 23, 2012","MacBook Prowith Retina display (3rd gen) (13"") (Late 2012)",MacBook Pro,"February 13, 2013",https://en.wikipedia.org/wiki/MacBook_Pro
-"November 2, 2012",iPad mini (1st gen)(Wi-Fi) (16 GB),iPad,"June 19, 2015",https://en.wikipedia.org/wiki/IPad_Mini_(1st_generation)
-"November 2, 2012",iPad mini (1st gen)(Wi-Fi) (32 & 64 GB),iPad,"October 22, 2013",https://en.wikipedia.org/wiki/IPad_Mini_(1st_generation)
-"November 2, 2012",iPad (4th gen)(Wi-Fi) (16 GB),iPad,"October 16, 2014",https://en.wikipedia.org/wiki/IPad_(4th_generation)
-"November 2, 2012",iPad (4th gen)(Wi-Fi) (32 & 64 GB),iPad,"October 22, 2013",https://en.wikipedia.org/wiki/IPad_(4th_generation)
-"November 16, 2012",iPad Mini(Wi-Fi + Cellular) (16 GB),iPad,"June 19, 2015",https://en.wikipedia.org/wiki/IPad_Mini
-"November 16, 2012",iPad Mini(Wi-Fi + Cellular) (32 & 64 GB),iPad,"October 22, 2013",https://en.wikipedia.org/wiki/IPad_Mini
-"November 16, 2012",iPad (4th gen)(Wi-Fi + Cellular) (16 GB),iPad,"October 16, 2014",https://en.wikipedia.org/wiki/IPad_(4th_generation)
-"November 16, 2012",iPad (4th gen)(Wi-Fi + Cellular) (32 & 64 GB),iPad,"October 22, 2013",https://en.wikipedia.org/wiki/IPad_(4th_generation)
-"November 30, 2012","iMac(21.5"") (Late 2012)",iMac,"September 24, 2013",https://en.wikipedia.org/wiki/IMac
-December 2012,"iMac(27"") (Late 2012)",iMac,"September 24, 2013",https://en.wikipedia.org/wiki/IMac
-"January 28, 2013",Apple TV(3rd generation Rev A),Apple TV,"September 8, 2016",https://en.wikipedia.org/wiki/Apple_TV
-"February 13, 2013","MacBook Pro(Retina, Early 2013)",MacBook Pro,"October 22, 2013",https://en.wikipedia.org/wiki/MacBook_Pro
-"May 30, 2013",iPod Touch (5th generation)(16 GB),iPod Touch,"June 26, 2014",https://en.wikipedia.org/wiki/IPod_Touch_(5th_generation)
-"June 10, 2013",AirPort Extreme 802.11ac,AirPort,"April 26, 2018",https://en.wikipedia.org/wiki/AirPort_Extreme#6th_generation
-"June 10, 2013",AirPort Time Capsule802.11ac,"AirPort,drives","April 26, 2018",https://en.wikipedia.org/wiki/AirPort_Time_Capsule
-"June 10, 2013",MacBook Air(Mid 2013),MacBook Air,"April 29, 2014",https://en.wikipedia.org/wiki/MacBook_Air_(Intel-based)
-"September 20, 2013",iPhone 4S(8 GB),iPhone,"September 9, 2014",https://en.wikipedia.org/wiki/IPhone_4S
-"September 20, 2013",iPhone 5C(16 & 32 GB),iPhone,"September 9, 2014",https://en.wikipedia.org/wiki/IPhone_5C
-"September 20, 2013",iPhone 5S(16 & 32 GB),iPhone,"March 21, 2016",https://en.wikipedia.org/wiki/IPhone_5S
-"September 20, 2013",iPhone 5S(64 GB),iPhone,"September 9, 2014",https://en.wikipedia.org/wiki/IPhone_5S
-"September 24, 2013","iMac(21.5-inch, Late 2013)",iMac,"June 18, 2014",https://en.wikipedia.org/wiki/IMac
-"September 24, 2013","iMac(27-inch, Late 2013)",iMac,"October 13, 2015",https://en.wikipedia.org/wiki/IMac
-"October 22, 2013","MacBook Pro(Retina, Late 2013)",MacBook Pro,"July 29, 2014",https://en.wikipedia.org/wiki/MacBook_Pro
-"November 1, 2013",iPad Air(16 & 32 GB),iPad,"March 21, 2016",https://en.wikipedia.org/wiki/IPad_Air
-"November 1, 2013",iPad Air(64 & 128 GB),iPad,"October 16, 2014",https://en.wikipedia.org/wiki/IPad_Air
-"November 12, 2013",iPad Mini 2with Retina display (16 GB),iPad,"September 7, 2016",https://en.wikipedia.org/wiki/IPad_Mini_2
-"November 12, 2013",iPad Mini 2with Retina display (32 GB),iPad,"March 21, 2017",https://en.wikipedia.org/wiki/IPad_Mini_2
-"November 12, 2013",iPad Mini 2with Retina display (64 & 128 GB),iPad,"October 16, 2014",https://en.wikipedia.org/wiki/IPad_Mini_2
-"December 19, 2013",Mac Pro(Late 2013),Mac Pro,"December 10, 2019",https://en.wikipedia.org/wiki/Mac_Pro
-"March 18, 2014",iPhone 5C(8 GB),iPhone,"September 9, 2015",https://en.wikipedia.org/wiki/IPhone_5C
-"April 29, 2014",MacBook Air(Early 2014),MacBook Air,"March 9, 2015",https://en.wikipedia.org/wiki/MacBook_Air_(Intel-based)
-"June 18, 2014","iMac(21.5-inch, Mid 2014)",iMac,"June 5, 2017",https://en.wikipedia.org/wiki/IMac_(Intel-based)
-"June 26, 2014","iPod Touch 16GB (5th generation, Mid 2013)",iPod Touch,"July 15, 2015",https://en.wikipedia.org/wiki/IPod_Touch_(5th_generation)
-"July 29, 2014","MacBook Pro(Retina, Mid 2014)",MacBook Pro,"March 9, 2015",https://en.wikipedia.org/wiki/MacBook_Pro
-"September 19, 2014",iPhone 6(16 & 64 GB),iPhone,"September 7, 2016",https://en.wikipedia.org/wiki/IPhone_6
-"September 19, 2014",iPhone 6 Plus(16 & 64 GB),iPhone,"September 7, 2016",https://en.wikipedia.org/wiki/IPhone_6_Plus
-"September 19, 2014",iPhone 6(128 GB),iPhone,"September 9, 2015",https://en.wikipedia.org/wiki/IPhone_6
-"September 19, 2014",iPhone 6 Plus(128 GB),iPhone,"September 9, 2015",https://en.wikipedia.org/wiki/IPhone_6_Plus
-"October 16, 2014","iMac(Retina 5K, 27-inch, Late 2014)",iMac,"October 13, 2015",https://en.wikipedia.org/wiki/IMac_(Intel-based)
-"October 16, 2014",Mac Mini(Late 2014),Mac Mini,"October 30, 2018",https://en.wikipedia.org/wiki/Mac_Mini
-"October 22, 2014",iPad Air 2(16 & 64 GB),iPad,"September 7, 2016",https://en.wikipedia.org/wiki/IPad_Air_2
-"October 22, 2014",iPad Air 2(128 GB),iPad,"March 21, 2017",https://en.wikipedia.org/wiki/IPad_Air_2
-"October 22, 2014","iPad Mini 3(16, 64 & 128 GB)",iPad,"September 9, 2015",https://en.wikipedia.org/wiki/IPad_Mini_3
-"March 9, 2015","MacBook Air(13-inch, Early 2015)",MacBook Air,"June 5, 2017",https://en.wikipedia.org/wiki/MacBook_Air_(Intel-based)
-"March 9, 2015","MacBook Air(11-inch, Early 2015)",MacBook Air,"October 27, 2016",https://en.wikipedia.org/wiki/MacBook_Air_(Intel-based)
-"March 9, 2015","MacBook Pro(Retina, 13-inch, Early 2015)",MacBook Pro,"June 5, 2017",https://en.wikipedia.org/wiki/MacBook_Pro
-"April 10, 2015","MacBook(Retina, 12-inch, Early 2015)",MacBook,"April 19, 2016",https://en.wikipedia.org/wiki/MacBook_(2015%E2%80%932019)
-"April 24, 2015",Apple Watch(1st generation),Apple Watch,"September 7, 2016",https://en.wikipedia.org/wiki/Apple_Watch
-"April 24, 2015",Apple Watch Sport(1st generation),Apple Watch,"September 7, 2016",https://en.wikipedia.org/wiki/Apple_Watch_Sport
-"April 24, 2015",Apple Watch Edition(1st generation),Apple Watch,"September 7, 2016",https://en.wikipedia.org/wiki/Apple_Watch_Edition
-"May 19, 2015","MacBook Pro(Retina, 15-inch, Mid 2015)",MacBook Pro,"July 12, 2018",https://en.wikipedia.org/wiki/MacBook_Pro
-"May 19, 2015","iMac(Retina 5K, 27-inch, Mid 2015)",iMac,"October 13, 2015[citation needed]",https://en.wikipedia.org/wiki/IMac_(Intel-based)
-"July 15, 2015",iPod Touch (6th generation)(32 GB and 128 GB),iPod Touch,"May 28, 2019",https://en.wikipedia.org/wiki/IPod_Touch_(6th_generation)
-"July 15, 2015",iPod Touch (6th generation)(16 GB and 64 GB),iPod Touch,"July 27, 2017",https://en.wikipedia.org/wiki/IPod_Touch_(6th_generation)
-"September 9, 2015",iPad Mini 4(16 GB and 64 GB),iPad,"September 7, 2016",https://en.wikipedia.org/wiki/IPad_Mini_4
-"September 9, 2015",iPad Mini 4(32 GB),iPad,"March 21, 2017",https://en.wikipedia.org/wiki/IPad_Mini_4
-"September 9, 2015",iPad Mini 4(128 GB),iPad,"March 18, 2019",https://en.wikipedia.org/wiki/IPad_Mini_4
-"September 25, 2015",iPhone 6S(16GB and 64GB),iPhone,"September 7, 2016",https://en.wikipedia.org/wiki/IPhone_6S
-"September 25, 2015",iPhone 6S(128 GB),iPhone,"September 12, 2018",https://en.wikipedia.org/wiki/IPhone_6S
-"September 25, 2015",iPhone 6S Plus(16GB and 64GB),iPhone,"September 7, 2016",https://en.wikipedia.org/wiki/IPhone_6S
-"September 25, 2015",iPhone 6S Plus(128 GB),iPhone,"September 12, 2018",https://en.wikipedia.org/wiki/IPhone_6S
-"October 13, 2015","iMac(21.5-inch, Late 2015)",iMac,"June 5, 2017",https://en.wikipedia.org/wiki/IMac_(Intel-based)
-"October 13, 2015","iMac(Retina 4K, 21.5-inch, Late 2015)",iMac,"June 5, 2017",https://en.wikipedia.org/wiki/IMac_(Intel-based)
-"October 13, 2015","iMac(Retina 5K, 27-inch, Late 2015)",iMac,"June 5, 2017",https://en.wikipedia.org/wiki/IMac_(Intel-based)
-"October 13, 2015",Magic Mouse 2 (Lightning),Pointing devices,"October 28, 2024",https://en.wikipedia.org/wiki/Magic_Mouse_2
-"October 13, 2015",Magic Trackpad 2 (Lightning),Pointing devices,"October 28, 2024",https://en.wikipedia.org/wiki/Magic_Trackpad_2
-"October 13, 2015",Magic Keyboard (first generation),Keyboards,"May 21, 2021",https://en.wikipedia.org/wiki/Magic_Keyboard_(Mac)
-"October 30, 2015",Apple TVHD (previously Apple TV (4th generation)) (32 GB),Apple TV,"October 18, 2022",https://en.wikipedia.org/wiki/Apple_TV
-"October 30, 2015",Apple TVHD (previously Apple TV (4th generation)) (64 GB),Apple TV,"September 12, 2017",https://en.wikipedia.org/wiki/Apple_TV
-"October 30, 2015",Siri Remote(1st generation),Apple TV,"April 20, 2021",https://en.wikipedia.org/wiki/Siri_Remote
-"November 11, 2015",iPad Pro(12.9-inch) (32 and 128 GB),iPad,"June 5, 2017",https://en.wikipedia.org/wiki/IPad_Pro
-"November 11, 2015",Apple Pencil,iPad,current,https://en.wikipedia.org/wiki/Apple_Pencil
-"March 31, 2016",iPad Pro(9.7-inch),iPad,"June 5, 2017",https://en.wikipedia.org/wiki/IPad_Pro
-"March 31, 2016",iPhone SE (1st generation)(16 & 64 GB),iPhone,"March 21, 2017",https://en.wikipedia.org/wiki/IPhone_SE_(1st_generation)
-"March 31, 2016",iPad Pro(12.9-inch) (256 GB),iPad,"June 5, 2017",https://en.wikipedia.org/wiki/IPad_Pro
-"April 19, 2016","MacBook(Retina, 12-inch, Early 2016)",MacBook,"June 5, 2017",https://en.wikipedia.org/wiki/MacBook_(2015%E2%80%932019)
-"September 7, 2016",iPad Air 2(32 GB),iPad,"March 21, 2017",https://en.wikipedia.org/wiki/IPad_Air_2
-"September 16, 2016",iPhone 7(32 & 128 GB),iPhone,"September 10, 2019",https://en.wikipedia.org/wiki/IPhone_7
-"September 16, 2016",iPhone 7(256 GB),iPhone,"September 12, 2017",https://en.wikipedia.org/wiki/IPhone_7
-"September 16, 2016",iPhone 7 Plus(32 & 128 GB),iPhone,"September 10, 2019",https://en.wikipedia.org/wiki/IPhone_7
-"September 16, 2016",iPhone 7 Plus(256 GB),iPhone,"September 12, 2017",https://en.wikipedia.org/wiki/IPhone_7
-"September 16, 2016",EarPodswith Lightning Connector,Headphones,current,https://en.wikipedia.org/wiki/EarPods
-"September 16, 2016",iPhone 6S(32 GB),iPhone,"September 12, 2018",https://en.wikipedia.org/wiki/IPhone_6S
-"September 16, 2016",iPhone 6S Plus(32 GB),iPhone,"September 12, 2018",https://en.wikipedia.org/wiki/IPhone_6S_Plus
-"September 16, 2016",Apple Watch Series 1,Apple Watch,"September 12, 2018",https://en.wikipedia.org/wiki/Apple_Watch_Series_1
-"September 16, 2016",Apple Watch Series 2,Apple Watch,"September 12, 2017",https://en.wikipedia.org/wiki/Apple_Watch_Series_2
-"September 16, 2016",Apple Watch Hermès Series 2,Apple Watch,"September 12, 2017",https://en.wikipedia.org/wiki/Apple_Watch_Series_2
-"September 16, 2016",Apple Watch Edition Series 2,Apple Watch,"September 12, 2017",https://en.wikipedia.org/wiki/Apple_Watch_Series_2
-"October 27, 2016","MacBook Pro(13-inch, 2016, Two Thunderbolt 3 ports)",MacBook Pro,"June 5, 2017",https://en.wikipedia.org/wiki/MacBook_Pro
-"October 27, 2016","MacBook Pro(13-inch, 2016, Four Thunderbolt 3 ports)",MacBook Pro,"June 5, 2017",https://en.wikipedia.org/wiki/MacBook_Pro
-"October 27, 2016","MacBook Pro(15-inch, 2016)",MacBook Pro,"June 5, 2017",https://en.wikipedia.org/wiki/MacBook_Pro
-"October 28, 2016",Apple Watch Nike+ Series 2,Apple Watch,"September 12, 2017",https://en.wikipedia.org/wiki/Apple_Watch_Series_2
-"December 19, 2016",AirPods(1st generation),Headphones,"March 20, 2019",https://en.wikipedia.org/wiki/AirPods
-"March 10, 2017",iPhone 6(32 GB),iPhone,"September 12, 2018",https://en.wikipedia.org/wiki/IPhone_6
-"March 21, 2017",iPhone SE (1st generation)(32 GB and 128 GB),iPhone,"September 12, 2018",https://en.wikipedia.org/wiki/IPhone_SE_(1st_generation)
-"March 24, 2017",iPad (5th generation),iPad,"March 27, 2018",https://en.wikipedia.org/wiki/IPad_(5th_generation)
-"June 5, 2017",iPad Pro(12.9-inch) (2nd generation),iPad,"November 7, 2018",https://en.wikipedia.org/wiki/IPad_Pro
-"June 5, 2017",iPad Pro(10.5-inch),iPad,"March 18, 2019",https://en.wikipedia.org/wiki/IPad_Pro
-"June 5, 2017","MacBook Air(13-inch, 2017)",MacBook Air,"July 9, 2019",https://en.wikipedia.org/wiki/MacBook_Air_(Intel-based)
-"June 5, 2017","MacBook(Retina, 12-inch, 2017)",MacBook,"July 9, 2019",https://en.wikipedia.org/wiki/MacBook_(2015_version)
-"June 5, 2017","MacBook Pro(13-inch, 2017, Two Thunderbolt 3 ports)",MacBook Pro,"July 9, 2019",https://en.wikipedia.org/wiki/MacBook_Pro
-"June 5, 2017","MacBook Pro(13-inch, 2017, Four Thunderbolt 3 ports)",MacBook Pro,"July 12, 2018",https://en.wikipedia.org/wiki/MacBook_Pro
-"June 5, 2017","MacBook Pro(15-inch, 2017)",MacBook Pro,"July 12, 2018",https://en.wikipedia.org/wiki/MacBook_Pro
-"June 5, 2017","iMac(21.5-inch, 2017)",iMac,"October 30, 2021",https://en.wikipedia.org/wiki/IMac
-"June 5, 2017","iMac(Retina 4K, 21.5-inch, 2017)",iMac,"March 19, 2019",https://en.wikipedia.org/wiki/IMac_(Intel-based)
-"June 5, 2017","iMac(Retina 5K, 27-inch, 2017)",iMac,"March 19, 2019",https://en.wikipedia.org/wiki/IMac_(Intel-based)
-"June 5, 2017",Magic Keyboard with Numeric Keypad,Keyboards,current,https://en.wikipedia.org/wiki/Apple_Keyboard
-"September 22, 2017",Apple TV 4K(1st generation),Apple TV,"April 20, 2021",https://en.wikipedia.org/wiki/Apple_TV_4K
-"September 22, 2017",Apple Watch Series 3,Apple Watch,"September 7, 2022",https://en.wikipedia.org/wiki/Apple_Watch_Series_3
-"September 22, 2017",Apple Watch Hermès Series 3,Apple Watch,"September 12, 2018",https://en.wikipedia.org/wiki/Apple_Watch_Series_3
-"September 22, 2017",Apple Watch Edition Series 3,Apple Watch,"September 12, 2018",https://en.wikipedia.org/wiki/Apple_Watch_Series_3
-"September 22, 2017",Apple Watch Nike+ Series 3,Apple Watch,"September 15, 2020",https://en.wikipedia.org/wiki/Apple_Watch_Series_3
-"September 22, 2017",iPhone 8(64 GB),iPhone,"April 15, 2020",https://en.wikipedia.org/wiki/IPhone_8
-"September 22, 2017",iPhone 8(256 GB),iPhone,"September 10, 2019",https://en.wikipedia.org/wiki/IPhone_8
-"September 22, 2017",iPhone 8 Plus(64 GB),iPhone,"April 15, 2020",https://en.wikipedia.org/wiki/IPhone_8
-"September 22, 2017",iPhone 8 Plus(256 GB),iPhone,"September 10, 2019",https://en.wikipedia.org/wiki/IPhone_8
-"November 3, 2017",iPhone X,iPhone,"September 12, 2018",https://en.wikipedia.org/wiki/IPhone_X
-"December 14, 2017",iMac Pro(2017),iMac,"March 5, 2021",https://en.wikipedia.org/wiki/IMac_Pro
-"February 9, 2018",HomePod(first generation),Speakers,"March 12, 2021",https://en.wikipedia.org/wiki/HomePod
-"March 27, 2018",iPad (6th generation),iPad,"September 10, 2019",https://en.wikipedia.org/wiki/IPad_(6th_generation)
-"July 12, 2018","MacBook Pro(13-inch, 2018, Four Thunderbolt 3 ports)",MacBook Pro,"May 21, 2019",https://en.wikipedia.org/wiki/MacBook_Pro
-"July 12, 2018","MacBook Pro(15-inch, 2018)",MacBook Pro,"May 21, 2019",https://en.wikipedia.org/wiki/MacBook_Pro
-"September 21, 2018",Apple Watch Series 4,Apple Watch,"September 10, 2019",https://en.wikipedia.org/wiki/Apple_Watch_Series_4
-"September 21, 2018",Apple Watch Hermès Series 4,Apple Watch,"September 10, 2019",https://en.wikipedia.org/wiki/Apple_Watch_Series_4
-"September 21, 2018",Apple Watch Nike+ Series 4,Apple Watch,"September 10, 2019",https://en.wikipedia.org/wiki/Apple_Watch_Series_4
-"September 21, 2018",iPhone XS,iPhone,"September 10, 2019",https://en.wikipedia.org/wiki/IPhone_XS
-"September 21, 2018",iPhone XS Max,iPhone,"September 10, 2019",https://en.wikipedia.org/wiki/IPhone_XS
-"October 26, 2018",iPhone XR(64 GB and 128 GB),iPhone,"September 14, 2021",https://en.wikipedia.org/wiki/IPhone_XR
-"October 26, 2018",iPhone XR(256 GB),iPhone,"September 10, 2019",https://en.wikipedia.org/wiki/IPhone_XR
-"November 7, 2018",Apple Pencil(2nd generation),iPad,current,https://en.wikipedia.org/wiki/Apple_Pencil
-"November 7, 2018",iPad Pro(11-inch) (1st generation),iPad,"March 18, 2020",https://en.wikipedia.org/wiki/IPad_Pro
-"November 7, 2018",iPad Pro(12.9-inch) (3rd generation),iPad,"March 18, 2020",https://en.wikipedia.org/wiki/IPad_Pro
-"November 7, 2018","MacBook Air(Retina, 13-inch, 2018)",MacBook Air,"July 9, 2019",https://en.wikipedia.org/wiki/MacBook_Air_(Intel-based)
-"November 7, 2018",Mac Mini(2018) (Intel Core i3),Mac Mini,"November 17, 2020",https://en.wikipedia.org/wiki/Mac_Mini
-"November 7, 2018",Mac Mini(2018) (Intel Core i5 and i7),Mac Mini,"January 17, 2023",https://en.wikipedia.org/wiki/Mac_Mini
-"March 18, 2019",iPad Air (3rd generation),iPad,"September 15, 2020",https://en.wikipedia.org/wiki/IPad_Air_(3rd_generation)
-"March 18, 2019",iPad Mini (5th generation),iPad,"September 14, 2021",https://en.wikipedia.org/wiki/IPad_Mini_(5th_generation)
-"March 19, 2019","iMac(Retina 4K, 21.5-inch, 2019)",iMac,"April 20, 2021",https://en.wikipedia.org/wiki/IMac_(Intel-based)
-"March 19, 2019","iMac(Retina 5K, 27-inch, 2019)",iMac,"August 4, 2020",https://en.wikipedia.org/wiki/IMac_(Intel-based)
-"March 20, 2019",AirPods(2nd generation),Headphones,"September 9, 2024",https://en.wikipedia.org/wiki/AirPods
-"May 21, 2019","MacBook Pro(13-inch, 2019, Four Thunderbolt 3 ports)",MacBook Pro,"May 4, 2020",https://en.wikipedia.org/wiki/MacBook_Pro
-"May 21, 2019","MacBook Pro(15-inch, 2019)",MacBook Pro,"November 13, 2019",https://en.wikipedia.org/wiki/MacBook_Pro
-"May 28, 2019",iPod Touch (7th generation),iPod Touch,"May 10, 2022",https://en.wikipedia.org/wiki/IPod_Touch_(7th_generation)
-"July 9, 2019","MacBook Air(Retina, 13-inch, 2019)",MacBook Air,"March 18, 2020",https://en.wikipedia.org/wiki/MacBook_Air_(Intel-based)
-"July 9, 2019","MacBook Pro(13-inch, 2019, Two Thunderbolt 3 ports)",MacBook Pro,"May 4, 2020",https://en.wikipedia.org/wiki/MacBook_Pro
-"August 20, 2019",Apple Card,iPhone accessories,current,https://en.wikipedia.org/wiki/Apple_Card
-"September 20, 2019",Apple Watch Series 5,Apple Watch,"September 15, 2020",https://en.wikipedia.org/wiki/Apple_Watch_Series_5
-"September 20, 2019",Apple Watch Hermès Series 5,Apple Watch,"September 15, 2020",https://en.wikipedia.org/wiki/Apple_Watch_Series_5
-"September 20, 2019",Apple Watch Nike Series 5,Apple Watch,"September 15, 2020",https://en.wikipedia.org/wiki/Apple_Watch_Series_5
-"September 20, 2019",Apple Watch Edition Series 5,Apple Watch,"September 15, 2020",https://en.wikipedia.org/wiki/Apple_Watch_Series_5
-"September 20, 2019",iPhone 8(128 GB),iPhone,"April 15, 2020",https://en.wikipedia.org/wiki/IPhone_8
-"September 20, 2019",iPhone 8 Plus(128 GB),iPhone,"April 15, 2020",https://en.wikipedia.org/wiki/IPhone_8
-"September 20, 2019",iPhone 11,iPhone,"September 7, 2022",https://en.wikipedia.org/wiki/IPhone_11
-"September 20, 2019",iPhone 11 Pro,iPhone,"October 13, 2020",https://en.wikipedia.org/wiki/IPhone_11_Pro
-"September 20, 2019",iPhone 11 Pro Max,iPhone,"October 13, 2020",https://en.wikipedia.org/wiki/IPhone_11_Pro
-"September 25, 2019",iPad (7th generation),iPad,"September 15, 2020",https://en.wikipedia.org/wiki/IPad_(7th_generation)
-"October 30, 2019",AirPods Pro,Headphones,"September 7, 2022",https://en.wikipedia.org/wiki/AirPods_Pro
-"November 13, 2019","MacBook Pro(16-inch, 2019)",MacBook Pro,"October 18, 2021",https://en.wikipedia.org/wiki/MacBook_Pro
-"December 10, 2019",Mac Pro (2019),Mac Pro,"June 5, 2023",https://en.wikipedia.org/wiki/Mac_Pro#3rd_generation_(Tower_and_USB-C)
-"December 10, 2019",Pro Display XDR,Displays,current,https://en.wikipedia.org/wiki/Pro_Display_XDR
-"March 18, 2020",iPad Pro(11-inch) (2nd generation),iPad,"April 20, 2021",https://en.wikipedia.org/wiki/IPad_Pro
-"March 18, 2020",iPad Pro(12.9-inch) (4th generation),iPad,"April 20, 2021",https://en.wikipedia.org/wiki/IPad_Pro
-"March 18, 2020",Magic Keyboard for iPad,Keyboards,current,https://en.wikipedia.org/wiki/Magic_Keyboard_for_iPad
-"March 18, 2020","MacBook Air(Retina, 13-inch, 2020)",MacBook Air,"November 17, 2020",https://en.wikipedia.org/wiki/MacBook_Air_(Intel-based)
-"April 24, 2020",iPhone SE (2nd generation),iPhone,"March 8, 2022",https://en.wikipedia.org/wiki/IPhone_SE_(2nd_generation)
-"May 4, 2020","MacBook Pro(13-inch, 2020, Four Thunderbolt 3 ports)",MacBook Pro,"October 18, 2021",https://en.wikipedia.org/wiki/MacBook_Pro
-"May 4, 2020","MacBook Pro(13-inch, 2020, Two Thunderbolt 3 ports)",MacBook Pro,"November 17, 2020",https://en.wikipedia.org/wiki/MacBook_Pro
-"August 4, 2020","iMac(Retina 5K, 27-inch, 2020)",iMac,"March 8, 2022",https://en.wikipedia.org/wiki/IMac_(Intel-based)
-"September 18, 2020",Apple Watch Series 6,Apple Watch,"October 8, 2021",https://en.wikipedia.org/wiki/Apple_Watch_Series_6
-"September 18, 2020",Apple Watch Hermès Series 6,Apple Watch,"October 8, 2021",https://en.wikipedia.org/wiki/Apple_Watch_Series_6
-"September 18, 2020",Apple Watch Nike Series 6,Apple Watch,"October 8, 2021",https://en.wikipedia.org/wiki/Apple_Watch_Series_6
-"September 18, 2020",Apple Watch SE,Apple Watch,"September 7, 2022",https://en.wikipedia.org/wiki/Apple_Watch_SE
-"September 18, 2020",iPad (8th generation),iPad,"September 14, 2021",https://en.wikipedia.org/wiki/IPad_(8th_generation)
-"October 23, 2020",iPad Air (4th generation),iPad,"March 8, 2022",https://en.wikipedia.org/wiki/IPad_Air_(4th_generation)
-"October 23, 2020",iPhone 12,iPhone,"September 12, 2023",https://en.wikipedia.org/wiki/IPhone_12
-"October 23, 2020",iPhone 12 Pro,iPhone,"September 14, 2021",https://en.wikipedia.org/wiki/IPhone_12_Pro
-"November 13, 2020",iPhone 12 Mini,iPhone,"September 7, 2022",https://en.wikipedia.org/wiki/IPhone_12
-"November 13, 2020",iPhone 12 Pro Max,iPhone,"September 14, 2021",https://en.wikipedia.org/wiki/IPhone_12_Pro
-"November 13, 2020",MagSafe Charger(15 W),iPhone accessories,"September 9, 2024",https://en.wikipedia.org/wiki/MagSafe_(wireless_charger)#MagSafe_Charger
-"November 13, 2020",MagSafe Duo Charger,iPhone accessories,"September 12, 2023",https://en.wikipedia.org/wiki/MagSafe_(wireless_charger)#MagSafe_Duo_Charger
-"November 16, 2020",HomePod Mini(white and space gray),Speakers,"current (white)July 15, 2024 (space gray)",https://en.wikipedia.org/wiki/HomePod_Mini
-"November 17, 2020","Mac Mini(M1, 2020)",Mac Mini,"January 17, 2023",https://en.wikipedia.org/wiki/Mac_Mini
-"November 17, 2020","MacBook Air(13-inch, M1, 2020)",MacBook Air,"March 4, 2024",https://en.wikipedia.org/wiki/MacBook_Air_(Apple_silicon)
-"November 17, 2020","MacBook Pro(13-inch, M1, 2020)",MacBook Pro,"June 6, 2022",https://en.wikipedia.org/wiki/MacBook_Pro
-"December 15, 2020",AirPods Max(Lightning),Headphones,"September 9, 2024",https://en.wikipedia.org/wiki/AirPods_Max
-"April 30, 2021",AirTag,iPhone accessories,current,https://en.wikipedia.org/wiki/AirTag_(tracker)
-"May 21, 2021",Apple TV 4K(2nd generation),Apple TV,"October 18, 2022",https://en.wikipedia.org/wiki/Apple_TV_4K
-"May 21, 2021",Siri Remote(2nd generation),Apple TV,"October 18, 2022",https://en.wikipedia.org/wiki/Siri_Remote
-"May 21, 2021","iMac(24-inch, M1, 2021)",iMac,"October 30, 2023",https://en.wikipedia.org/wiki/IMac_(Apple_silicon)
-"May 21, 2021","Magic Keyboard (second generation, Lightning)",Keyboards,"October 28, 2024",https://en.wikipedia.org/wiki/Magic_Keyboard_(Mac)
-"May 21, 2021",Magic Keyboardwith Touch ID (Lightning),Keyboards,"October 28, 2024",https://en.wikipedia.org/wiki/Magic_Keyboard_(Mac)
-"May 21, 2021",Magic Keyboardwith Touch ID and Numeric Keypad (Lightning),Keyboards,"October 28, 2024",https://en.wikipedia.org/wiki/Magic_Keyboard_(Mac)
-"May 21, 2021",iPad Pro(11-inch) (3rd generation),iPad,"October 18, 2022",https://en.wikipedia.org/wiki/IPad_Pro_(5th_generation)
-"May 21, 2021",iPad Pro(12.9-inch) (5th generation),iPad,"October 18, 2022",https://en.wikipedia.org/wiki/IPad_Pro_(5th_generation)
-"July 13, 2021",MagSafe Battery Pack,iPhone accessories,"September 12, 2023",https://en.wikipedia.org/wiki/MagSafe_Battery_Pack
-"September 24, 2021",iPad (9th generation),iPad,"May 7, 2024",https://en.wikipedia.org/wiki/IPad_(9th_generation)
-"September 24, 2021",iPad Mini (6th generation),iPad,"October 15, 2024",https://en.wikipedia.org/wiki/IPad_Mini_(6th_generation)
-"September 24, 2021",iPhone 13,iPhone,"September 9, 2024",https://en.wikipedia.org/wiki/IPhone_13
-"September 24, 2021",iPhone 13 Mini,iPhone,"September 12, 2023",https://en.wikipedia.org/wiki/IPhone_13
-"September 24, 2021",iPhone 13 Pro,iPhone,"September 7, 2022",https://en.wikipedia.org/wiki/IPhone_13_Pro
-"September 24, 2021",iPhone 13 Pro Max,iPhone,September 7. 2022,https://en.wikipedia.org/wiki/IPhone_13_Pro
-"October 8, 2021",Apple Watch Series 7,Apple Watch,"September 7, 2022",https://en.wikipedia.org/wiki/Apple_Watch_Series_7
-"October 26, 2021",AirPods(3rd generation),Headphones,"September 9, 2024",https://en.wikipedia.org/wiki/AirPods
-"October 26, 2021",MagSafeCharging Case forAirPods Pro,Headphones,"September 7, 2022",https://en.wikipedia.org/wiki/MagSafe_(smartphones)
-"October 26, 2021","MacBook Pro(14-inch, M1 Pro and M1 Max, 2021)",MacBook Pro,"January 17, 2023",https://en.wikipedia.org/wiki/MacBook_Pro
-"October 26, 2021","MacBook Pro(16-inch, M1 Pro and M1 Max, 2021)",MacBook Pro,"January 17, 2023",https://en.wikipedia.org/wiki/MacBook_Pro
-"October 26, 2021",Apple Polishing Cloth,Cleaning aid,current,https://en.wikipedia.org/wiki/Apple_Polishing_Cloth
-"October 26, 2021","HomePod Mini(blue, orange and yellow)",Speakers,current,https://en.wikipedia.org/wiki/HomePod_Mini
-"March 18, 2022",Apple Studio Display,Displays,current,https://en.wikipedia.org/wiki/Apple_Studio_Display
-"March 18, 2022",iPad Air (5th generation),iPad,"May 7, 2024",https://en.wikipedia.org/wiki/IPad_Air_(5th_generation)
-"March 18, 2022",iPhone SE (3rd generation),iPhone,"February 19, 2025",https://en.wikipedia.org/wiki/IPhone_SE_(3rd_generation)
-"March 18, 2022",Mac Studio,Mac Studio,"June 5, 2023",https://en.wikipedia.org/wiki/Mac_Studio
-"June 24, 2022","MacBook Pro(13-inch, M2, 2022)",MacBook Pro,"October 30, 2023",https://en.wikipedia.org/wiki/MacBook_Pro_(Apple_silicon)
-"July 15, 2022","MacBook Air(13-inch, M2, 2022)",MacBook Air,"March 5, 2025",https://en.wikipedia.org/wiki/MacBook_Air_(Apple_silicon)
-"September 16, 2022",Apple Watch Series 8,Apple Watch,"September 12, 2023",https://en.wikipedia.org/wiki/Apple_Watch
-"September 16, 2022",Apple Watch SE (2nd generation),Apple Watch,current,https://en.wikipedia.org/wiki/Apple_Watch
-"September 16, 2022",iPhone 14,iPhone,"February 19, 2025",https://en.wikipedia.org/wiki/IPhone_14
-"September 16, 2022",iPhone 14 Pro,iPhone,"September 12, 2023",https://en.wikipedia.org/wiki/IPhone_14_Pro
-"September 16, 2022",iPhone 14 Pro Max,iPhone,"September 12, 2023",https://en.wikipedia.org/wiki/IPhone_14_Pro
-"September 23, 2022","AirPods Pro(2nd generation, Lightning case)",Headphones,"September 12, 2023",https://en.wikipedia.org/wiki/AirPods_Pro
-"September 23, 2022",Apple Watch Ultra,Apple Watch,"September 12, 2023",https://en.wikipedia.org/wiki/Apple_Watch
-"October 7, 2022",iPhone 14 Plus,iPhone,"February 19, 2025",https://en.wikipedia.org/wiki/IPhone_14
-"October 26, 2022",iPad (10th generation),iPad,"March 4, 2025",https://en.wikipedia.org/wiki/IPad_(10th_generation)
-"October 26, 2022",iPad Pro(11-inch) (4th generation),iPad,"May 7, 2024",https://en.wikipedia.org/wiki/IPad_Pro_(6th_generation)
-"October 26, 2022",iPad Pro(12.9-inch) (6th generation),iPad,"May 7, 2024",https://en.wikipedia.org/wiki/IPad_Pro_(6th_generation)
-"November 4, 2022",Apple TV 4K(3rd generation),Apple TV,current,https://en.wikipedia.org/wiki/Apple_TV_4K
-"November 4, 2022",Siri Remote(3rd generation),Apple TV,current,https://en.wikipedia.org/wiki/Siri_Remote
-"January 24, 2023","Mac Mini(M2/M2 Pro, 2023)",Mac Mini,"October 29, 2024",https://en.wikipedia.org/wiki/Mac_Mini
-"January 24, 2023","MacBook Pro(M2 Pro/M2 Max) (14-inch, 2023)",MacBook Pro,"October 30, 2023",https://en.wikipedia.org/wiki/MacBook_Pro
-"January 24, 2023","MacBook Pro(M2 Pro/M2 Max) (16-inch, 2023)",MacBook Pro,"October 30, 2023",https://en.wikipedia.org/wiki/MacBook_Pro
-"February 3, 2023",HomePod (2nd generation),Speakers,current,https://en.wikipedia.org/wiki/HomePod_(2nd_generation)
-"June 13, 2023","Mac Studio(M2 Max/M2 Ultra, 2023)",Mac Studio,"March 5, 2025",https://en.wikipedia.org/wiki/Mac_Studio
-"June 13, 2023","Mac Pro(M2 Ultra, 2023)",Mac Pro,current,https://en.wikipedia.org/wiki/Mac_Pro
-"June 13, 2023","MacBook Air(15-inch, M2, 2023)",MacBook Air,"March 4, 2024",https://en.wikipedia.org/wiki/MacBook_Air
-"September 22, 2023",Apple Watch Series 9,Apple Watch,"September 9, 2024",https://en.wikipedia.org/wiki/Apple_Watch
-"September 22, 2023",Apple Watch Ultra 2,Apple Watch,current,https://en.wikipedia.org/wiki/Apple_Watch
-"September 22, 2023",iPhone 15,iPhone,current,https://en.wikipedia.org/wiki/IPhone_15
-"September 22, 2023",iPhone 15 Plus,iPhone,current,https://en.wikipedia.org/wiki/IPhone_15
-"September 22, 2023",iPhone 15 Pro,iPhone,"September 9, 2024",https://en.wikipedia.org/wiki/IPhone_15_Pro
-"September 22, 2023",iPhone 15 Pro Max,iPhone,"September 9, 2024",https://en.wikipedia.org/wiki/IPhone_15_Pro
-"September 22, 2023","AirPods Pro(2nd generation, USB-C case)",Headphones,current,https://en.wikipedia.org/wiki/AirPods_Pro
-"September 22, 2023",EarPods(USB-C),Headphones,current,https://en.wikipedia.org/wiki/EarPods
-"November 1, 2023",Apple Pencil(USB-C),iPad,current,https://en.wikipedia.org/wiki/Apple_Pencil
-"November 7, 2023","iMac(24-inch, M3, 2023)",iMac,"October 28, 2024",https://en.wikipedia.org/wiki/IMac_(Apple_silicon)
-"November 7, 2023","MacBook Pro(M3/M3 Pro/M3 Max) (14-inch, 2023)",MacBook Pro,"October 30, 2024",https://en.wikipedia.org/wiki/MacBook_Pro
-"November 7, 2023","MacBook Pro(M3 Pro/M3 Max) (16-inch, 2023)",MacBook Pro,"October 30, 2024",https://en.wikipedia.org/wiki/MacBook_Pro
-"February 2, 2024",Apple Vision Pro,Apple Vision Pro,current,https://en.wikipedia.org/wiki/Apple_Vision_Pro
-"March 8, 2024",MacBook Air13-in. (M3),MacBook Air,"March 5, 2025",https://en.wikipedia.org/wiki/MacBook_Air
-"March 8, 2024",MacBook Air15-in. (M3),MacBook Air,"March 5, 2025",https://en.wikipedia.org/wiki/MacBook_Air
-"May 15, 2024",Apple Pencil Pro,iPad,current,https://en.wikipedia.org/wiki/Apple_Pencil_Pro
-"May 15, 2024",Magic Keyboard for iPad Pro,Keyboards,current,https://en.wikipedia.org/wiki/Apple_keyboards#Magic_Keyboard_for_iPad
-"May 15, 2024",iPad Air11-in. (M2),iPad,"June 2, 2025",https://en.wikipedia.org/wiki/IPad_Air_(6th_generation)
-"May 15, 2024",iPad Air13-in. (M2),iPad,"March 15, 2025",https://en.wikipedia.org/wiki/IPad_Air_(6th_generation)
-"May 15, 2024",iPad Pro11-in. (M4),iPad,current,https://en.wikipedia.org/wiki/IPad_Pro_(7th_generation)
-"May 15, 2024",iPad Pro13-in. (M4),iPad,current,https://en.wikipedia.org/wiki/IPad_Pro_(7th_generation)
-"July 15, 2024",HomePod Mini(midnight),Speakers,current,https://en.wikipedia.org/wiki/HomePod_Mini
-"September 9, 2024",MagSafe Charger(25 W),iPhone accessories,current,https://en.wikipedia.org/wiki/MagSafe_(wireless_charger)#MagSafe_Charger
-"September 20, 2024",AirPods(4th generation),Headphones,current,https://en.wikipedia.org/wiki/AirPods
-"September 20, 2024",AirPods Max(USB-C),Headphones,current,https://en.wikipedia.org/wiki/AirPods_Max
-"September 20, 2024",Apple Watch Series 10,Apple Watch,current,https://en.wikipedia.org/wiki/Apple_Watch
-"September 20, 2024",Apple Watch Ultra 2(black),Apple Watch,current,https://en.wikipedia.org/wiki/Apple_Watch_Ultra
-"September 20, 2024",iPhone 16,iPhone,current,https://en.wikipedia.org/wiki/IPhone_16
-"September 20, 2024",iPhone 16 Plus,iPhone,current,https://en.wikipedia.org/wiki/IPhone_16
-"September 20, 2024",iPhone 16 Pro,iPhone,current,https://en.wikipedia.org/wiki/IPhone_16_Pro
-"September 20, 2024",iPhone 16 Pro Max,iPhone,current,https://en.wikipedia.org/wiki/IPhone_16_Pro
-"October 23, 2024",iPad mini (7th generation),iPad,current,https://en.wikipedia.org/wiki/IPad_Mini_(7th_generation)
-"October 28, 2024",Magic Mouse 2 (USB-C),Pointing devices,current,https://en.wikipedia.org/wiki/Magic_Mouse_2
-"October 28, 2024",Magic Trackpad 2 (USB-C),Pointing devices,current,https://en.wikipedia.org/wiki/Magic_Trackpad_2
-"October 28, 2024","Magic Keyboard (second generation, USB-C)",Keyboards,current,https://en.wikipedia.org/wiki/Magic_Keyboard_(Mac)
-"October 28, 2024",Magic Keyboardwith Touch ID (USB-C),Keyboards,current,https://en.wikipedia.org/wiki/Magic_Keyboard_(Mac)
-"October 28, 2024",Magic Keyboardwith Touch ID and Numeric Keypad (USB-C),Keyboards,current,https://en.wikipedia.org/wiki/Magic_Keyboard_(Mac)
-"November 8, 2024","iMac(24-inch, M4, 2024)",iMac,current,https://en.wikipedia.org/wiki/IMac_(Apple_silicon)
-"November 8, 2024","Mac Mini(M4/M4 Pro, 2024)",Mac Mini,current,https://en.wikipedia.org/wiki/Mac_Mini
-"November 8, 2024","MacBook Pro(M4/M4 Pro/M4 Max) (14-inch, 2024)",MacBook Pro,current,https://en.wikipedia.org/wiki/MacBook_Pro
-"November 8, 2024","MacBook Pro(M4 Pro/M4 Max) (16-inch, 2024)",MacBook Pro,current,https://en.wikipedia.org/wiki/MacBook_Pro
-"February 28, 2025",iPhone 16e,iPhone,current,https://en.wikipedia.org/wiki/IPhone_16e
-"March 12, 2025",iPad (11th generation),iPad,current,https://en.wikipedia.org/wiki/IPad_(11th_generation)
-"March 12, 2025",iPad Air11-in. (M3),iPad,current,https://en.wikipedia.org/wiki/IPad_Air_(7th_generation)
-"March 12, 2025",iPad Air13-in. (M3),iPad,current,https://en.wikipedia.org/wiki/IPad_Air_(7th_generation)
-"March 12, 2025",MacBook Air13-in. (M4),MacBook Air,current,https://en.wikipedia.org/wiki/MacBook_Air
-"March 12, 2025",MacBook Air15-in. (M4),MacBook Air,current,https://en.wikipedia.org/wiki/MacBook_Air
-"March 12, 2025","Mac Studio(M4 Max/M3 Ultra, 2025)",Mac Studio,current,https://en.wikipedia.org/wiki/Mac_Studio
-,,,,
+Released,Model,Family,Discontinued,Future release,Source link
+"June 01, 1979",Apple II EuroPlus,,current,false,https://en.wikipedia.org/wiki/Apple_II_Plus#Apple_II_Europlus_and_J-Plus
+"June 01, 1979",Apple II J-Plus,,current,false,https://en.wikipedia.org/wiki/Apple_II_Plus#Apple_II_Europlus_and_J-Plus
+"June 01, 1979",Bell & Howell,,current,false,https://en.wikipedia.org/wiki/Apple_II_Plus#Bell_&_Howell
+"June 01, 1979",Bell & Howell Disk II,Drives,"December 1, 1982",false,https://en.wikipedia.org/wiki/Disk_II
+"June 01, 1979",Apple SilenType,Printers,"October 1, 1982",false,https://en.wikipedia.org/wiki/Apple_SilenType
+"November 01, 1980",Modem IIB(Novation CAT),Modems,"December 1, 1981",false,https://en.wikipedia.org/wiki/Novation_CAT
+"November 01, 1980",Printer IIA(Centronics 779),Printers,"December 1, 1981",false,https://en.wikipedia.org/wiki/Centronics
+"November 01, 1980",Monitor III,Displays,"December 1, 1981",false,https://en.wikipedia.org/wiki/Apple_Monitor_III
+"November 01, 1980",Monitor II(various third party),Displays,"December 1, 1981",false,https://en.wikipedia.org/wiki/Apple_displays
+"November 01, 1980",Disk III,Drives,"May 1, 1984",false,https://en.wikipedia.org/wiki/Disk_III
+"October 01, 1982",Apple Daisy Wheel Printer,Printers,"December 1, 1983",false,https://en.wikipedia.org/wiki/Apple_Daisy_Wheel_Printer
+"December 01, 1983",Apple ImageWriter,ImageWriter,"December 1, 1985",false,https://en.wikipedia.org/wiki/Apple_ImageWriter
+"January 24, 1984",Macintosh External Disk Drive (400K),Drives,"January 1, 1986",false,https://en.wikipedia.org/wiki/Macintosh_External_Disk_Drive#400K
+"April 01, 1984",Apple Scribe Printer,Printers,"December 1, 1985",false,https://en.wikipedia.org/wiki/Apple_Scribe_Printer
+"April 01, 1984",Apple Mouse IIc,Pointing devices,"December 1, 1985",false,https://en.wikipedia.org/wiki/Apple_Mouse#Apple_Mouse_IIc
+"April 01, 1984",Disk IIc,Drives,[?],false,https://en.wikipedia.org/wiki/Disk_IIc
+"May 01, 1984",Apple ImageWriter Wide Carriage,Printers,[?],false,https://en.wikipedia.org/wiki/Apple_ImageWriter
+"September 10, 1984",Macintosh 128K (revised),Compact,"October 1, 1985",false,https://en.wikipedia.org/wiki/Macintosh_128K#Models
+"January 01, 1985",Apple LaserWriter,Printers,"December 1, 1985",false,https://en.wikipedia.org/wiki/Apple_LaserWriter
+"January 01, 1985",Apple LocalTalk Connector,Networking,[?],false,https://en.wikipedia.org/wiki/LocalTalk
+"April 01, 1985",Apple ImageWriter II,Printers,1996,false,https://en.wikipedia.org/wiki/Apple_ImageWriter_II
+"September 01, 1985",Apple UniDisk 3.5,Drives,"January 1, 1987",false,https://en.wikipedia.org/wiki/Macintosh_External_Disk_Drive#Apple_UniDisk_3.5
+"September 01, 1985",Apple ColorMonitor IIe,Displays,[?],false,https://en.wikipedia.org/wiki/ColorMonitor_IIe/AppleColor_Composite_Monitor_IIe
+"September 01, 1985",Apple ColorMonitor IIc,Displays,[?],false,https://en.wikipedia.org/wiki/Apple_displays
+"January 16, 1986",Macintosh 800K External Drive,Drives,[?],false,https://en.wikipedia.org/wiki/Macintosh_External_Disk_Drive#Macintosh_800K_External_Drive
+"September 15, 1986",Apple IIc Memory Expansion,Apple II,"September 1, 1988",false,https://en.wikipedia.org/wiki/Apple_IIc#Memory_Expansion_IIc_(ROM_version_‘3’)
+"September 15, 1986",Apple Hard Disk 20SC,Drives,[?],false,https://en.wikipedia.org/wiki/Hard_Disk_20SC
+"September 15, 1986",Apple 3.5 Drive,Drives,[?],false,"https://en.wikipedia.org/wiki/Macintosh_External_Disk_Drive#Apple_3.5""_Drive"
+"September 15, 1986",Apple 5.25 Drive,Drives,[?],false,https://en.wikipedia.org/wiki/Disk_II#UniDisk
+"September 15, 1986",AppleColor RGB Monitor,Displays,[?],false,https://en.wikipedia.org/wiki/Apple_displays
+"September 15, 1986",Apple Monochrome Monitor,Displays,[?],false,https://en.wikipedia.org/wiki/Apple_displays
+"September 15, 1986",AppleColor Composite Monitor,Displays,[?],false,https://en.wikipedia.org/wiki/Apple_displays
+"January 01, 1987",Apple IIe Platinum,Apple II,"November 1, 1993",false,https://en.wikipedia.org/wiki/Apple_IIe#Platinum_IIe
+"March 02, 1987","Apple PC 5.25"" Drive",Drives,[?],false,"https://en.wikipedia.org/wiki/Disk_II#Apple_PC_5%""_Drive"
+"March 02, 1987",Apple Tape Backup 40SC,Drives,[?],false,https://en.wikipedia.org/wiki/Apple_Tape_Backup_40SC
+"March 02, 1987",Macintosh II,Mac II,"January 15, 1990",false,https://en.wikipedia.org/wiki/Macintosh_II
+"March 02, 1987",AppleColor High-Resolution RGB Monitor,Displays,December 1992,false,https://en.wikipedia.org/wiki/AppleColor_High-Resolution_RGB_Monitor
+"March 07, 1989",Apple Two Page Monochrome Monitor,Displays,"October 19, 1992",false,https://en.wikipedia.org/wiki/Apple_displays
+"March 07, 1989",Apple Macintosh Portrait Display,Displays,"October 19, 1992",false,https://en.wikipedia.org/wiki/Apple_displays
+"March 07, 1989",Apple High-Resolution Monochrome Display,Displays,"February 1, 1991",false,https://en.wikipedia.org/wiki/Apple_displays
+"August 01, 1989",Apple FDHD SuperDrive,Drives,[?],false,https://en.wikipedia.org/wiki/Superdrive
+"September 20, 1989",Macintosh Portable,Portable,"February 11, 1991",false,https://en.wikipedia.org/wiki/Macintosh_Portable
+"October 15, 1990",Macintosh Classic,Compact,"September 14, 1992",false,https://en.wikipedia.org/wiki/Macintosh_Classic
+"October 15, 1990",Macintosh IIsi,Mac II,"March 15, 1993",false,https://en.wikipedia.org/wiki/Macintosh_IIsi
+"March 01, 1991",Personal LaserWriter LS,LaserWriter,"May 1, 1993",false,https://en.wikipedia.org/wiki/Personal_LaserWriter_LS
+"March 01, 1991",StyleWriter,StyleWriter,"January 1, 1993",false,https://en.wikipedia.org/wiki/StyleWriter
+"October 01, 1991",LaserWriterIIg,,current,false,https://en.wikipedia.org/wiki/LaserWriter
+"October 21, 1991",PowerBook 170,,current,false,https://en.wikipedia.org/wiki/PowerBook_170
+"October 21, 1991",PowerBook 140,,current,false,https://en.wikipedia.org/wiki/PowerBook_140
+"October 21, 1991",PowerBook 100,PowerBook 100,"August 3, 1992",false,https://en.wikipedia.org/wiki/PowerBook_100
+"October 21, 1991",Macintosh Quadra 900,,current,false,https://en.wikipedia.org/wiki/Macintosh_Quadra_900
+"October 21, 1991",Macintosh Quadra 700,Quadra,"March 15, 1993",false,https://en.wikipedia.org/wiki/Macintosh_Quadra_700
+"October 19, 1992",Macintosh IIvx,Mac II,"October 10, 1993",false,https://en.wikipedia.org/wiki/Macintosh_IIvx
+"October 19, 1992",PowerBook 160,PowerBook 100,"August 16, 1993",false,https://en.wikipedia.org/wiki/PowerBook_160
+"October 19, 1992",PowerBook 180,PowerBook 100,"May 16, 1994",false,https://en.wikipedia.org/wiki/PowerBook_180
+"October 19, 1992",PowerBook Duo 210,PowerBook Duo,"October 21, 1993",false,https://en.wikipedia.org/wiki/PowerBook_Duo_210
+"October 19, 1992",PowerBook Duo 230,PowerBook Duo,"July 27, 1994",false,https://en.wikipedia.org/wiki/PowerBook_Duo_230
+"October 19, 1992",Powerbook Duo Dock,PowerBook Duo,"July 27, 1994",false,https://en.wikipedia.org/wiki/Duo_Dock
+"January 01, 1993",Apple Color Printer,StyleWriter,"February 1, 1994",false,https://en.wikipedia.org/wiki/Apple_Color_Printer
+"January 01, 1993",LaserWriter Pro 600,LaserWriter,"October 1, 1993",false,https://en.wikipedia.org/wiki/LaserWriter_Pro_600
+"January 01, 1993",LaserWriter Pro 630,LaserWriter,"September 1, 1994",false,https://en.wikipedia.org/wiki/LaserWriter_Pro_630
+"February 10, 1993",LaserWriter Select 310,LaserWriter,"January 1, 1994",false,https://en.wikipedia.org/wiki/LaserWriter_Select_310
+"February 10, 1993",LaserWriter Select 300,LaserWriter,"January 3, 1995",false,https://en.wikipedia.org/wiki/LaserWriter_Select_300
+"February 10, 1993",PowerBook 165c,PowerBook 100,"December 13, 1993",false,https://en.wikipedia.org/wiki/PowerBook_160#PowerBook_165c
+"February 10, 1993",Macintosh Centris/Quadra 610,Centris,"October 21, 1993",false,https://en.wikipedia.org/wiki/Macintosh_Quadra_610
+"February 10, 1993",Macintosh Centris/Quadra 650,Centris,"October 21, 1993",false,https://en.wikipedia.org/wiki/Macintosh_Quadra_650
+"February 10, 1993",Macintosh Color Classic,Compact,"May 16, 1994",false,https://en.wikipedia.org/wiki/Macintosh_Color_Classic
+"February 10, 1993",Quadra 800,Quadra,"March 14, 1994",false,https://en.wikipedia.org/wiki/Quadra_800
+"March 22, 1993",Workgroup Server 95,Workgroup Server,"April 3, 1995",false,https://en.wikipedia.org/wiki/Quadra_950
+"March 22, 1993",PowerCD,PowerCD,"January 1, 1995",false,https://en.wikipedia.org/wiki/PowerCD
+"March 22, 1993",Apple Design Powered Speakers,Speakers,"January 1, 1995",false,https://en.wikipedia.org/wiki/PowerCD#AppleDesign_Powered_Speakers
+"June 07, 1993",PowerBook 180c,PowerBook 100,"March 14, 1994",false,https://en.wikipedia.org/wiki/PowerBook_180c
+"July 29, 1993",Quadra 840AV,Quadra,"July 18, 1994",false,https://en.wikipedia.org/wiki/Quadra_840AV
+"August 16, 1993",PowerBook 165,PowerBook 100,"July 18, 1994",false,https://en.wikipedia.org/wiki/PowerBook_160#PowerBook_165
+"October 01, 1993",Personal LaserWriter 320,LaserWriter,"September 16, 1995",false,https://en.wikipedia.org/wiki/Personal_LaserWriter_320
+"October 01, 1993",LaserWriter Pro 810,LaserWriter,"November 1, 1994",false,https://en.wikipedia.org/wiki/LaserWriter_Pro_810
+"October 21, 1993",Macintosh Color Classic II,Compact,"November 1, 1995",false,https://en.wikipedia.org/wiki/Macintosh_Color_Classic_II
+"October 21, 1993",Quadra 605,Quadra,"October 17, 1994",false,https://en.wikipedia.org/wiki/Quadra_605
+"October 21, 1993",Quadra 610,Quadra,"July 18, 1994",false,https://en.wikipedia.org/wiki/Quadra_610
+"October 21, 1993",Quadra 650,Quadra,"September 12, 1994",false,https://en.wikipedia.org/wiki/Quadra_650
+"October 21, 1993",PowerBook Duo 250,PowerBook Duo,"May 16, 1994",false,https://en.wikipedia.org/wiki/PowerBook_Duo_250
+"October 21, 1993",PowerBook Duo 270c,PowerBook Duo,"May 16, 1994",false,https://en.wikipedia.org/wiki/PowerBook_Duo_270c
+"October 21, 1993","Apple Color Plus 14"" Display",Display,"August 7, 1995",false,https://en.wikipedia.org/wiki/Apple_Color_Plus_14%22_Display
+"February 01, 1994",Macintosh LC 575,Macintosh LC,"April 3, 1995",false,https://en.wikipedia.org/wiki/Macintosh_LC_575
+"February 01, 1994",Apple QuickTake 100,QuickTake,"January 1, 1995",false,https://en.wikipedia.org/wiki/Apple_QuickTake
+"March 14, 1994",Power Macintosh 7100,Power Macintosh,"January 6, 1996",false,https://en.wikipedia.org/wiki/Power_Macintosh_7100
+"March 14, 1994",Power Macintosh 8100,Power Macintosh,"January 3, 1995",false,https://en.wikipedia.org/wiki/Power_Macintosh_8100
+"April 25, 1994",Workgroup Server 9150,Workgroup Server,"February 26, 1996",false,https://en.wikipedia.org/wiki/Workgroup_Server_9150
+"April 25, 1994",Workgroup Server 8150,Workgroup Server,"February 26, 1996",false,https://en.wikipedia.org/wiki/Power_Macintosh_8100
+"May 16, 1994",PowerBook 540c,PowerBook 500,"August 16, 1995",false,https://en.wikipedia.org/wiki/PowerBook_500
+"May 16, 1994",PowerBook 550,PowerBook 500,"April 1, 1996",false,https://en.wikipedia.org/wiki/PowerBook_500
+"May 16, 1994",PowerBook Duo 280,PowerBook Duo,"November 14, 1994",false,https://en.wikipedia.org/wiki/PowerBook_Duo
+"May 16, 1994",PowerBook Duo 280c,PowerBook Duo,"January 1, 1996",false,https://en.wikipedia.org/wiki/PowerBook_Duo
+"May 16, 1994",PowerBook Duo Dock II,PowerBook Duo,"May 25, 1995",false,https://en.wikipedia.org/wiki/Duo_Dock
+"July 18, 1994",PowerBook 150,PowerBook 100,"October 14, 1995",false,https://en.wikipedia.org/wiki/PowerBook_150
+"July 18, 1994",Apple Multiple Scan 15 Display,Display,"September 14, 1996",false,https://en.wikipedia.org/wiki/Apple_Multiple_Scan_15_Display
+"September 01, 1994",LaserWriter 16/600 PS,LaserWriter,[?],false,https://en.wikipedia.org/wiki/LaserWriter_16/600_PS
+"April 03, 1995",Power Macintosh 5200 LC,Power Macintosh,"October 1, 1996",false,https://en.wikipedia.org/wiki/Power_Macintosh_5200_LC
+"June 01, 1995",Color StyleWriter 2200,StyleWriter,[?],false,https://en.wikipedia.org/wiki/Color_StyleWriter_2200
+"June 01, 1995",Color LaserWriter 12/600,LaserWriter,[?],false,https://en.wikipedia.org/wiki/Color_LaserWriter_12/600
+"August 07, 1995",Power Macintosh 7500,Power Macintosh,"February 17, 1997",false,https://en.wikipedia.org/wiki/Power_Macintosh_7500
+"August 07, 1995",Power Macintosh 8500,Power Macintosh,"February 17, 1997",false,https://en.wikipedia.org/wiki/Power_Macintosh_8500
+"August 07, 1995",AppleVision 1710,Display,"August 5, 1997",false,https://en.wikipedia.org/wiki/AppleVision_1710
+"August 07, 1995",Apple Multiple Scan 14 Display,Display,"September 14, 1996",false,https://en.wikipedia.org/wiki/Apple_Multiple_Scan_14_Display
+"August 28, 1995",PowerBook 5300,PowerBook 500,"September 1, 1996",false,https://en.wikipedia.org/wiki/PowerBook_5300
+"August 28, 1995",Power Macintosh 5300 LC,Power Macintosh,"March 1, 1997",false,https://en.wikipedia.org/wiki/Power_Macintosh_5300_LC
+"August 28, 1995",PowerBook Duo 2300c,PowerBook Duo,"February 1, 1997",false,https://en.wikipedia.org/wiki/PowerBook_Duo_2300c
+"January 11, 1996",Power Macintosh 8515,Power Macintosh,"April 1, 1996",false,https://en.wikipedia.org/wiki/Power_Macintosh_8500
+"February 15, 1996",Apple Network Server 700/150,Network Server,"April 1, 1997",false,https://en.wikipedia.org/wiki/Apple_Network_Server_700/150
+"February 19, 1996",Color StyleWriter 2500,StyleWriter,[?],false,https://en.wikipedia.org/wiki/Color_StyleWriter_2500
+"February 26, 1996",Workgroup Server 8550,Workgroup Server,"April 21, 1997",false,https://en.wikipedia.org/wiki/Power_Macintosh_8500
+"April 22, 1996",Power Macintosh 8200,Power Macintosh,"September 19, 1996",false,https://en.wikipedia.org/wiki/Power_Macintosh_7200
+"October 01, 1996",Color LaserWriter 12/660 PS,LaserWriter,[?],false,https://en.wikipedia.org/wiki/Color_LaserWriter_12/660_PS
+"February 17, 1997",Power Macintosh 6500,Power Macintosh,"March 14, 1998",false,https://en.wikipedia.org/wiki/Power_Macintosh_6500
+"February 17, 1997",Power Macintosh 7220,Power Macintosh,[?],false,https://en.wikipedia.org/wiki/Power_Macintosh_7220
+"February 17, 1997",Power Macintosh 7300,Power Macintosh,"November 10, 1997",false,https://en.wikipedia.org/wiki/Power_Macintosh_7300
+"February 17, 1997",Power Macintosh 8600,Power Macintosh,"February 17, 1998",false,https://en.wikipedia.org/wiki/Power_Macintosh_8600
+"February 17, 1997",Power Macintosh 9600,Power Macintosh,"March 17, 1998",false,https://en.wikipedia.org/wiki/Power_Macintosh_9600
+"February 17, 1997",PowerBook 3400,PowerBook,"March 14, 1998",false,https://en.wikipedia.org/wiki/PowerBook_3400
+"April 21, 1997",Workgroup Server 9650,Workgroup Server,"March 2, 1998",false,https://en.wikipedia.org/wiki/Power_Macintosh_9600
+"August 05, 1997",Apple ColorSync/AppleVision 750 Display,Display,"November 10, 1998",false,https://en.wikipedia.org/wiki/Apple_ColorSync/AppleVision_750_Display
+"November 10, 1997",Power Macintosh G3 minitower,Power Macintosh,"January 5, 1999",false,https://en.wikipedia.org/wiki/Power_Macintosh_G3
+"November 10, 1997",PowerBook G3,PowerBook G3,"March 14, 1998",false,https://en.wikipedia.org/wiki/PowerBook_G3
+"January 05, 1999",Macintosh Server G3 (Blue & White),Macintosh Server,"August 31, 1999",false,https://en.wikipedia.org/wiki/Power_Macintosh_G3_(Blue_%26_White)
+"July 21, 1999","AirPort (802.11b, ""Graphite"")",AirPort,"November 13, 2001",false,https://en.wikipedia.org/wiki/AirPort#AirPort_Base_Station
+"July 19, 2000","Cinema Display (22"")(ADC)",Displays,"January 28, 2003",false,https://en.wikipedia.org/wiki/Apple_Cinema_Display
+"July 19, 2000",Apple Pro Speakers(USB),Speakers,"January 9, 2001",false,https://en.wikipedia.org/wiki/Apple_speakers
+"January 09, 2001",Power Mac G4 Digital Audio,Power Macintosh,"July 18, 2001",false,https://en.wikipedia.org/wiki/Power_Mac_G4
+"January 09, 2001",Apple Pro Speakers(minijack),Speakers,2004,false,https://en.wikipedia.org/wiki/Apple_speakers
+"January 07, 2002","iBook (14"")",iBook,"October 22, 2003",false,https://en.wikipedia.org/wiki/IBook
+"August 01, 2002",iPod (2nd gen),iPod Classic,"April 28, 2003",false,https://en.wikipedia.org/wiki/IPod_Classic
+"January 07, 2003","PowerBook G4 Aluminum (17"")",PowerBook G4,"April 24, 2006",false,https://en.wikipedia.org/wiki/Aluminum_PowerBook_G4
+"January 07, 2003",AirPort Extreme(1st generation)[4][5][6],AirPort Extreme,[?],false,https://en.wikipedia.org/wiki/AirPort_Extreme
+"February 10, 2003",Xserve Cluster Node,Xserve,"January 6, 2004",false,https://en.wikipedia.org/wiki/Xserve
+"February 10, 2003",Xserve RAID,Xserve,"February 19, 2008",false,https://en.wikipedia.org/wiki/Xserve
+"January 06, 2004",iPod In-Ear Headphones,Headphones,"June 25, 2009",false,https://en.wikipedia.org/wiki/Apple_earbuds
+"January 06, 2004",Xserve Cluster Node G5,Xserve,"August 7, 2006",false,https://en.wikipedia.org/wiki/Xserve
+"June 28, 2004","Cinema Display (23"")",Displays,November 2008,false,https://en.wikipedia.org/wiki/Apple_displays
+"June 28, 2004","Cinema Display (30"")",Displays,"July 27, 2010",false,https://en.wikipedia.org/wiki/Apple_displays
+"August 31, 2004","iMac G5 20""",iMac,"March 20, 2006",false,https://en.wikipedia.org/wiki/IMac_G5
+"January 11, 2005",iPod Shuffle(1st gen),iPod Shuffle,"September 12, 2006",false,https://en.wikipedia.org/wiki/IPod_Shuffle
+"January 10, 2006",iPod Radio Remote,iPod accessories,"June 25, 2009",false,https://en.wikipedia.org/wiki/IPod
+"February 28, 2006",Mac Mini Core Duo,Mac Mini,"August 7, 2007",false,https://en.wikipedia.org/wiki/Mac_Mini
+"February 28, 2006",iPod Hi-Fi,Speakers,"September 5, 2007",false,https://en.wikipedia.org/wiki/IPod_Hi-Fi
+"August 07, 2006",Xserve (Intel),Xserve,"January 8, 2008",false,https://en.wikipedia.org/wiki/Xserve
+"June 29, 2007",iPhone (1st generation)(8 GB),iPhone,"July 11, 2008",false,https://en.wikipedia.org/wiki/IPhone_(1st_generation)
+"June 29, 2007",iPhone Bluetooth Headset,Headphones,"March 23, 2009",false,https://en.wikipedia.org/wiki/Apple_headphones
+"August 07, 2007",Mac Mini(Mid 2007),Mac Mini,"March 3, 2009",false,https://en.wikipedia.org/wiki/Mac_Mini
+"August 07, 2007",Apple Wireless Keyboard(Aluminum),Keyboards,"October 13, 2015",false,https://en.wikipedia.org/wiki/Apple_Wireless_Keyboard
+"August 07, 2007",Apple Keyboard with Numeric Keypad,Keyboards,"June 5, 2017",false,https://en.wikipedia.org/wiki/Apple_Keyboard
+"August 07, 2007",Apple Mighty Mouse(revised),Pointing devices,"June 5, 2017",false,https://en.wikipedia.org/wiki/Apple_Mighty_Mouse
+"September 05, 2007",iPod Classic(6th gen),iPod Classic,"September 9, 2008",false,https://en.wikipedia.org/wiki/IPod_Classic
+"September 05, 2007",iPod Touch (1st generation)(8 & 16 GB),iPod Touch,"September 9, 2008",false,https://en.wikipedia.org/wiki/IPod_Touch_(1st_generation)
+"January 08, 2008",Mac Pro(Early 2008),Mac Pro,"March 3, 2009",false,https://en.wikipedia.org/wiki/Mac_Pro
+"January 15, 2008",USB SuperDrive(previously MacBook Air SuperDrive),Drives,August 2024[a],false,https://en.wikipedia.org/wiki/SuperDrive
+"February 26, 2008","MacBook Pro(Early 2008) (15"")",MacBook Pro,"October 14, 2008",false,https://en.wikipedia.org/wiki/MacBook_Pro_(Intel-based)
+"February 26, 2008","MacBook Pro(Early 2008) (17"")",MacBook Pro,"January 6, 2009",false,https://en.wikipedia.org/wiki/MacBook_Pro
+"July 11, 2008",iPhone 3G(16 GB),iPhone,"June 8, 2009",false,https://en.wikipedia.org/wiki/IPhone_3G
+"September 09, 2008",iPod Touch (2nd generation)(16 & 32 GB),iPod Touch,"September 9, 2009",false,https://en.wikipedia.org/wiki/IPod_touch_(2nd_generation)
+"September 09, 2008",In-Ear Headphones,Headphones,2018,false,https://en.wikipedia.org/wiki/Apple_headphones
+"September 09, 2008",iPod Classic(6th gen) (120 GB),iPod Classic,"September 9, 2009",false,https://en.wikipedia.org/wiki/IPod_Classic
+"September 09, 2008",iPod Touch (2nd generation)(8 GB),iPod Touch,"September 1, 2010",false,https://en.wikipedia.org/wiki/IPod_touch_(2nd_generation)
+"October 14, 2008",MacBook(Late 2008) (White),MacBook,"January 29, 2009",false,https://en.wikipedia.org/wiki/MacBook
+"October 14, 2008",MacBook(Late 2008) (Aluminum),MacBook,"June 8, 2009",false,https://en.wikipedia.org/wiki/MacBook
+"October 14, 2008","MacBook Pro(Late 2008) (15"")",MacBook Pro,"June 8, 2009",false,https://en.wikipedia.org/wiki/MacBook_Pro
+"October 14, 2008","LED Cinema Display (24"")",Displays,"July 27, 2010",false,https://en.wikipedia.org/wiki/Apple_Cinema_Display#LED_Cinema_Display
+"March 03, 2009",iMac(Early 2009),iMac,"October 20, 2009",false,https://en.wikipedia.org/wiki/IMac_(Intel-based)
+"March 03, 2009",Mac Pro(Early 2009),Mac Pro,"August 9, 2010",false,https://en.wikipedia.org/wiki/Mac_Pro
+"March 03, 2009",Time Capsule(2nd gen) (500 GB),"AirPort,drives","July 30, 2009",false,https://en.wikipedia.org/wiki/Apple_Time_Capsule
+"March 03, 2009",Time Capsule(2nd gen) (1 TB),"AirPort,drives","March 31, 2010",false,https://en.wikipedia.org/wiki/Apple_Time_Capsule
+"March 03, 2009",AirPort Extreme 802.11n(3rd gen),AirPort,"October 20, 2009",false,https://en.wikipedia.org/wiki/AirPort_Extreme_802.11n
+"March 03, 2009",Apple Keyboard(short),Keyboards,"October 20, 2009",false,https://en.wikipedia.org/wiki/Apple_Keyboard
+"June 08, 2009",MacBook Air(Mid 2009),MacBook Air,"October 20, 2010",false,https://en.wikipedia.org/wiki/MacBook_Air_(Intel-based)
+"September 09, 2009",iPod Shuffle(3rd gen) (2 GB),iPod Shuffle,"September 1, 2010",false,https://en.wikipedia.org/wiki/IPod_Shuffle
+"September 09, 2009",iPod Classic(6th gen) (160 GB),iPod Classic,"September 9, 2014",false,https://en.wikipedia.org/wiki/IPod_Classic
+"September 09, 2009",iPod Touch (3rd generation),iPod Touch,"September 1, 2010",false,https://en.wikipedia.org/wiki/IPod_touch_(3rd_generation)
+"October 20, 2009",MacBook(Late 2009),MacBook,"May 18, 2010",false,https://en.wikipedia.org/wiki/MacBook
+"October 20, 2009",Mac Mini(Late 2009),Mac Mini,"June 15, 2010",false,https://en.wikipedia.org/wiki/Mac_Mini
+"October 20, 2009",Magic Mouse,Pointing devices,"October 13, 2015",false,https://en.wikipedia.org/wiki/Magic_Mouse
+"October 20, 2009",AirPort Extreme 802.11n(4th gen),AirPort,"June 21, 2011",false,https://en.wikipedia.org/wiki/AirPort_Extreme_802.11n
+"June 24, 2010",iPhone 4(GSM) (16 & 32 GB),iPhone,"October 4, 2011",false,https://en.wikipedia.org/wiki/IPhone_4
+"July 27, 2010",Magic Trackpad,Pointing devices,"October 13, 2015",false,https://en.wikipedia.org/wiki/Magic_Trackpad
+"July 27, 2010",Apple Battery Charger,Input Device Accessories,"January 15, 2016",false,https://en.wikipedia.org/wiki/Apple_Battery_Charger
+"July 27, 2010","LED Cinema Display (27"")",Displays,"December 2, 2013",false,https://en.wikipedia.org/wiki/Apple_Cinema_Display#LED_Cinema_Display
+"September 01, 2010",iPod Nano(6th gen),iPod Nano,"September 12, 2012",false,https://en.wikipedia.org/wiki/IPod_Nano
+"September 01, 2010",Apple TV(2nd gen),Apple TV,"March 7, 2012",false,https://en.wikipedia.org/wiki/Apple_TV_(device)
+"September 01, 2010",iPod Touch (4th generation)(32 GB),iPod Touch,"May 30, 2013",false,https://en.wikipedia.org/wiki/IPod_Touch_(4th_generation)
+"September 01, 2010",iPod Shuffle(4th gen),iPod Shuffle,"July 27, 2017",false,https://en.wikipedia.org/wiki/IPod_Shuffle
+"March 11, 2011",iPad 2(32 & 64 GB),iPad,"March 7, 2012",false,https://en.wikipedia.org/wiki/IPad_2
+"June 21, 2011",Time Capsule(4th gen),"AirPort,drives","June 10, 2013",false,https://en.wikipedia.org/wiki/AirPort_Time_Capsule
+"July 20, 2011",Mac Mini(Mid 2011),Mac Mini,"October 23, 2012",false,https://en.wikipedia.org/wiki/Mac_Mini
+"July 20, 2011",Thunderbolt Display,Displays,"June 23, 2016",false,https://en.wikipedia.org/wiki/Apple_Thunderbolt_Display
+"October 14, 2011",iPhone 4S(32 & 64 GB),iPhone,"September 12, 2012",false,https://en.wikipedia.org/wiki/IPhone_4S
+"October 14, 2011",iPhone 4S(16 GB),iPhone,"September 10, 2013",false,https://en.wikipedia.org/wiki/IPhone_4S
+"March 16, 2012",Apple TV(3rd gen),Apple TV,"January 28, 2013",false,https://en.wikipedia.org/wiki/Apple_TV_(device)
+"June 11, 2012",AirPort Express 802.11n(2nd gen),AirPort Express,"April 26, 2018",false,https://en.wikipedia.org/wiki/AirPort_Express
+"June 11, 2012","MacBook Prowith Retina display (3rd gen) (15"") (Mid 2012)",MacBook Pro,"February 13, 2013",false,https://en.wikipedia.org/wiki/MacBook_Pro
+"June 11, 2012",MacBook Air(Mid 2012),MacBook Air,"June 10, 2013",false,https://en.wikipedia.org/wiki/MacBook_Air
+"June 11, 2012",MacBook Pro(Mid 2012),MacBook Pro,"October 27, 2016",false,https://en.wikipedia.org/wiki/MacBook_Pro
+"September 12, 2012",iPod Touch (4th generation)(16 GB),iPod Touch,"May 30, 2013",false,https://en.wikipedia.org/wiki/IPod_Touch_(4th_generation)
+"October 11, 2012",iPod Nano(7th gen),iPod Nano,"July 27, 2017",false,https://en.wikipedia.org/wiki/IPod_Nano
+"October 23, 2012","MacBook Prowith Retina display (3rd gen) (13"") (Late 2012)",MacBook Pro,"February 13, 2013",false,https://en.wikipedia.org/wiki/MacBook_Pro
+"November 02, 2012",iPad mini (1st gen)(Wi-Fi) (32 & 64 GB),iPad,"October 22, 2013",false,https://en.wikipedia.org/wiki/IPad_Mini_(1st_generation)
+"November 02, 2012",iPad (4th gen)(Wi-Fi) (16 GB),iPad,"October 16, 2014",false,https://en.wikipedia.org/wiki/IPad_(4th_generation)
+"November 02, 2012",iPad (4th gen)(Wi-Fi) (32 & 64 GB),iPad,"October 22, 2013",false,https://en.wikipedia.org/wiki/IPad_(4th_generation)
+"November 16, 2012",iPad Mini(Wi-Fi + Cellular) (32 & 64 GB),iPad,"October 22, 2013",false,https://en.wikipedia.org/wiki/IPad_Mini
+"November 16, 2012",iPad (4th gen)(Wi-Fi + Cellular) (16 GB),iPad,"October 16, 2014",false,https://en.wikipedia.org/wiki/IPad_(4th_generation)
+"November 16, 2012",iPad (4th gen)(Wi-Fi + Cellular) (32 & 64 GB),iPad,"October 22, 2013",false,https://en.wikipedia.org/wiki/IPad_(4th_generation)
+"June 10, 2013",AirPort Time Capsule802.11ac,"AirPort,drives","April 26, 2018",false,https://en.wikipedia.org/wiki/AirPort_Time_Capsule
+"June 10, 2013",MacBook Air(Mid 2013),MacBook Air,"April 29, 2014",false,https://en.wikipedia.org/wiki/MacBook_Air_(Intel-based)
+"September 20, 2013",iPhone 5S(64 GB),iPhone,"September 9, 2014",false,https://en.wikipedia.org/wiki/IPhone_5S
+"September 20, 2013",iPhone 5C(16 & 32 GB),iPhone,"September 9, 2014",false,https://en.wikipedia.org/wiki/IPhone_5C
+"September 20, 2013",iPhone 5S(16 & 32 GB),iPhone,"March 21, 2016",false,https://en.wikipedia.org/wiki/IPhone_5S
+"September 24, 2013","iMac(27-inch, Late 2013)",iMac,"October 13, 2015",false,https://en.wikipedia.org/wiki/IMac
+"November 01, 2013",iPad Air(64 & 128 GB),iPad,"October 16, 2014",false,https://en.wikipedia.org/wiki/IPad_Air
+"November 12, 2013",iPad Mini 2with Retina display (32 GB),iPad,"March 21, 2017",false,https://en.wikipedia.org/wiki/IPad_Mini_2
+"November 12, 2013",iPad Mini 2with Retina display (64 & 128 GB),iPad,"October 16, 2014",false,https://en.wikipedia.org/wiki/IPad_Mini_2
+"September 19, 2014",iPhone 6 Plus(16 & 64 GB),iPhone,"September 7, 2016",false,https://en.wikipedia.org/wiki/IPhone_6_Plus
+"September 19, 2014",iPhone 6(128 GB),iPhone,"September 9, 2015",false,https://en.wikipedia.org/wiki/IPhone_6
+"September 19, 2014",iPhone 6 Plus(128 GB),iPhone,"September 9, 2015",false,https://en.wikipedia.org/wiki/IPhone_6_Plus
+"October 16, 2014",Mac Mini(Late 2014),Mac Mini,"October 30, 2018",false,https://en.wikipedia.org/wiki/Mac_Mini
+"October 22, 2014","iPad Mini 3(16, 64 & 128 GB)",iPad,"September 9, 2015",false,https://en.wikipedia.org/wiki/IPad_Mini_3
+"October 22, 2014",iPad Air 2(128 GB),iPad,"March 21, 2017",false,https://en.wikipedia.org/wiki/IPad_Air_2
+"March 09, 2015","MacBook Pro(Retina, 13-inch, Early 2015)",MacBook Pro,"June 5, 2017",false,https://en.wikipedia.org/wiki/MacBook_Pro
+"March 09, 2015","MacBook Air(11-inch, Early 2015)",MacBook Air,"October 27, 2016",false,https://en.wikipedia.org/wiki/MacBook_Air_(Intel-based)
+"April 24, 2015",Apple Watch Sport(1st generation),Apple Watch,"September 7, 2016",false,https://en.wikipedia.org/wiki/Apple_Watch_Sport
+"April 24, 2015",Apple Watch Edition(1st generation),Apple Watch,"September 7, 2016",false,https://en.wikipedia.org/wiki/Apple_Watch_Edition
+"May 19, 2015","iMac(Retina 5K, 27-inch, Mid 2015)",iMac,"October 13, 2015[citation needed]",false,https://en.wikipedia.org/wiki/IMac_(Intel-based)
+"July 15, 2015",iPod Touch (6th generation)(16 GB and 64 GB),iPod Touch,"July 27, 2017",false,https://en.wikipedia.org/wiki/IPod_Touch_(6th_generation)
+"September 09, 2015",iPad Mini 4(32 GB),iPad,"March 21, 2017",false,https://en.wikipedia.org/wiki/IPad_Mini_4
+"September 09, 2015",iPad Mini 4(128 GB),iPad,"March 18, 2019",false,https://en.wikipedia.org/wiki/IPad_Mini_4
+"September 25, 2015",iPhone 6S Plus(16GB and 64GB),iPhone,"September 7, 2016",false,https://en.wikipedia.org/wiki/IPhone_6S
+"September 25, 2015",iPhone 6S Plus(128 GB),iPhone,"September 12, 2018",false,https://en.wikipedia.org/wiki/IPhone_6S
+"September 25, 2015",iPhone 6S(128 GB),iPhone,"September 12, 2018",false,https://en.wikipedia.org/wiki/IPhone_6S
+"October 13, 2015","iMac(Retina 4K, 21.5-inch, Late 2015)",iMac,"June 5, 2017",false,https://en.wikipedia.org/wiki/IMac_(Intel-based)
+"October 13, 2015","iMac(Retina 5K, 27-inch, Late 2015)",iMac,"June 5, 2017",false,https://en.wikipedia.org/wiki/IMac_(Intel-based)
+"October 13, 2015",Magic Mouse 2 (Lightning),Pointing devices,"October 28, 2024",false,https://en.wikipedia.org/wiki/Magic_Mouse_2
+"October 13, 2015",Magic Trackpad 2 (Lightning),Pointing devices,"October 28, 2024",false,https://en.wikipedia.org/wiki/Magic_Trackpad_2
+"October 13, 2015",Magic Keyboard (first generation),Keyboards,"May 21, 2021",false,https://en.wikipedia.org/wiki/Magic_Keyboard_(Mac)
+"October 30, 2015",Siri Remote(1st generation),Apple TV,"April 20, 2021",false,https://en.wikipedia.org/wiki/Siri_Remote
+"October 30, 2015",Apple TVHD (previously Apple TV (4th generation)) (64 GB),Apple TV,"September 12, 2017",false,https://en.wikipedia.org/wiki/Apple_TV_(device)
+"November 11, 2015",Apple Pencil,iPad,current,false,https://en.wikipedia.org/wiki/Apple_Pencil
+"March 31, 2016",iPad Pro(12.9-inch) (256 GB),iPad,"June 5, 2017",false,https://en.wikipedia.org/wiki/IPad_Pro
+"March 31, 2016",iPhone SE (1st generation)(16 & 64 GB),iPhone,"March 21, 2017",false,https://en.wikipedia.org/wiki/IPhone_SE_(1st_generation)
+"September 16, 2016",Apple Watch Edition Series 2,Apple Watch,"September 12, 2017",false,https://en.wikipedia.org/wiki/Apple_Watch_Series_2
+"September 16, 2016",Apple Watch Hermès Series 2,Apple Watch,"September 12, 2017",false,https://en.wikipedia.org/wiki/Apple_Watch_Series_2
+"September 16, 2016",Apple Watch Series 1,Apple Watch,"September 12, 2018",false,https://en.wikipedia.org/wiki/Apple_Watch_Series_1
+"September 16, 2016",Apple Watch Series 2,Apple Watch,"September 12, 2017",false,https://en.wikipedia.org/wiki/Apple_Watch_Series_2
+"September 16, 2016",iPhone 6S Plus(32 GB),iPhone,"September 12, 2018",false,https://en.wikipedia.org/wiki/IPhone_6S_Plus
+"September 16, 2016",iPhone 7 Plus(32 & 128 GB),iPhone,"September 10, 2019",false,https://en.wikipedia.org/wiki/IPhone_7
+"September 16, 2016",EarPodswith Lightning Connector,Headphones,current,false,https://en.wikipedia.org/wiki/EarPods
+"September 16, 2016",iPhone 7(256 GB),iPhone,"September 12, 2017",false,https://en.wikipedia.org/wiki/IPhone_7
+"September 16, 2016",iPhone 6S(32 GB),iPhone,"September 12, 2018",false,https://en.wikipedia.org/wiki/IPhone_6S
+"September 16, 2016",iPhone 7 Plus(256 GB),iPhone,"September 12, 2017",false,https://en.wikipedia.org/wiki/IPhone_7
+"October 27, 2016","MacBook Pro(13-inch, 2016, Four Thunderbolt 3 ports)",MacBook Pro,"June 5, 2017",false,https://en.wikipedia.org/wiki/MacBook_Pro
+"October 27, 2016","MacBook Pro(15-inch, 2016)",MacBook Pro,"June 5, 2017",false,https://en.wikipedia.org/wiki/MacBook_Pro
+"June 05, 2017","MacBook Pro(15-inch, 2017)",MacBook Pro,"July 12, 2018",false,https://en.wikipedia.org/wiki/MacBook_Pro
+"June 05, 2017",Magic Keyboard with Numeric Keypad,Keyboards,current,false,https://en.wikipedia.org/wiki/Apple_Keyboard
+"June 05, 2017","iMac(Retina 5K, 27-inch, 2017)",iMac,"March 19, 2019",false,https://en.wikipedia.org/wiki/IMac_(Intel-based)
+"June 05, 2017","iMac(Retina 4K, 21.5-inch, 2017)",iMac,"March 19, 2019",false,https://en.wikipedia.org/wiki/IMac_(Intel-based)
+"June 05, 2017","iMac(21.5-inch, 2017)",iMac,"October 30, 2021",false,https://en.wikipedia.org/wiki/IMac
+"June 05, 2017","MacBook Pro(13-inch, 2017, Two Thunderbolt 3 ports)",MacBook Pro,"July 9, 2019",false,https://en.wikipedia.org/wiki/MacBook_Pro
+"June 05, 2017","MacBook(Retina, 12-inch, 2017)",MacBook,"July 9, 2019",false,https://en.wikipedia.org/wiki/MacBook_(2015_version)
+"June 05, 2017","MacBook Air(13-inch, 2017)",MacBook Air,"July 9, 2019",false,https://en.wikipedia.org/wiki/MacBook_Air_(Intel-based)
+"June 05, 2017",iPad Pro(10.5-inch),iPad,"March 18, 2019",false,https://en.wikipedia.org/wiki/IPad_Pro
+"June 05, 2017","MacBook Pro(13-inch, 2017, Four Thunderbolt 3 ports)",MacBook Pro,"July 12, 2018",false,https://en.wikipedia.org/wiki/MacBook_Pro
+"September 22, 2017",iPhone 8(64 GB),iPhone,"April 15, 2020",false,https://en.wikipedia.org/wiki/IPhone_8
+"September 22, 2017",iPhone 8 Plus(64 GB),iPhone,"April 15, 2020",false,https://en.wikipedia.org/wiki/IPhone_8
+"September 22, 2017",iPhone 8(256 GB),iPhone,"September 10, 2019",false,https://en.wikipedia.org/wiki/IPhone_8
+"September 22, 2017",iPhone 8 Plus(256 GB),iPhone,"September 10, 2019",false,https://en.wikipedia.org/wiki/IPhone_8
+"September 22, 2017",Apple Watch Nike+ Series 3,Apple Watch,"September 15, 2020",false,https://en.wikipedia.org/wiki/Apple_Watch_Series_3
+"September 22, 2017",Apple Watch Hermès Series 3,Apple Watch,"September 12, 2018",false,https://en.wikipedia.org/wiki/Apple_Watch_Series_3
+"September 22, 2017",Apple Watch Series 3,Apple Watch,"September 7, 2022",false,https://en.wikipedia.org/wiki/Apple_Watch_Series_3
+"September 22, 2017",Apple Watch Edition Series 3,Apple Watch,"September 12, 2018",false,https://en.wikipedia.org/wiki/Apple_Watch_Series_3
+"July 12, 2018","MacBook Pro(15-inch, 2018)",MacBook Pro,"May 21, 2019",false,https://en.wikipedia.org/wiki/MacBook_Pro
+"September 21, 2018",Apple Watch Hermès Series 4,Apple Watch,"September 10, 2019",false,https://en.wikipedia.org/wiki/Apple_Watch_Series_4
+"September 21, 2018",Apple Watch Nike+ Series 4,Apple Watch,"September 10, 2019",false,https://en.wikipedia.org/wiki/Apple_Watch_Series_4
+"September 21, 2018",iPhone XS,iPhone,"September 10, 2019",false,https://en.wikipedia.org/wiki/IPhone_XS
+"September 21, 2018",iPhone XS Max,iPhone,"September 10, 2019",false,https://en.wikipedia.org/wiki/IPhone_XS
+"October 26, 2018",iPhone XR(256 GB),iPhone,"September 10, 2019",false,https://en.wikipedia.org/wiki/IPhone_XR
+"November 07, 2018",Mac Mini(2018) (Intel Core i5 and i7),Mac Mini,"January 17, 2023",false,https://en.wikipedia.org/wiki/Mac_Mini
+"November 07, 2018",Mac Mini(2018) (Intel Core i3),Mac Mini,"November 17, 2020",false,https://en.wikipedia.org/wiki/Mac_Mini
+"November 07, 2018",iPad Pro(11-inch) (1st generation),iPad,"March 18, 2020",false,https://en.wikipedia.org/wiki/IPad_Pro
+"November 07, 2018",iPad Pro(12.9-inch) (3rd generation),iPad,"March 18, 2020",false,https://en.wikipedia.org/wiki/IPad_Pro
+"November 07, 2018","MacBook Air(Retina, 13-inch, 2018)",MacBook Air,"July 9, 2019",false,https://en.wikipedia.org/wiki/MacBook_Air_(Intel-based)
+"March 18, 2019",iPad Mini (5th generation),iPad,"September 14, 2021",false,https://en.wikipedia.org/wiki/IPad_Mini_(5th_generation)
+"March 19, 2019","iMac(Retina 5K, 27-inch, 2019)",iMac,"August 4, 2020",false,https://en.wikipedia.org/wiki/IMac_(Intel-based)
+"May 21, 2019","MacBook Pro(15-inch, 2019)",MacBook Pro,"November 13, 2019",false,https://en.wikipedia.org/wiki/MacBook_Pro
+"July 09, 2019","MacBook Pro(13-inch, 2019, Two Thunderbolt 3 ports)",MacBook Pro,"May 4, 2020",false,https://en.wikipedia.org/wiki/MacBook_Pro
+"September 20, 2019",iPhone 11 Pro,iPhone,"October 13, 2020",false,https://en.wikipedia.org/wiki/IPhone_11_Pro
+"September 20, 2019",iPhone 11,iPhone,"September 7, 2022",false,https://en.wikipedia.org/wiki/IPhone_11
+"September 20, 2019",iPhone 11 Pro Max,iPhone,"October 13, 2020",false,https://en.wikipedia.org/wiki/IPhone_11_Pro
+"September 20, 2019",iPhone 8 Plus(128 GB),iPhone,"April 15, 2020",false,https://en.wikipedia.org/wiki/IPhone_8
+"September 20, 2019",iPhone 8(128 GB),iPhone,"April 15, 2020",false,https://en.wikipedia.org/wiki/IPhone_8
+"September 20, 2019",Apple Watch Edition Series 5,Apple Watch,"September 15, 2020",false,https://en.wikipedia.org/wiki/Apple_Watch_Series_5
+"September 20, 2019",Apple Watch Nike Series 5,Apple Watch,"September 15, 2020",false,https://en.wikipedia.org/wiki/Apple_Watch_Series_5
+"September 20, 2019",Apple Watch Hermès Series 5,Apple Watch,"September 15, 2020",false,https://en.wikipedia.org/wiki/Apple_Watch_Series_5
+"December 10, 2019",Pro Display XDR,Displays,current,false,https://en.wikipedia.org/wiki/Pro_Display_XDR
+"March 18, 2020",iPad Pro(12.9-inch) (4th generation),iPad,"April 20, 2021",false,https://en.wikipedia.org/wiki/IPad_Pro
+"March 18, 2020",Magic Keyboard for iPad,Keyboards,current,false,https://en.wikipedia.org/wiki/Magic_Keyboard_for_iPad
+"March 18, 2020","MacBook Air(Retina, 13-inch, 2020)",MacBook Air,"November 17, 2020",false,https://en.wikipedia.org/wiki/MacBook_Air_(Intel-based)
+"May 04, 2020","MacBook Pro(13-inch, 2020, Two Thunderbolt 3 ports)",MacBook Pro,"November 17, 2020",false,https://en.wikipedia.org/wiki/MacBook_Pro
+"September 18, 2020",iPad (8th generation),iPad,"September 14, 2021",false,https://en.wikipedia.org/wiki/IPad_(8th_generation)
+"September 18, 2020",Apple Watch SE,Apple Watch,"September 7, 2022",false,https://en.wikipedia.org/wiki/Apple_Watch_SE
+"September 18, 2020",Apple Watch Hermès Series 6,Apple Watch,"October 8, 2021",false,https://en.wikipedia.org/wiki/Apple_Watch_Series_6
+"September 18, 2020",Apple Watch Nike Series 6,Apple Watch,"October 8, 2021",false,https://en.wikipedia.org/wiki/Apple_Watch_Series_6
+"October 23, 2020",iPhone 12,iPhone,"September 12, 2023",false,https://en.wikipedia.org/wiki/IPhone_12
+"October 23, 2020",iPhone 12 Pro,iPhone,"September 14, 2021",false,https://en.wikipedia.org/wiki/IPhone_12_Pro
+"November 13, 2020",iPhone 12 Pro Max,iPhone,"September 14, 2021",false,https://en.wikipedia.org/wiki/IPhone_12_Pro
+"November 13, 2020",MagSafe Charger(15 W),iPhone accessories,"September 9, 2024",false,https://en.wikipedia.org/wiki/MagSafe_(wireless_charger)#MagSafe_Charger
+"November 13, 2020",MagSafe Duo Charger,iPhone accessories,"September 12, 2023",false,https://en.wikipedia.org/wiki/MagSafe_(wireless_charger)#MagSafe_Duo_Charger
+"November 17, 2020","MacBook Air(13-inch, M1, 2020)",MacBook Air,"March 4, 2024",false,https://en.wikipedia.org/wiki/MacBook_Air_(Apple_silicon)
+"November 17, 2020","MacBook Pro(13-inch, M1, 2020)",MacBook Pro,"June 6, 2022",false,https://en.wikipedia.org/wiki/MacBook_Pro
+"May 21, 2021",iPad Pro(11-inch) (3rd generation),iPad,"October 18, 2022",false,https://en.wikipedia.org/wiki/IPad_Pro_(5th_generation)
+"May 21, 2021",iPad Pro(12.9-inch) (5th generation),iPad,"October 18, 2022",false,https://en.wikipedia.org/wiki/IPad_Pro_(5th_generation)
+"May 21, 2021",Magic Keyboardwith Touch ID and Numeric Keypad (Lightning),Keyboards,"October 28, 2024",false,https://en.wikipedia.org/wiki/Magic_Keyboard_(Mac)
+"May 21, 2021",Magic Keyboardwith Touch ID (Lightning),Keyboards,"October 28, 2024",false,https://en.wikipedia.org/wiki/Magic_Keyboard_(Mac)
+"May 21, 2021","Magic Keyboard (second generation, Lightning)",Keyboards,"October 28, 2024",false,https://en.wikipedia.org/wiki/Magic_Keyboard_(Mac)
+"May 21, 2021","iMac(24-inch, M1, 2021)",iMac,"October 30, 2023",false,https://en.wikipedia.org/wiki/IMac_(Apple_silicon)
+"May 21, 2021",Siri Remote(2nd generation),Apple TV,"October 18, 2022",false,https://en.wikipedia.org/wiki/Siri_Remote
+"September 24, 2021",iPad Mini (6th generation),iPad,"October 15, 2024",false,https://en.wikipedia.org/wiki/IPad_Mini_(6th_generation)
+"September 24, 2021",iPhone 13,iPhone,"September 9, 2024",false,https://en.wikipedia.org/wiki/IPhone_13
+"September 24, 2021",iPhone 13 Mini,iPhone,"September 12, 2023",false,https://en.wikipedia.org/wiki/IPhone_13
+"September 24, 2021",iPhone 13 Pro,iPhone,"September 7, 2022",false,https://en.wikipedia.org/wiki/IPhone_13_Pro
+"September 24, 2021",iPhone 13 Pro Max,iPhone,September 7. 2022,false,https://en.wikipedia.org/wiki/IPhone_13_Pro
+"October 26, 2021","HomePod Mini(blue, orange and yellow)",Speakers,current,false,https://en.wikipedia.org/wiki/HomePod_Mini
+"October 26, 2021","MacBook Pro(16-inch, M1 Pro and M1 Max, 2021)",MacBook Pro,"January 17, 2023",false,https://en.wikipedia.org/wiki/MacBook_Pro
+"October 26, 2021",Apple Polishing Cloth,Cleaning aid,current,false,https://en.wikipedia.org/wiki/Apple_Polishing_Cloth
+"October 26, 2021",MagSafeCharging Case forAirPods Pro,Headphones,"September 7, 2022",false,https://en.wikipedia.org/wiki/MagSafe_(smartphones)
+"October 26, 2021","MacBook Pro(14-inch, M1 Pro and M1 Max, 2021)",MacBook Pro,"January 17, 2023",false,https://en.wikipedia.org/wiki/MacBook_Pro
+"March 18, 2022",iPad Air (5th generation),iPad,"May 7, 2024",false,https://en.wikipedia.org/wiki/IPad_Air_(5th_generation)
+"March 18, 2022",iPhone SE (3rd generation),iPhone,"February 19, 2025",false,https://en.wikipedia.org/wiki/IPhone_SE_(3rd_generation)
+"March 18, 2022",Mac Studio,Mac Studio,"June 5, 2023",false,https://en.wikipedia.org/wiki/Mac_Studio
+"September 16, 2022",Apple Watch SE (2nd generation),Apple Watch,"September 9, 2025",false,https://en.wikipedia.org/wiki/Apple_Watch
+"September 16, 2022",iPhone 14,iPhone,"February 19, 2025",false,https://en.wikipedia.org/wiki/IPhone_14
+"September 16, 2022",iPhone 14 Pro,iPhone,"September 12, 2023",false,https://en.wikipedia.org/wiki/IPhone_14_Pro
+"September 16, 2022",iPhone 14 Pro Max,iPhone,"September 12, 2023",false,https://en.wikipedia.org/wiki/IPhone_14_Pro
+"September 23, 2022",Apple Watch Ultra,Apple Watch,"September 12, 2023",false,https://en.wikipedia.org/wiki/Apple_Watch
+"October 26, 2022",iPad Pro(11-inch) (4th generation),iPad,"May 7, 2024",false,https://en.wikipedia.org/wiki/IPad_Pro_(6th_generation)
+"October 26, 2022",iPad Pro(12.9-inch) (6th generation),iPad,"May 7, 2024",false,https://en.wikipedia.org/wiki/IPad_Pro_(6th_generation)
+"November 04, 2022",Siri Remote(3rd generation),Apple TV,current,false,https://en.wikipedia.org/wiki/Siri_Remote
+"January 24, 2023","MacBook Pro(M2 Pro/M2 Max) (14-inch, 2023)",MacBook Pro,"October 30, 2023",false,https://en.wikipedia.org/wiki/MacBook_Pro
+"January 24, 2023","MacBook Pro(M2 Pro/M2 Max) (16-inch, 2023)",MacBook Pro,"October 30, 2023",false,https://en.wikipedia.org/wiki/MacBook_Pro
+"June 13, 2023","Mac Pro(M2 Ultra, 2023)",Mac Pro,current,false,https://en.wikipedia.org/wiki/Mac_Pro
+"June 13, 2023","MacBook Air(15-inch, M2, 2023)",MacBook Air,"March 4, 2024",false,https://en.wikipedia.org/wiki/MacBook_Air
+"September 22, 2023","AirPods Pro(2nd generation, USB-C case)",Headphones,"September 9, 2025",false,https://en.wikipedia.org/wiki/AirPods_Pro
+"September 22, 2023",iPhone 15 Pro Max,iPhone,"September 9, 2024",false,https://en.wikipedia.org/wiki/IPhone_15_Pro
+"September 22, 2023",iPhone 15 Pro,iPhone,"September 9, 2024",false,https://en.wikipedia.org/wiki/IPhone_15_Pro
+"September 22, 2023",EarPods(USB-C),Headphones,current,false,https://en.wikipedia.org/wiki/EarPods
+"September 22, 2023",iPhone 15,iPhone,"September 9, 2025",false,https://en.wikipedia.org/wiki/IPhone_15
+"September 22, 2023",Apple Watch Ultra 2,Apple Watch,"September 9, 2025",false,https://en.wikipedia.org/wiki/Apple_Watch
+"September 22, 2023",iPhone 15 Plus,iPhone,"September 9, 2025",false,https://en.wikipedia.org/wiki/IPhone_15
+"November 07, 2023","MacBook Pro(M3/M3 Pro/M3 Max) (14-inch, 2023)",MacBook Pro,"October 30, 2024",false,https://en.wikipedia.org/wiki/MacBook_Pro
+"November 07, 2023","MacBook Pro(M3 Pro/M3 Max) (16-inch, 2023)",MacBook Pro,"October 30, 2024",false,https://en.wikipedia.org/wiki/MacBook_Pro
+"March 08, 2024",MacBook Air15-in. (M3),MacBook Air,"March 5, 2025",false,https://en.wikipedia.org/wiki/MacBook_Air
+"May 15, 2024",Magic Keyboard for iPad Pro,Keyboards,current,false,https://en.wikipedia.org/wiki/Apple_keyboards#Magic_Keyboard_for_iPad
+"May 15, 2024",iPad Air11-in. (M2),iPad,"March 4, 2025",false,https://en.wikipedia.org/wiki/IPad_Air_(6th_generation)
+"May 15, 2024",iPad Air13-in. (M2),iPad,"March 4, 2025",false,https://en.wikipedia.org/wiki/IPad_Air_(6th_generation)
+"May 15, 2024",iPad Pro11-in. (M4),iPad,"October 15, 2025",false,https://en.wikipedia.org/wiki/IPad_Pro_(7th_generation)
+"May 15, 2024",iPad Pro13-in. (M4),iPad,"October 15, 2025",false,https://en.wikipedia.org/wiki/IPad_Pro_(7th_generation)
+"September 20, 2024",iPhone 16 Pro,iPhone,"September 9, 2025",false,https://en.wikipedia.org/wiki/IPhone_16_Pro
+"September 20, 2024",iPhone 16 Pro Max,iPhone,"September 9, 2025",false,https://en.wikipedia.org/wiki/IPhone_16_Pro
+"September 20, 2024",iPhone 16,iPhone,current,false,https://en.wikipedia.org/wiki/IPhone_16
+"September 20, 2024",iPhone 16 Plus,iPhone,current,false,https://en.wikipedia.org/wiki/IPhone_16
+"September 20, 2024",Apple Watch Series 10,Apple Watch,"September 9, 2025",false,https://en.wikipedia.org/wiki/Apple_Watch
+"September 20, 2024",AirPods Max(USB-C),Headphones,current,false,https://en.wikipedia.org/wiki/AirPods_Max
+"September 20, 2024",Apple Watch Ultra 2(black),Apple Watch,"September 9, 2025",false,https://en.wikipedia.org/wiki/Apple_Watch_Ultra
+"October 28, 2024",Magic Trackpad 2 (USB-C),Pointing devices,current,false,https://en.wikipedia.org/wiki/Magic_Trackpad_2
+"October 28, 2024","Magic Keyboard (second generation, USB-C)",Keyboards,current,false,https://en.wikipedia.org/wiki/Magic_Keyboard_(Mac)
+"October 28, 2024",Magic Keyboardwith Touch ID (USB-C),Keyboards,current,false,https://en.wikipedia.org/wiki/Magic_Keyboard_(Mac)
+"October 28, 2024",Magic Keyboardwith Touch ID and Numeric Keypad (USB-C),Keyboards,current,false,https://en.wikipedia.org/wiki/Magic_Keyboard_(Mac)
+"November 08, 2024","MacBook Pro(M4 Pro/M4 Max) (14-inch, 2024)",MacBook Pro,current,false,https://en.wikipedia.org/wiki/MacBook_Pro
+"November 08, 2024","Mac Mini(M4/M4 Pro, 2024)",Mac Mini,current,false,https://en.wikipedia.org/wiki/Mac_Mini
+"November 08, 2024","MacBook Pro(M4) (14-inch, 2024)",MacBook Pro,"October 15, 2025",false,https://en.wikipedia.org/wiki/MacBook_Pro
+"November 08, 2024","MacBook Pro(M4 Pro/M4 Max) (16-inch, 2024)",MacBook Pro,current,false,https://en.wikipedia.org/wiki/MacBook_Pro
+"March 12, 2025","Mac Studio(M4 Max/M3 Ultra, 2025)",Mac Studio,current,false,https://en.wikipedia.org/wiki/Mac_Studio
+"March 12, 2025",MacBook Air15-in. (M4),MacBook Air,current,false,https://en.wikipedia.org/wiki/MacBook_Air
+"March 12, 2025",iPad Air11-in. (M3),iPad,current,false,https://en.wikipedia.org/wiki/IPad_Air_(7th_generation)
+"March 12, 2025",iPad Air13-in. (M3),iPad,current,false,https://en.wikipedia.org/wiki/IPad_Air_(7th_generation)
+"March 12, 2025",MacBook Air13-in. (M4),MacBook Air,current,false,https://en.wikipedia.org/wiki/MacBook_Air
+"September 09, 2025",MagSafe Charger(25 W Qi2),iPhone accessories,current,false,https://en.wikipedia.org/wiki/MagSafe_(wireless_charger)#MagSafe_Charger
+"September 19, 2025",iPhone Air,iPhone,current,false,https://en.wikipedia.org/wiki/IPhone_Air
+"September 19, 2025",iPhone 17,iPhone,current,false,https://en.wikipedia.org/wiki/IPhone_17
+"September 19, 2025",iPhone 17 Pro,iPhone,current,false,https://en.wikipedia.org/wiki/IPhone_17_Pro
+"September 19, 2025",Apple Watch Series 11,Apple Watch,current,false,https://en.wikipedia.org/wiki/Apple_Watch
+"September 19, 2025",Apple Watch SE 3,Apple Watch,current,false,https://en.wikipedia.org/wiki/Apple_Watch
+"September 19, 2025",Apple Watch Ultra 3,Apple Watch,current,false,https://en.wikipedia.org/wiki/Apple_Watch
+"September 19, 2025",iPhone 17 Pro Max,iPhone,current,false,https://en.wikipedia.org/wiki/IPhone_17_Pro
+"October 22, 2025","MacBook Pro(M5) (14-inch, 2025)",MacBook Pro,current,false,https://en.wikipedia.org/wiki/MacBook_Pro
+"October 22, 2025",iPad Pro13-in. (M5),iPad,current,false,https://en.wikipedia.org/wiki/IPad_Pro_(8th_generation)
+"October 22, 2025",Apple Vision Pro(M5),Apple Vision Pro,current,false,https://en.wikipedia.org/wiki/Apple_Vision_Pro
