@@ -3,10 +3,28 @@ from pathlib import Path
 
 from helpers import generate_categories, generate_tags, make_path_safe
 
+# Read the CSV
 df = pd.read_csv("data/apple_products.csv")
 
-# set date to datetime
-df["released"] = pd.to_datetime(df["released"], format="mixed")
+# Print original column names for debugging
+print("Original columns:", df.columns.tolist())
+
+# Convert column names to lowercase and standardize format
+df.columns = df.columns.str.lower().str.replace(" ", "_")
+
+# Print converted column names for debugging
+print("Converted columns:", df.columns.tolist())
+
+# Add date conversion with explicit error handling
+try:
+    df["released"] = pd.to_datetime(df["released"], format="%B %d, %Y")
+except KeyError as e:
+    print(f"Error: Column not found: {e}")
+    print("Available columns:", df.columns.tolist())
+    raise
+except Exception as e:
+    print(f"Error converting date: {e}")
+    raise
 
 
 def generate_page(data):
@@ -28,7 +46,7 @@ summary = " "
 
 The {data.model} was released on {data.released}.
 
-Source: `{data.get('source link', 'Not available')}`
+Source: `{data.get('source_link', 'Not available')}`
 
 
 """
@@ -54,7 +72,6 @@ parent_map = {
     "MacBook Air": "Mac/MacBook Air",
     "MacBook Pro": "Mac/MacBook Pro",
 }
-
 
 for index, row in df.iterrows():
     destination = Path("content/posts")
