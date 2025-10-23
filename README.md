@@ -20,9 +20,30 @@ The data is stored in a JSON file named `data/apple_products.json`. The JSON fil
 
 There's also a `data/apple_products.csv` file that contains the same data in CSV format.
 
+# Usage
+You can use this package to fetch Apple product data in two ways:
+
+1. As a command line tool:
+```bash
+# Install the package
+pip install .
+
+# Fetch the latest data
+dump-apple
+```
+
+2. As a Python library:
+```python
+from apple_release_dates.dump import main
+main()
+```
+
+The data will be saved to `data/apple_products.json` and `data/apple_products.csv`.
+
 # Scripts
-The `scripts` folder contains Python scripts to scrape the release dates from Wikipedia and update the JSON file.
-It also has a script that converts the CSV file to a post on the website.
+The `scripts` folder contains additional tools:
+- `generate_pages.py`: Converts the CSV file to posts on the website
+- `dump_apple.py`: Simplified entry point for the data fetcher
 
 # Website
 The webpage is based on Hugo and hosted on Netlify.

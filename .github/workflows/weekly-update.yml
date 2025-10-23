@@ -39,11 +39,10 @@ jobs:
         run: |
           pip install pre-commit
 
-      # Run your Python script
-      - name: Run Python script
-
+      # Run data collection and page generation
+      - name: Run data collection and page generation
         run: |
-          python scripts/dump_apple.py
+          dump-apple
           python scripts/generate_pages.py
 
       # Run pre-commit hooks

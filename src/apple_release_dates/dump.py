@@ -1,9 +1,31 @@
-#!/usr/bin/env python3
-"""Script to dump Apple product data from Wikipedia."""
-from apple_release_dates.dump import main
+"""Apple product data fetching from Wikipedia.
 
-if __name__ == "__main__":
-    raise SystemExit(main())
+This module scrapes Apple product release dates and information from Wikipedia and saves
+it as JSON and CSV files in the data/ directory.
+
+Usage:
+    python -m apple_release_dates.dump
+
+Output files:
+    data/apple_products.json - Product data in JSON format
+    data/apple_products.csv - Product data in CSV format with preferred columns ordered first
+"""
+
+import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
+from bs4 import BeautifulSoup
+import json
+import pandas as pd
+import sys
+from pathlib import Path
+
+
+def fetch_wikipedia_page(url: str, timeout: int = 10) -> str:
+    """Fetch page text from the given URL using a session with retries and a User-Agent.
+
+    Raises requests.HTTPError on non-2xx responses.
+    """
     session = requests.Session()
 
     # Set a sensible User-Agent to avoid being blocked by Wikipedia
@@ -28,137 +50,125 @@ if __name__ == "__main__":
     return resp.text
 
 
-def extract_products_from_html(html: str) -> list:
+def parse_table(table_soup) -> list[dict]:
+    """Parse a Wikipedia table into list of row dictionaries."""
+    headers = []
+    for header in table_soup.find_all("th"):
+        # Clean and normalize header text
+        header_text = header.get_text().strip()
+        header_text = header_text.replace("\n", " ")
+        headers.append(header_text)
+
+    if not headers and table_soup.find("tr"):
+        # Try first row cells if no th found
+        headers = [
+            cell.get_text(strip=True)
+            for cell in table_soup.find("tr").find_all(["td", "th"])
+        ]
+
+    if not headers:
+        return []  # Skip tables with no headers
+
+    rows = []
+    for row in table_soup.find_all("tr")[1:]:  # Skip header row
+        cells = row.find_all(["td", "th"])
+        if len(cells) >= len(headers):  # Only process rows with enough cells
+            product_data = {}
+            for header, cell in zip(headers, cells):
+                # Clean and normalize cell text
+                cell_text = cell.get_text().strip()
+                cell_text = cell_text.replace("\n", " ")
+                product_data[header] = cell_text
+
+                # Add source link for Model cells
+                if header == "Model" or header == "Product":
+                    link_tag = cell.find("a", href=True)
+                    if link_tag and "href" in link_tag.attrs:
+                        product_data["Source link"] = (
+                            "https://en.wikipedia.org" + link_tag["href"]
+                        )
+
+            rows.append(product_data)
+
+    return rows
+
+
+def scrape_wiki_page(url: str) -> list[dict]:
+    """Scrape tables from a Wikipedia page."""
+    html = fetch_wikipedia_page(url)
     soup = BeautifulSoup(html, "html.parser")
 
-    products = []
+    all_data = []
+    for table in soup.find_all("table", class_="wikitable"):
+        rows = parse_table(table)
+        all_data.extend(rows)
 
-    tables = soup.find_all("table", {"class": "wikitable"})
-
-    for table in tables:
-        rows = table.find_all("tr")
-        if not rows:
-            continue
-
-        # Some tables may not have header row structured the same way - guard against that
-        header_cells = rows[0].find_all(["th", "td"])
-        headers = [th.get_text(strip=True) for th in header_cells]
-
-        current_rowspans = {
-            header: {"value": None, "remaining": 0} for header in headers
-        }
-
-        for row in rows[1:]:
-            cells = row.find_all("td")
-            if not cells:
-                continue
-
-            product_data = {}
-            col_index = 0
-
-            for header in headers:
-                if current_rowspans[header]["remaining"] > 0:
-                    product_data[header] = current_rowspans[header]["value"]
-                    current_rowspans[header]["remaining"] -= 1
-                else:
-                    if col_index < len(cells):
-                        cell = cells[col_index]
-                        value = cell.get_text(strip=True)
-
-                        if "rowspan" in cell.attrs:
-                            current_rowspans[header] = {
-                                "value": value,
-                                "remaining": int(cell.attrs["rowspan"]) - 1,
-                            }
-                        else:
-                            current_rowspans[header] = {"value": value, "remaining": 0}
-
-                        product_data[header] = value
-
-                        if header == "Model":
-                            link_tag = cell.find("a", href=True)
-                            product_data["Source link"] = (
-                                "https://en.wikipedia.org" + link_tag["href"]
-                                if link_tag
-                                else None
-                            )
-
-                        col_index += 1
-                    else:
-                        product_data[header] = current_rowspans[header]["value"]
-
-            # Fill missing headers with empty string
-            for header in headers:
-                if header not in product_data or product_data[header] is None:
-                    product_data[header] = current_rowspans.get(header, {}).get(
-                        "value", ""
-                    )
-
-            # Fallback: try to get family link when Model link is missing
-            if "Model" in product_data and not product_data.get("Source link"):
-                try:
-                    family_index = headers.index("Family")
-                    if family_index < len(cells):
-                        family_link_tag = cells[family_index].find("a", href=True)
-                        product_data["Source link"] = (
-                            "https://en.wikipedia.org" + family_link_tag["href"]
-                            if family_link_tag
-                            else None
-                        )
-                except ValueError:
-                    # No Family column
-                    pass
-
-            products.append(product_data)
-
-    return products
+    return all_data
 
 
-def save_products(
-    products: list,
-    json_path: str = "data/apple_products.json",
-    csv_path: str = "data/apple_products.csv",
-):
-    # Write JSON
+def dump_data(data: list[dict], output_dir: Path) -> None:
+    """Save data as JSON and CSV."""
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    # Save as JSON
+    json_path = output_dir / "apple_products.json"
     with open(json_path, "w", encoding="utf-8") as f:
-        json.dump(products, f, ensure_ascii=False, indent=4)
+        json.dump(data, f, indent=2, ensure_ascii=False)
+    print(f"Saved {len(data)} products to {json_path}")
 
-    print(f"Successfully extracted {len(products)} products to {json_path}")
+    # Save as CSV using pandas for better handling
+    csv_path = output_dir / "apple_products.csv"
+    df = pd.DataFrame(data)
 
-    # Write CSV in a safe way - only include columns that exist
-    if products:
-        df = pd.DataFrame(products)
-        preferred = ["Released", "Model", "Family", "Discontinued", "Source link"]
-        cols = [c for c in preferred if c in df.columns]
-        # If none of the preferred columns exist, just write whatever we have
-        if not cols:
-            cols = df.columns.tolist()
+    # Prefer important columns first
+    preferred_cols = [
+        "Model",
+        "Product",
+        "Family",
+        "Released",
+        "Discontinued",
+        "Source link",
+    ]
+    cols = [col for col in preferred_cols if col in df.columns]
+    cols.extend([col for col in df.columns if col not in preferred_cols])
 
-        df = df[cols]
-        df.columns = df.columns.str.lower()
-        df.to_csv(csv_path, index=False)
-        print(f"Successfully exported to {csv_path}")
-    else:
-        print("No products to write to CSV")
+    df = df[cols]
+    df.to_csv(csv_path, index=False)
+    print(f"Saved CSV to {csv_path}")
 
 
-def main(argv=None):
-    argv = argv or sys.argv[1:]
-    url = "https://en.wikipedia.org/wiki/List_of_Apple_products"
+def main() -> int:
+    """Main entry point for dumping Apple product data."""
+    urls = [
+        "https://en.wikipedia.org/wiki/Timeline_of_Apple_Inc._products",
+    ]
 
     try:
-        html = fetch_wikipedia_page(url)
-    except requests.HTTPError as e:
-        print(f"HTTP error while fetching {url}: {e}")
-        return 2
-    except requests.RequestException as e:
-        print(f"Network error while fetching {url}: {e}")
-        return 3
+        output_dir = Path(__file__).resolve().parents[3] / "data"
 
-    products = extract_products_from_html(html)
-    save_products(products)
-    return 0
+        all_data = []
+        for url in urls:
+            print(f"Fetching {url}...", file=sys.stderr)
+            try:
+                page_data = scrape_wiki_page(url)
+                all_data.extend(page_data)
+                print(f"Found {len(page_data)} products", file=sys.stderr)
+            except Exception as e:
+                print(f"Error scraping {url}: {e}", file=sys.stderr)
+                continue
+
+        if not all_data:
+            print("No data was collected!", file=sys.stderr)
+            return 1
+
+        dump_data(all_data, output_dir)
+        print(f"Total products collected: {len(all_data)}", file=sys.stderr)
+        return 0
+
+    except Exception as e:
+        print(f"Error: {e}", file=sys.stderr)
+        return 1
 
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    sys.exit(main())

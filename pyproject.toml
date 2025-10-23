@@ -19,4 +19,4 @@ package-dir = {"" = "src"}
 packages = ["apple_release_dates"]
 
 [project.scripts]
-dump-apple = "apple_release_dates.dump:cli"
+dump-apple = "apple_release_dates.dump:main"
