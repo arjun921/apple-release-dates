@@ -27,7 +27,13 @@ jobs:
         run: |
           # Prefer installing the project which will install dependencies from pyproject.toml
           pip install --upgrade pip setuptools wheel
-          pip install . || pip install -r scripts/requirements.txt
+          # If uv.lock is present, convert it to pinned requirements and install from it for reproducibility
+          if [ -f uv.lock ]; then
+            python scripts/uv_lock_to_requirements.py
+            pip install -r scripts/requirements-pinned.txt
+          else
+            pip install . || pip install -r scripts/requirements.txt
+          fi
 
       - name: Install pre-commit
         run: |
