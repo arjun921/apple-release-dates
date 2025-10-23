@@ -25,15 +25,8 @@ jobs:
       # Install dependencies from project metadata (pyproject.toml)
       - name: Install dependencies
         run: |
-          # Prefer installing the project which will install dependencies from pyproject.toml
           pip install --upgrade pip setuptools wheel
-          # If uv.lock is present, convert it to pinned requirements and install from it for reproducibility
-          if [ -f uv.lock ]; then
-            python scripts/uv_lock_to_requirements.py
-            pip install -r scripts/requirements-pinned.txt
-          else
-            pip install . || pip install -r scripts/requirements.txt
-          fi
+          pip install .
 
       - name: Install pre-commit
         run: |
@@ -42,7 +35,7 @@ jobs:
       # Run data collection and page generation
       - name: Run data collection and page generation
         run: |
-          dump-apple
+          python -m apple_release_dates.dump
           python scripts/generate_pages.py
 
       # Run pre-commit hooks
