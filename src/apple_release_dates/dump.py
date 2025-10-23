@@ -139,8 +139,9 @@ def dump_data(data: list[dict], output_dir: Path) -> None:
 
 def main() -> int:
     """Main entry point for dumping Apple product data."""
+    # Only scrape the single "List of Apple products" page as requested by the user.
     urls = [
-        "https://en.wikipedia.org/wiki/Timeline_of_Apple_Inc._products",
+        "https://en.wikipedia.org/wiki/List_of_Apple_products",
     ]
 
     try:
