@@ -1,4 +1,5 @@
 import re
+import pandas as pd
 
 
 def generate_tags(data):
@@ -11,10 +12,11 @@ def generate_tags(data):
 
 def generate_categories(data):
     categories = []
-    categories.append(data.family)
+    family = str(data.family) if pd.notna(data.family) else "Uncategorized"
+    categories.append(family)
     # categories.append(data.model)
     categories.append(data.released.strftime("%Y"))
-    if "accessories" in data.family.lower():
+    if pd.notna(data.family) and "accessories" in str(data.family).lower():
         categories.append("Accessories")
 
     for folder in data.destination.parts:
