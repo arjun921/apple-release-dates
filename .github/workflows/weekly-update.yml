@@ -3,7 +3,7 @@ name: Weekly Update
 # Schedule the workflow to run every week
 on:
   schedule:
-    - cron: '0 0 * * 2,3,6' # Runs every Tuesday, Wednesday, and Saturday at 00:00 UTC, considering Monday, Tuesday, and Friday as days with most releases
+    - cron: "0 0 * * 2,3,6" # Runs every Tuesday, Wednesday, and Saturday at 00:00 UTC, considering Monday, Tuesday, and Friday as days with most releases
   workflow_dispatch: # Allows manual triggering of the workflow
 
 jobs:
@@ -19,13 +19,15 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x' # Specify the Python version you need
-          cache: 'pip' # caching pip dependencies
+          python-version: "3.x" # Specify the Python version you need
+          cache: "pip" # caching pip dependencies
 
-      # Install dependencies (if required)
+      # Install dependencies from project metadata (pyproject.toml)
       - name: Install dependencies
         run: |
-          pip install -r scripts/requirements.txt
+          # Prefer installing the project which will install dependencies from pyproject.toml
+          pip install --upgrade pip setuptools wheel
+          pip install . || pip install -r scripts/requirements.txt
 
       - name: Install pre-commit
         run: |
@@ -35,8 +37,8 @@ jobs:
       - name: Run Python script
 
         run: |
-            python scripts/dump_apple.py
-            python scripts/generate_pages.py
+          python scripts/dump_apple.py
+          python scripts/generate_pages.py
 
       # Run pre-commit hooks
       - name: Run pre-commit hooks
