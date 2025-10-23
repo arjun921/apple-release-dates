@@ -1,117 +1,172 @@
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 from bs4 import BeautifulSoup
 import json
 import pandas as pd
+import sys
 
-# URL of the Wikipedia page
-url = "https://en.wikipedia.org/wiki/List_of_Apple_products"
 
-# Send a GET request to fetch the page content
-response = requests.get(url)
-response.raise_for_status()
+def fetch_wikipedia_page(url: str, timeout: int = 10) -> str:
+    """Fetch page text from the given URL using a session with retries and a User-Agent.
 
-# Parse the HTML content using BeautifulSoup
-soup = BeautifulSoup(response.text, "html.parser")
+    Raises requests.HTTPError on non-2xx responses.
+    """
+    session = requests.Session()
 
-# Initialize a list to store product information
-products = []
+    # Set a sensible User-Agent to avoid being blocked by Wikipedia
+    session.headers.update(
+        {
+            "User-Agent": "apple-release-dates-bot/1.0 (+https://github.com/arjun921/apple-release-dates)",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        }
+    )
 
-# Find all tables on the page
-tables = soup.find_all("table", {"class": "wikitable"})
+    # Retries for transient network or server errors
+    retries = Retry(
+        total=3,
+        backoff_factor=0.5,
+        status_forcelist=(429, 500, 502, 503, 504),
+        allowed_methods=("GET",),
+    )
+    session.mount("https://", HTTPAdapter(max_retries=retries))
 
-# Process each table
-for table in tables:
-    rows = table.find_all("tr")
+    resp = session.get(url, timeout=timeout)
+    resp.raise_for_status()
+    return resp.text
 
-    # Extract headers
-    headers = [th.get_text(strip=True) for th in rows[0].find_all("th")]
 
-    # Initialize a dictionary to track rowspans for each column
-    current_rowspans = {header: {"value": None, "remaining": 0} for header in headers}
+def extract_products_from_html(html: str) -> list:
+    soup = BeautifulSoup(html, "html.parser")
 
-    # Process each row, skipping the header
-    for row in rows[1:]:
-        cells = row.find_all("td")
-        if not cells:
-            continue  # Skip empty rows
+    products = []
 
-        # Initialize a dictionary for the current row's data
-        product_data = {}
-        col_index = 0  # Track column position in the row
+    tables = soup.find_all("table", {"class": "wikitable"})
 
-        for header in headers:
-            # Handle rowspan propagation
-            if current_rowspans[header]["remaining"] > 0:
-                product_data[header] = current_rowspans[header]["value"]
-                current_rowspans[header]["remaining"] -= 1
-            else:
-                # Assign value from the current cell
-                if col_index < len(cells):
-                    cell = cells[col_index]
-                    value = cell.get_text(strip=True)
+    for table in tables:
+        rows = table.find_all("tr")
+        if not rows:
+            continue
 
-                    # Handle new rowspan
-                    if "rowspan" in cell.attrs:
-                        current_rowspans[header] = {
-                            "value": value,
-                            "remaining": int(cell.attrs["rowspan"]) - 1,
-                        }
+        # Some tables may not have header row structured the same way - guard against that
+        header_cells = rows[0].find_all(["th", "td"])
+        headers = [th.get_text(strip=True) for th in header_cells]
+
+        current_rowspans = {
+            header: {"value": None, "remaining": 0} for header in headers
+        }
+
+        for row in rows[1:]:
+            cells = row.find_all("td")
+            if not cells:
+                continue
+
+            product_data = {}
+            col_index = 0
+
+            for header in headers:
+                if current_rowspans[header]["remaining"] > 0:
+                    product_data[header] = current_rowspans[header]["value"]
+                    current_rowspans[header]["remaining"] -= 1
+                else:
+                    if col_index < len(cells):
+                        cell = cells[col_index]
+                        value = cell.get_text(strip=True)
+
+                        if "rowspan" in cell.attrs:
+                            current_rowspans[header] = {
+                                "value": value,
+                                "remaining": int(cell.attrs["rowspan"]) - 1,
+                            }
+                        else:
+                            current_rowspans[header] = {"value": value, "remaining": 0}
+
+                        product_data[header] = value
+
+                        if header == "Model":
+                            link_tag = cell.find("a", href=True)
+                            product_data["Source link"] = (
+                                "https://en.wikipedia.org" + link_tag["href"]
+                                if link_tag
+                                else None
+                            )
+
+                        col_index += 1
                     else:
-                        current_rowspans[header] = {"value": value, "remaining": 0}
+                        product_data[header] = current_rowspans[header]["value"]
 
-                    product_data[header] = value
+            # Fill missing headers with empty string
+            for header in headers:
+                if header not in product_data or product_data[header] is None:
+                    product_data[header] = current_rowspans.get(header, {}).get(
+                        "value", ""
+                    )
 
-                    # Extract and store the source link for the "Model" column
-                    if header == "Model":
-                        link_tag = cell.find("a", href=True)
+            # Fallback: try to get family link when Model link is missing
+            if "Model" in product_data and not product_data.get("Source link"):
+                try:
+                    family_index = headers.index("Family")
+                    if family_index < len(cells):
+                        family_link_tag = cells[family_index].find("a", href=True)
                         product_data["Source link"] = (
-                            "https://en.wikipedia.org" + link_tag["href"]
-                            if link_tag
+                            "https://en.wikipedia.org" + family_link_tag["href"]
+                            if family_link_tag
                             else None
                         )
+                except ValueError:
+                    # No Family column
+                    pass
 
-                    col_index += 1
-                else:
-                    # If no cell exists, use the previous rowspan value
-                    product_data[header] = current_rowspans[header]["value"]
+            products.append(product_data)
 
-        # Propagate remaining rowspans into the current row
-        for header in headers:
-            if header not in product_data or not product_data[header]:
-                product_data[header] = current_rowspans.get(header, {}).get("value", "")
+    return products
 
-        # Fallback to the Family link if Source link is missing
-        if "Model" in product_data and not product_data.get("Source link"):
-            family_index = headers.index("Family")
-            if family_index < len(cells):
-                family_link_tag = cells[family_index].find("a", href=True)
-                product_data["Source link"] = (
-                    "https://en.wikipedia.org" + family_link_tag["href"]
-                    if family_link_tag
-                    else None
-                )
 
-        # Append the product to the list
-        products.append(product_data)
+def save_products(
+    products: list,
+    json_path: str = "data/apple_products.json",
+    csv_path: str = "data/apple_products.csv",
+):
+    # Write JSON
+    with open(json_path, "w", encoding="utf-8") as f:
+        json.dump(products, f, ensure_ascii=False, indent=4)
 
-# Write to JSON
-output_file = "data/apple_products.json"
+    print(f"Successfully extracted {len(products)} products to {json_path}")
 
-with open(output_file, "w", encoding="utf-8") as f:
-    json.dump(products, f, ensure_ascii=False, indent=4)
+    # Write CSV in a safe way - only include columns that exist
+    if products:
+        df = pd.DataFrame(products)
+        preferred = ["Released", "Model", "Family", "Discontinued", "Source link"]
+        cols = [c for c in preferred if c in df.columns]
+        # If none of the preferred columns exist, just write whatever we have
+        if not cols:
+            cols = df.columns.tolist()
 
-print(f"Successfully extracted {len(products)} products to {output_file}")
+        df = df[cols]
+        df.columns = df.columns.str.lower()
+        df.to_csv(csv_path, index=False)
+        print(f"Successfully exported to {csv_path}")
+    else:
+        print("No products to write to CSV")
 
-# Write to CSV
-output_csv = "data/apple_products.csv"
 
-df = pd.DataFrame(products)
+def main(argv=None):
+    argv = argv or sys.argv[1:]
+    url = "https://en.wikipedia.org/wiki/List_of_Apple_products"
 
-# Reorder the columns for CSV
-columns_order = ["Released", "Model", "Family", "Discontinued", "Source link"]
-df = df[columns_order]
+    try:
+        html = fetch_wikipedia_page(url)
+    except requests.HTTPError as e:
+        print(f"HTTP error while fetching {url}: {e}")
+        return 2
+    except requests.RequestException as e:
+        print(f"Network error while fetching {url}: {e}")
+        return 3
 
-df.columns = df.columns.str.lower()
+    products = extract_products_from_html(html)
+    save_products(products)
+    return 0
 
-df.to_csv(output_csv, index=False)
-print(f"Successfully exported to {output_csv}")
+
+if __name__ == "__main__":
+    raise SystemExit(main())
