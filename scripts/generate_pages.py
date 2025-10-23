@@ -53,7 +53,7 @@ Source: `{data.get('source_link', 'Not available')}`
     return page_format
 
 
-df.dropna(subset=["model"], inplace=True)
+df.dropna(subset=["model", "family"], inplace=True)
 
 parent_map = {
     # key: replaced with value
