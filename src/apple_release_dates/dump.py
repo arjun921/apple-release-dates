@@ -309,7 +309,26 @@ def main() -> int:
     ]
 
     try:
-        output_dir = Path(__file__).resolve().parents[2] / "data"
+        # Try to find the repository root by looking for key files/folders
+        module_dir = Path(__file__).resolve().parent
+        repo_root = None
+
+        # Look up to 4 levels up for the repository root
+        for parent in [module_dir, *module_dir.parents[:4]]:
+            if (parent / "pyproject.toml").exists() and (parent / "data").exists():
+                repo_root = parent
+                break
+
+        if not repo_root:
+            # Fallback to current working directory if repository root not found
+            repo_root = Path.cwd()
+            print(
+                f"Warning: Using current directory as root: {repo_root}",
+                file=sys.stderr,
+            )
+
+        output_dir = repo_root / "data"
+        print(f"Using output directory: {output_dir}", file=sys.stderr)
 
         all_data = []
         for url in urls:
