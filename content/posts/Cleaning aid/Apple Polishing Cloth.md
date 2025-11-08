@@ -1,13 +1,13 @@
 +++
 ShowToc = false
-categories = ['Cleaning aid', '2021', 'Cleaning aid']
-date = 2021-10-26 00:00:00
+categories = ['Cleaning aid', '2023', 'Cleaning aid']
+date = 2023-01-17 00:00:00
 title = "Apple Polishing Cloth"
-tags = ['Cleaning aid', '2021']
+tags = ['Cleaning aid', '2023']
 summary = " "
 
 +++
 
-The Apple Polishing Cloth was released on 2021-10-26 00:00:00.
+The Apple Polishing Cloth was released on 2023-01-17 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Apple_Polishing_Cloth`

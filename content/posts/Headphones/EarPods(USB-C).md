@@ -1,13 +1,13 @@
 +++
 ShowToc = false
-categories = ['Headphones', '2023', 'Headphones']
-date = 2023-09-22 00:00:00
+categories = ['Headphones', '2024', 'Headphones']
+date = 2024-09-09 00:00:00
 title = "EarPods(USB-C)"
-tags = ['Headphones', '2023']
+tags = ['Headphones', '2024']
 summary = " "
 
 +++
 
-The EarPods(USB-C) was released on 2023-09-22 00:00:00.
+The EarPods(USB-C) was released on 2024-09-09 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/EarPods`

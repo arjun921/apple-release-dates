@@ -1,13 +1,13 @@
 +++
 ShowToc = false
-categories = ['iPhone', '2023', 'iPhone']
-date = 2023-09-22 00:00:00
+categories = ['iPhone', '2025', 'iPhone']
+date = 2025-09-09 00:00:00
 title = "iPhone 15 Plus"
-tags = ['iPhone', '2023']
+tags = ['iPhone', '2025']
 summary = " "
 
 +++
 
-The iPhone 15 Plus was released on 2023-09-22 00:00:00.
+The iPhone 15 Plus was released on 2025-09-09 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/IPhone_15`

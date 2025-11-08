@@ -11,5 +11,3 @@ summary = " "
 The Apple Watch Ultra 3 was released on 2025-09-19 00:00:00.
 
 Source: `https://en.wikipedia.org/wiki/Apple_Watch`
-
-
