@@ -2312,67 +2312,19 @@
     "Future release": "false"
   },
   {
-    "Released": "September 20, 2019",
-    "Model": "Apple Watch Hermès Series 5",
-    "Family": "Apple Watch",
-    "Discontinued": "September 15, 2020",
-    "Source link": "https://en.wikipedia.org/wiki/Apple_Watch_Series_5",
-    "Future release": "false"
-  },
-  {
-    "Released": "September 20, 2019",
-    "Model": "Apple Watch Nike Series 5",
-    "Family": "Apple Watch",
-    "Discontinued": "September 15, 2020",
-    "Source link": "https://en.wikipedia.org/wiki/Apple_Watch_Series_5",
-    "Future release": "false"
-  },
-  {
-    "Released": "September 20, 2019",
-    "Model": "Apple Watch Edition Series 5",
-    "Family": "Apple Watch",
-    "Discontinued": "September 15, 2020",
-    "Source link": "https://en.wikipedia.org/wiki/Apple_Watch_Series_5",
-    "Future release": "false"
-  },
-  {
-    "Released": "September 20, 2019",
+    "Released": "April 15, 2020",
     "Model": "iPhone 8(128 GB)",
     "Family": "iPhone",
-    "Discontinued": "April 15, 2020",
+    "Discontinued": "current",
     "Source link": "https://en.wikipedia.org/wiki/IPhone_8",
     "Future release": "false"
   },
   {
-    "Released": "September 20, 2019",
-    "Model": "iPhone 8 Plus(128 GB)",
-    "Family": "iPhone",
-    "Discontinued": "April 15, 2020",
-    "Source link": "https://en.wikipedia.org/wiki/IPhone_8",
-    "Future release": "false"
-  },
-  {
-    "Released": "September 20, 2019",
+    "Released": "April 15, 2020",
     "Model": "iPhone 11",
-    "Family": "iPhone",
-    "Discontinued": "September 7, 2022",
+    "Family": "",
+    "Discontinued": "current",
     "Source link": "https://en.wikipedia.org/wiki/IPhone_11",
-    "Future release": "false"
-  },
-  {
-    "Released": "September 20, 2019",
-    "Model": "iPhone 11 Pro",
-    "Family": "iPhone",
-    "Discontinued": "October 13, 2020",
-    "Source link": "https://en.wikipedia.org/wiki/IPhone_11_Pro",
-    "Future release": "false"
-  },
-  {
-    "Released": "September 20, 2019",
-    "Model": "iPhone 11 Pro Max",
-    "Family": "iPhone",
-    "Discontinued": "October 13, 2020",
-    "Source link": "https://en.wikipedia.org/wiki/IPhone_11_Pro",
     "Future release": "false"
   },
   {
@@ -2384,15 +2336,15 @@
     "Future release": "false"
   },
   {
-    "Released": "March 18, 2020",
+    "Released": "April 20, 2021",
     "Model": "iPad Pro(12.9-inch) (4th generation)",
     "Family": "iPad",
-    "Discontinued": "April 20, 2021",
+    "Discontinued": "current",
     "Source link": "https://en.wikipedia.org/wiki/IPad_Pro",
     "Future release": "false"
   },
   {
-    "Released": "March 18, 2020",
+    "Released": "April 20, 2021",
     "Model": "Magic Keyboard for iPad",
     "Family": "Keyboards",
     "Discontinued": "current",
@@ -2400,7 +2352,7 @@
     "Future release": "false"
   },
   {
-    "Released": "March 18, 2020",
+    "Released": "April 20, 2021",
     "Model": "MacBook Air(Retina, 13-inch, 2020)",
     "Family": "MacBook Air",
     "Discontinued": "November 17, 2020",
@@ -2410,32 +2362,32 @@
   {
     "Released": "May 4, 2020",
     "Model": "MacBook Pro(13-inch, 2020, Two Thunderbolt 3 ports)",
-    "Family": "MacBook Pro",
-    "Discontinued": "November 17, 2020",
+    "Family": "",
+    "Discontinued": "current",
     "Source link": "https://en.wikipedia.org/wiki/MacBook_Pro",
     "Future release": "false"
   },
   {
     "Released": "September 18, 2020",
     "Model": "Apple Watch Hermès Series 6",
-    "Family": "Apple Watch",
-    "Discontinued": "October 8, 2021",
+    "Family": "",
+    "Discontinued": "current",
     "Source link": "https://en.wikipedia.org/wiki/Apple_Watch_Series_6",
     "Future release": "false"
   },
   {
     "Released": "September 18, 2020",
     "Model": "Apple Watch Nike Series 6",
-    "Family": "Apple Watch",
-    "Discontinued": "October 8, 2021",
+    "Family": "",
+    "Discontinued": "current",
     "Source link": "https://en.wikipedia.org/wiki/Apple_Watch_Series_6",
     "Future release": "false"
   },
   {
     "Released": "September 18, 2020",
     "Model": "Apple Watch SE",
-    "Family": "Apple Watch",
-    "Discontinued": "September 7, 2022",
+    "Family": "",
+    "Discontinued": "current",
     "Source link": "https://en.wikipedia.org/wiki/Apple_Watch_SE",
     "Future release": "false"
   },
@@ -2458,16 +2410,16 @@
   {
     "Released": "October 23, 2020",
     "Model": "iPhone 12 Pro",
-    "Family": "iPhone",
-    "Discontinued": "September 14, 2021",
+    "Family": "",
+    "Discontinued": "current",
     "Source link": "https://en.wikipedia.org/wiki/IPhone_12_Pro",
     "Future release": "false"
   },
   {
     "Released": "November 13, 2020",
     "Model": "iPhone 12 Pro Max",
-    "Family": "iPhone",
-    "Discontinued": "September 14, 2021",
+    "Family": "",
+    "Discontinued": "current",
     "Source link": "https://en.wikipedia.org/wiki/IPhone_12_Pro",
     "Future release": "false"
   },
@@ -2488,6 +2440,14 @@
     "Future release": "false"
   },
   {
+    "Released": "November 16, 2020",
+    "Model": "HomePod mini(space gray)",
+    "Family": "",
+    "Discontinued": "current",
+    "Source link": "https://en.wikipedia.org/wiki/HomePod_Mini",
+    "Future release": "false"
+  },
+  {
     "Released": "November 17, 2020",
     "Model": "MacBook Air(13-inch, M1, 2020)",
     "Family": "MacBook Air",
@@ -2504,15 +2464,15 @@
     "Future release": "false"
   },
   {
-    "Released": "May 21, 2021",
-    "Model": "Siri Remote(2nd generation)",
-    "Family": "Apple TV",
-    "Discontinued": "October 18, 2022",
-    "Source link": "https://en.wikipedia.org/wiki/Siri_Remote",
+    "Released": "September 12, 2023",
+    "Model": "AirTag",
+    "Family": "iPhone accessories",
+    "Discontinued": "current",
+    "Source link": "https://en.wikipedia.org/wiki/AirTag_(tracker)",
     "Future release": "false"
   },
   {
-    "Released": "May 21, 2021",
+    "Released": "October 18, 2022",
     "Model": "iMac(24-inch, M1, 2021)",
     "Family": "iMac",
     "Discontinued": "October 30, 2023",
@@ -2520,50 +2480,26 @@
     "Future release": "false"
   },
   {
-    "Released": "May 21, 2021",
+    "Released": "October 28, 2024",
     "Model": "Magic Keyboard (second generation, Lightning)",
     "Family": "Keyboards",
-    "Discontinued": "October 28, 2024",
+    "Discontinued": "current",
     "Source link": "https://en.wikipedia.org/wiki/Magic_Keyboard_(Mac)",
     "Future release": "false"
   },
   {
-    "Released": "May 21, 2021",
-    "Model": "Magic Keyboardwith Touch ID (Lightning)",
-    "Family": "Keyboards",
-    "Discontinued": "October 28, 2024",
-    "Source link": "https://en.wikipedia.org/wiki/Magic_Keyboard_(Mac)",
-    "Future release": "false"
-  },
-  {
-    "Released": "May 21, 2021",
-    "Model": "Magic Keyboardwith Touch ID and Numeric Keypad (Lightning)",
-    "Family": "Keyboards",
-    "Discontinued": "October 28, 2024",
-    "Source link": "https://en.wikipedia.org/wiki/Magic_Keyboard_(Mac)",
-    "Future release": "false"
-  },
-  {
-    "Released": "May 21, 2021",
+    "Released": "October 18, 2022",
     "Model": "iPad Pro(11-inch) (3rd generation)",
     "Family": "iPad",
-    "Discontinued": "October 18, 2022",
-    "Source link": "https://en.wikipedia.org/wiki/IPad_Pro_(5th_generation)",
-    "Future release": "false"
-  },
-  {
-    "Released": "May 21, 2021",
-    "Model": "iPad Pro(12.9-inch) (5th generation)",
-    "Family": "iPad",
-    "Discontinued": "October 18, 2022",
+    "Discontinued": "current",
     "Source link": "https://en.wikipedia.org/wiki/IPad_Pro_(5th_generation)",
     "Future release": "false"
   },
   {
     "Released": "September 24, 2021",
     "Model": "iPad Mini (6th generation)",
-    "Family": "iPad",
-    "Discontinued": "October 15, 2024",
+    "Family": "",
+    "Discontinued": "current",
     "Source link": "https://en.wikipedia.org/wiki/IPad_Mini_(6th_generation)",
     "Future release": "false"
   },
@@ -2578,53 +2514,29 @@
   {
     "Released": "September 24, 2021",
     "Model": "iPhone 13 Mini",
-    "Family": "iPhone",
-    "Discontinued": "September 12, 2023",
+    "Family": "",
+    "Discontinued": "current",
     "Source link": "https://en.wikipedia.org/wiki/IPhone_13",
-    "Future release": "false"
-  },
-  {
-    "Released": "September 24, 2021",
-    "Model": "iPhone 13 Pro",
-    "Family": "iPhone",
-    "Discontinued": "September 7, 2022",
-    "Source link": "https://en.wikipedia.org/wiki/IPhone_13_Pro",
-    "Future release": "false"
-  },
-  {
-    "Released": "September 24, 2021",
-    "Model": "iPhone 13 Pro Max",
-    "Family": "iPhone",
-    "Discontinued": "September 7. 2022",
-    "Source link": "https://en.wikipedia.org/wiki/IPhone_13_Pro",
     "Future release": "false"
   },
   {
     "Released": "October 26, 2021",
     "Model": "MagSafeCharging Case forAirPods Pro",
-    "Family": "Headphones",
-    "Discontinued": "September 7, 2022",
+    "Family": "",
+    "Discontinued": "current",
     "Source link": "https://en.wikipedia.org/wiki/MagSafe_(smartphones)",
     "Future release": "false"
   },
   {
-    "Released": "October 26, 2021",
+    "Released": "January 17, 2023",
     "Model": "MacBook Pro(14-inch, M1 Pro and M1 Max, 2021)",
     "Family": "MacBook Pro",
-    "Discontinued": "January 17, 2023",
+    "Discontinued": "current",
     "Source link": "https://en.wikipedia.org/wiki/MacBook_Pro",
     "Future release": "false"
   },
   {
-    "Released": "October 26, 2021",
-    "Model": "MacBook Pro(16-inch, M1 Pro and M1 Max, 2021)",
-    "Family": "MacBook Pro",
-    "Discontinued": "January 17, 2023",
-    "Source link": "https://en.wikipedia.org/wiki/MacBook_Pro",
-    "Future release": "false"
-  },
-  {
-    "Released": "October 26, 2021",
+    "Released": "January 17, 2023",
     "Model": "Apple Polishing Cloth",
     "Family": "Cleaning aid",
     "Discontinued": "current",
@@ -2632,8 +2544,8 @@
     "Future release": "false"
   },
   {
-    "Released": "October 26, 2021",
-    "Model": "HomePod Mini(blue, orange and yellow)",
+    "Released": "January 17, 2023",
+    "Model": "HomePod mini(yellow)",
     "Family": "Speakers",
     "Discontinued": "current",
     "Source link": "https://en.wikipedia.org/wiki/HomePod_Mini",
@@ -2649,14 +2561,30 @@
   },
   {
     "Released": "March 18, 2022",
-    "Model": "iPhone SE (3rd generation)",
+    "Model": "iPhone 13(green)",
     "Family": "iPhone",
-    "Discontinued": "February 19, 2025",
-    "Source link": "https://en.wikipedia.org/wiki/IPhone_SE_(3rd_generation)",
+    "Discontinued": "September 9, 2024",
+    "Source link": "https://en.wikipedia.org/wiki/IPhone_13",
     "Future release": "false"
   },
   {
     "Released": "March 18, 2022",
+    "Model": "iPhone 13 mini(green)",
+    "Family": "",
+    "Discontinued": "current",
+    "Source link": "https://en.wikipedia.org/wiki/IPhone_13_mini",
+    "Future release": "false"
+  },
+  {
+    "Released": "September 7, 2022",
+    "Model": "iPhone SE (3rd generation)",
+    "Family": "",
+    "Discontinued": "current",
+    "Source link": "https://en.wikipedia.org/wiki/IPhone_SE_(3rd_generation)",
+    "Future release": "false"
+  },
+  {
+    "Released": "September 7, 2022",
     "Model": "Mac Studio",
     "Family": "Mac Studio",
     "Discontinued": "June 5, 2023",
@@ -2680,18 +2608,18 @@
     "Future release": "false"
   },
   {
-    "Released": "September 16, 2022",
+    "Released": "September 12, 2023",
     "Model": "iPhone 14 Pro",
     "Family": "iPhone",
-    "Discontinued": "September 12, 2023",
+    "Discontinued": "current",
     "Source link": "https://en.wikipedia.org/wiki/IPhone_14_Pro",
     "Future release": "false"
   },
   {
-    "Released": "September 16, 2022",
+    "Released": "September 12, 2023",
     "Model": "iPhone 14 Pro Max",
     "Family": "iPhone",
-    "Discontinued": "September 12, 2023",
+    "Discontinued": "current",
     "Source link": "https://en.wikipedia.org/wiki/IPhone_14_Pro",
     "Future release": "false"
   },
@@ -2705,17 +2633,25 @@
   },
   {
     "Released": "October 26, 2022",
+    "Model": "iPad (10th generation)",
+    "Family": "iPad",
+    "Discontinued": "March 4, 2025",
+    "Source link": "https://en.wikipedia.org/wiki/IPad_(10th_generation)",
+    "Future release": "false"
+  },
+  {
+    "Released": "May 7, 2024",
     "Model": "iPad Pro(11-inch) (4th generation)",
     "Family": "iPad",
-    "Discontinued": "May 7, 2024",
+    "Discontinued": "current",
     "Source link": "https://en.wikipedia.org/wiki/IPad_Pro_(6th_generation)",
     "Future release": "false"
   },
   {
-    "Released": "October 26, 2022",
+    "Released": "May 7, 2024",
     "Model": "iPad Pro(12.9-inch) (6th generation)",
     "Family": "iPad",
-    "Discontinued": "May 7, 2024",
+    "Discontinued": "current",
     "Source link": "https://en.wikipedia.org/wiki/IPad_Pro_(6th_generation)",
     "Future release": "false"
   },
@@ -2728,18 +2664,18 @@
     "Future release": "false"
   },
   {
-    "Released": "January 24, 2023",
+    "Released": "October 30, 2023",
     "Model": "MacBook Pro(M2 Pro/M2 Max) (14-inch, 2023)",
     "Family": "MacBook Pro",
-    "Discontinued": "October 30, 2023",
+    "Discontinued": "current",
     "Source link": "https://en.wikipedia.org/wiki/MacBook_Pro",
     "Future release": "false"
   },
   {
-    "Released": "January 24, 2023",
+    "Released": "October 30, 2023",
     "Model": "MacBook Pro(M2 Pro/M2 Max) (16-inch, 2023)",
     "Family": "MacBook Pro",
-    "Discontinued": "October 30, 2023",
+    "Discontinued": "current",
     "Source link": "https://en.wikipedia.org/wiki/MacBook_Pro",
     "Future release": "false"
   },
@@ -2760,47 +2696,47 @@
     "Future release": "false"
   },
   {
-    "Released": "September 22, 2023",
+    "Released": "September 9, 2025",
     "Model": "Apple Watch Ultra 2",
     "Family": "Apple Watch",
-    "Discontinued": "September 9, 2025",
+    "Discontinued": "current",
     "Source link": "https://en.wikipedia.org/wiki/Apple_Watch",
     "Future release": "false"
   },
   {
-    "Released": "September 22, 2023",
+    "Released": "September 9, 2025",
     "Model": "iPhone 15",
     "Family": "iPhone",
-    "Discontinued": "September 9, 2025",
+    "Discontinued": "current",
     "Source link": "https://en.wikipedia.org/wiki/IPhone_15",
     "Future release": "false"
   },
   {
-    "Released": "September 22, 2023",
+    "Released": "September 9, 2025",
     "Model": "iPhone 15 Plus",
     "Family": "iPhone",
-    "Discontinued": "September 9, 2025",
+    "Discontinued": "current",
     "Source link": "https://en.wikipedia.org/wiki/IPhone_15",
     "Future release": "false"
   },
   {
-    "Released": "September 22, 2023",
+    "Released": "September 9, 2024",
     "Model": "iPhone 15 Pro",
     "Family": "iPhone",
-    "Discontinued": "September 9, 2024",
+    "Discontinued": "current",
     "Source link": "https://en.wikipedia.org/wiki/IPhone_15_Pro",
     "Future release": "false"
   },
   {
-    "Released": "September 22, 2023",
+    "Released": "September 9, 2024",
     "Model": "iPhone 15 Pro Max",
     "Family": "iPhone",
-    "Discontinued": "September 9, 2024",
+    "Discontinued": "current",
     "Source link": "https://en.wikipedia.org/wiki/IPhone_15_Pro",
     "Future release": "false"
   },
   {
-    "Released": "September 22, 2023",
+    "Released": "September 9, 2024",
     "Model": "AirPods Pro(2nd generation, USB-C case)",
     "Family": "Headphones",
     "Discontinued": "September 9, 2025",
@@ -2808,7 +2744,7 @@
     "Future release": "false"
   },
   {
-    "Released": "September 22, 2023",
+    "Released": "September 9, 2024",
     "Model": "EarPods(USB-C)",
     "Family": "Headphones",
     "Discontinued": "current",
@@ -2816,18 +2752,18 @@
     "Future release": "false"
   },
   {
-    "Released": "November 7, 2023",
+    "Released": "October 30, 2024",
     "Model": "MacBook Pro(M3/M3 Pro/M3 Max) (14-inch, 2023)",
     "Family": "MacBook Pro",
-    "Discontinued": "October 30, 2024",
+    "Discontinued": "current",
     "Source link": "https://en.wikipedia.org/wiki/MacBook_Pro",
     "Future release": "false"
   },
   {
-    "Released": "November 7, 2023",
+    "Released": "October 30, 2024",
     "Model": "MacBook Pro(M3 Pro/M3 Max) (16-inch, 2023)",
     "Family": "MacBook Pro",
-    "Discontinued": "October 30, 2024",
+    "Discontinued": "current",
     "Source link": "https://en.wikipedia.org/wiki/MacBook_Pro",
     "Future release": "false"
   },
@@ -2841,10 +2777,10 @@
   },
   {
     "Released": "May 15, 2024",
-    "Model": "Magic Keyboard for iPad Pro",
-    "Family": "Keyboards",
+    "Model": "Apple Pencil Pro",
+    "Family": "iPad",
     "Discontinued": "current",
-    "Source link": "https://en.wikipedia.org/wiki/Apple_keyboards#Magic_Keyboard_for_iPad",
+    "Source link": "https://en.wikipedia.org/wiki/Apple_Pencil_Pro",
     "Future release": "false"
   },
   {
@@ -2937,7 +2873,7 @@
   },
   {
     "Released": "October 28, 2024",
-    "Model": "Magic Trackpad 2 (USB-C)",
+    "Model": "Magic Trackpad 2(USB-C)",
     "Family": "Pointing devices",
     "Discontinued": "current",
     "Source link": "https://en.wikipedia.org/wiki/Magic_Trackpad_2",
@@ -2945,7 +2881,7 @@
   },
   {
     "Released": "October 28, 2024",
-    "Model": "Magic Keyboard (second generation, USB-C)",
+    "Model": "Magic Keyboard(second generation, USB-C)",
     "Family": "Keyboards",
     "Discontinued": "current",
     "Source link": "https://en.wikipedia.org/wiki/Magic_Keyboard_(Mac)",
@@ -2997,6 +2933,14 @@
     "Family": "MacBook Pro",
     "Discontinued": "current",
     "Source link": "https://en.wikipedia.org/wiki/MacBook_Pro",
+    "Future release": "false"
+  },
+  {
+    "Released": "March 12, 2025",
+    "Model": "iPad (A16)",
+    "Family": "iPad",
+    "Discontinued": "current",
+    "Source link": "https://en.wikipedia.org/wiki/IPad_(11th_generation)",
     "Future release": "false"
   },
   {
